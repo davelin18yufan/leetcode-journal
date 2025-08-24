@@ -1,0 +1,22 @@
+{
+  "name": "leetcode-journal",
+  "version": "1.0.0",
+  "description": "📝 A personal LeetCode journal with problem simulations, solution notes, and algorithm/data structure insights in Markdown tables.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davelin18yufan/leetcode-journal.git"
+  },
+  "author": "Dave Lin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davelin18yufan/leetcode-journal/issues"
+  },
+  "homepage": "https://github.com/davelin18yufan/leetcode-journal#readme",
+  "devDependencies": {
+    "@google/gemini-cli": "^0.1.22"
+  }
+}
