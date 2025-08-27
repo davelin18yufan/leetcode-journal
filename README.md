@@ -45,6 +45,8 @@
 | 1 | Two Sum | Easy | Hash Table | Array, Hash Map | Finding complementary items in inventory system | ✅ | 2025-08-24 |
 | 2 | Add Two Numbers | Medium | Math, Simulation | Linked List | Adding large numbers in calculator app | ✅ | 2025-08-24 |
 | 3 | Longest Substring Without Repeating Characters | Medium | Sliding Window | String, Hash Set | Finding unique character sequence in password validation | 🔄 | 2025-08-24 |
+| 21 | Merge Two Sorted Lists | Easy | Recursion, Iteration | Linked List | Merging two sorted decks of cards | ✅ | 2025-08-27 |
+| 3407 | Substring Matching Pattern | Medium | String Manipulation | String | Wildcard file search | ✅ | 2025-08-27 |
 
 ---
 
@@ -62,12 +64,14 @@
 | # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
 |---|---------|------------|--------------|-------------------|--------|
 | 3 | Longest Substring Without Repeating Characters | Medium | Sliding Window | Password validation, DNA sequence analysis | Track character positions |
+| 3407 | Substring Matching Pattern | Medium | String Splitting | Wildcard pattern matching | Split by wildcard, check prefix/suffix |
 
 ### Linked List Problems
 
 | # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
 |---|---------|------------|--------------|-------------------|--------|
 | 2 | Add Two Numbers | Medium | Math, Carry handling | Large number arithmetic in financial systems | Handle different list lengths |
+| 21 | Merge Two Sorted Lists | Easy | Recursion, Iteration | Merging sorted data streams | Iterative approach is O(1) space |
 
 ### Stack & Queue Problems
 
@@ -86,6 +90,7 @@
 | # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
 |---|---------|------------|--------------|-------------------|--------|
 | 200 | Number of Islands | Medium | DFS/BFS, Connected Components | Geographic analysis, network clusters | Mark visited cells |
+| 3407 | Substring Matching Pattern | Medium | String Manipulation | Wildcard file search | Split pattern by wildcard |
 
 ### Dynamic Programming Problems
 
@@ -142,6 +147,7 @@
 ### Easy Problems
 - [1. Two Sum](#array-problems)
 - [20. Valid Parentheses](#stack--queue-problems)
+- [21. Merge Two Sorted Lists](#linked-list-problems)
 - [70. Climbing Stairs](#dynamic-programming-problems)
 - [104. Maximum Depth of Binary Tree](#tree-problems)
 
