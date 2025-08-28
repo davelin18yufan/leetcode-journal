@@ -8,6 +8,11 @@ All modification **must strictly follow the rules below**.
 The `README.md` file is the **master index** of all solved problems.  
 It contains **three main sections**:
 
+0. **Statistics**
+- **Total Problems Solved**
+- **Count by difficulty**: 0
+- **Last Updated Date**
+
 1. **Complete Problems Table**
    ```md
    ## 📋 Complete Problems Table
@@ -117,6 +122,7 @@ problems/20-valid-parentheses.md
    * `Category Table`
    * `Difficulty List`
    * (plus a dedicated `/problems/*.md` file)
+6. **Calculate total count at the top after every update.**
 
 ---
 
