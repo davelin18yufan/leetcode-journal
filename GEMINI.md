@@ -122,7 +122,8 @@ problems/20-valid-parentheses.md
    * `Category Table`
    * `Difficulty List`
    * (plus a dedicated `/problems/*.md` file)
-6. **Calculate total count at the top after every update.**
+6. **Calculate total count and update mermaid chart at the top after every update.**
+7. **Real world analogy description around 50 ~ 150 words.** (easy to imaginated.)
 
 ---
 
