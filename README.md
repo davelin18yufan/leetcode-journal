@@ -2,14 +2,14 @@
 
 ## 📊 Quick Statistics
 
-- **Total Problems Solved**: 3
-- **Easy**: 2 | **Medium**: 1 | **Hard**: 0
-- **Last Updated**: 2025-08-29
+- **Total Problems Solved**: 6
+- **Easy**: 5 | **Medium**: 1 | **Hard**: 0
+- **Last Updated**: 2025-08-31
 
 ```mermaid
 pie
     title Problems by Difficulty
-    "Easy" : 2
+    "Easy" : 5
     "Medium" : 1
     "Hard" : 0
 ```
@@ -52,8 +52,11 @@ pie
 | # | Problem | Difficulty | Algorithm | Data Structure | Real-world Scenario | Status | Date |
 |---|---------|------------|-----------|----------------|-------------------|---------|------|
 | 21 | Merge Two Sorted Lists | Easy | Recursion, Iteration | Linked List | Merging two sorted decks of cards | ✅ | 2025-08-27 |
-| 3407 | Substring Matching Pattern | Medium | String Manipulation | String | Wildcard file search | ✅ | 2025-08-27 |
 | 387 | First Unique Character in a String | Easy | Two-Pass Hash Map | Hash Table | Finding first unique item in a data stream | ✅ | 2025-08-29 |
+| 728 | Self Dividing Numbers | Easy | Math | N/A | Quality control for phone numbers | ✅ | 2025-08-31 |
+| 2810 | Faulty Keyboard | Easy | Simulation | String | Simulating a text editor command | ✅ | 2025-08-31 |
+| 3407 | Substring Matching Pattern | Medium | String Manipulation | String | Wildcard file search | ✅ | 2025-08-27 |
+| 3492 | Maximum Containers on a Ship | Easy | Math | N/A | Calculating capacity with multiple constraints | ✅ | 2025-08-31 |
 
 ---
 
@@ -70,6 +73,7 @@ pie
 |---|---------|------------|--------------|-------------------|-------|
 | 3407 | Substring Matching Pattern | Medium | String Splitting | Wildcard pattern matching | Split by wildcard, check prefix/suffix |
 | 387 | First Unique Character in a String | Easy | Two-Pass Hash Map | Data stream analysis | O(N) time, O(1) space for alphabet |
+| 2810 | Faulty Keyboard | Easy | Simulation, Array | Text editor simulation | Use mutable array to build string |
 
 ### Linked List Problems
 
@@ -91,6 +95,13 @@ pie
 
 | # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
 |---|---------|------------|--------------|-------------------|-------|
+
+### General Problems
+
+| # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
+|---|---------|------------|--------------|-------------------|-------|
+| 3492 | Maximum Containers on a Ship | Easy | Math, O(1) | Capacity planning | Direct calculation is better than search |
+| 728 | Self Dividing Numbers | Easy | Math, Modulo | Number validation | Iterate and check digits with modulo |
 
 ### Dynamic Programming Problems
 
@@ -140,6 +151,9 @@ pie
 ### Easy Problems
 - [21. Merge Two Sorted Lists](#linked-list-problems)
 - [387. First Unique Character in a String](#string-problems)
+- [728. Self Dividing Numbers](#general-problems)
+- [2810. Faulty Keyboard](#string-problems)
+- [3492. Maximum Containers on a Ship](#general-problems)
 
 ### Medium Problems
 - [3407. Substring Matching Pattern](#string-problems)
@@ -217,5 +231,5 @@ For each problem, include:
 
 ---
 
-*Last updated: 2025-08-29*
+*Last updated: 2025-08-31*
 *Repository maintained for systematic LeetCode practice tracking*actice tracking**
