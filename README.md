@@ -2,14 +2,14 @@
 
 ## 📊 Quick Statistics
 
-- **Total Problems Solved**: 6
-- **Easy**: 5 | **Medium**: 1 | **Hard**: 0
-- **Last Updated**: 2025-08-31
+- **Total Problems Solved**: 8
+- **Easy**: 7 | **Medium**: 1 | **Hard**: 0
+- **Last Updated**: 2025-09-01
 
 ```mermaid
 pie
     title Problems by Difficulty
-    "Easy" : 5
+    "Easy" : 7
     "Medium" : 1
     "Hard" : 0
 ```
@@ -23,6 +23,7 @@ pie
 - [Stack & Queue](#stack--queue-problems)
 - [Tree](#tree-problems)
 - [Graph](#graph-problems)
+- [Design](#design-problems)
 - [Dynamic Programming](#dynamic-programming-problems)
 - [Binary Search](#binary-search-problems)
 - [Two Pointers](#two-pointers-problems)
@@ -54,7 +55,9 @@ pie
 | 21 | Merge Two Sorted Lists | Easy | Recursion, Iteration | Linked List | Merging two sorted decks of cards | ✅ | 2025-08-27 |
 | 387 | First Unique Character in a String | Easy | Two-Pass Hash Map | Hash Table | Finding first unique item in a data stream | ✅ | 2025-08-29 |
 | 728 | Self Dividing Numbers | Easy | Math | N/A | Quality control for phone numbers | ✅ | 2025-08-31 |
+| 1603 | Design Parking System | Easy | Design, Simulation | Array | Real-time parking garage management | ✅ | 2025-09-01 |
 | 2810 | Faulty Keyboard | Easy | Simulation | String | Simulating a text editor command | ✅ | 2025-08-31 |
+| 3110 | Score of a String | Easy | String Manipulation | String | Calculating elevation change on a hike | ✅ | 2025-09-01 |
 | 3407 | Substring Matching Pattern | Medium | String Manipulation | String | Wildcard file search | ✅ | 2025-08-27 |
 | 3492 | Maximum Containers on a Ship | Easy | Math | N/A | Calculating capacity with multiple constraints | ✅ | 2025-08-31 |
 
@@ -74,6 +77,7 @@ pie
 | 3407 | Substring Matching Pattern | Medium | String Splitting | Wildcard pattern matching | Split by wildcard, check prefix/suffix |
 | 387 | First Unique Character in a String | Easy | Two-Pass Hash Map | Data stream analysis | O(N) time, O(1) space for alphabet |
 | 2810 | Faulty Keyboard | Easy | Simulation, Array | Text editor simulation | Use mutable array to build string |
+| 3110 | Score of a String | Easy | Adjacent Difference | Hiking elevation change analogy | O(N) time, O(1) space single-pass |
 
 ### Linked List Problems
 
@@ -102,6 +106,12 @@ pie
 |---|---------|------------|--------------|-------------------|-------|
 | 3492 | Maximum Containers on a Ship | Easy | Math, O(1) | Capacity planning | Direct calculation is better than search |
 | 728 | Self Dividing Numbers | Easy | Math, Modulo | Number validation | Iterate and check digits with modulo |
+
+### Design Problems
+
+| # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
+|---|---------|------------|--------------|-------------------|-------|
+| 1603 | Design Parking System | Easy | O(1) State Management | Parking garage software | Countdown method simplifies state |
 
 ### Dynamic Programming Problems
 
@@ -152,7 +162,9 @@ pie
 - [21. Merge Two Sorted Lists](#linked-list-problems)
 - [387. First Unique Character in a String](#string-problems)
 - [728. Self Dividing Numbers](#general-problems)
+- [1603. Design Parking System](#design-problems)
 - [2810. Faulty Keyboard](#string-problems)
+- [3110. Score of a String](#string-problems)
 - [3492. Maximum Containers on a Ship](#general-problems)
 
 ### Medium Problems
@@ -231,5 +243,5 @@ For each problem, include:
 
 ---
 
-*Last updated: 2025-08-31*
+*Last updated: 2025-09-01*
 *Repository maintained for systematic LeetCode practice tracking*actice tracking**
