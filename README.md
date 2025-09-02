@@ -2,14 +2,14 @@
 
 ## 📊 Quick Statistics
 
-- **Total Problems Solved**: 8
-- **Easy**: 7 | **Medium**: 1 | **Hard**: 0
-- **Last Updated**: 2025-09-01
+- **Total Problems Solved**: 10
+- **Easy**: 9 | **Medium**: 1 | **Hard**: 0
+- **Last Updated**: 2025-09-02
 
 ```mermaid
 pie
     title Problems by Difficulty
-    "Easy" : 7
+    "Easy" : 9
     "Medium" : 1
     "Hard" : 0
 ```
@@ -53,6 +53,7 @@ pie
 | # | Problem | Difficulty | Algorithm | Data Structure | Real-world Scenario | Status | Date |
 |---|---------|------------|-----------|----------------|-------------------|---------|------|
 | 21 | Merge Two Sorted Lists | Easy | Recursion, Iteration | Linked List | Merging two sorted decks of cards | ✅ | 2025-08-27 |
+| 83 | Remove Duplicates from Sorted List | Easy | Single Pointer | Linked List | De-duplicating a sorted sequence | 🤔 | 2025-09-02 |
 | 387 | First Unique Character in a String | Easy | Two-Pass Hash Map | Hash Table | Finding first unique item in a data stream | ✅ | 2025-08-29 |
 | 728 | Self Dividing Numbers | Easy | Math | N/A | Quality control for phone numbers | ✅ | 2025-08-31 |
 | 1603 | Design Parking System | Easy | Design, Simulation | Array | Real-time parking garage management | ✅ | 2025-09-01 |
@@ -60,6 +61,7 @@ pie
 | 3110 | Score of a String | Easy | String Manipulation | String | Calculating elevation change on a hike | ✅ | 2025-09-01 |
 | 3407 | Substring Matching Pattern | Medium | String Manipulation | String | Wildcard file search | ✅ | 2025-08-27 |
 | 3492 | Maximum Containers on a Ship | Easy | Math | N/A | Calculating capacity with multiple constraints | ✅ | 2025-08-31 |
+| 2269 | Find the K-Beauty of a Number | Easy | Sliding Window | String | Analyzing patterns in time-series data | ✅ | 2025-09-02 |
 
 ---
 
@@ -84,6 +86,7 @@ pie
 | # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
 |---|---------|------------|--------------|-------------------|-------|
 | 21 | Merge Two Sorted Lists | Easy | Recursion, Iteration | Merging sorted data streams | Iterative approach is O(1) space |
+| 83 | Remove Duplicates from Sorted List | Easy | Single Pointer, In-place | De-duplicating sorted train cars | O(N) time, O(1) space. A core pattern. |
 
 ### Stack & Queue Problems
 
@@ -132,6 +135,7 @@ pie
 
 | # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
 |---|---------|------------|--------------|-------------------|-------|
+| 2269 | Find the K-Beauty of a Number | Easy | Sliding Window, String | Stock data pattern analysis | O(L) time, single-pass solution. |
 
 ### Backtracking Problems
 
@@ -160,12 +164,14 @@ pie
 
 ### Easy Problems
 - [21. Merge Two Sorted Lists](#linked-list-problems)
+- [83. Remove Duplicates from Sorted List](#linked-list-problems)
 - [387. First Unique Character in a String](#string-problems)
 - [728. Self Dividing Numbers](#general-problems)
 - [1603. Design Parking System](#design-problems)
 - [2810. Faulty Keyboard](#string-problems)
 - [3110. Score of a String](#string-problems)
 - [3492. Maximum Containers on a Ship](#general-problems)
+- [2269. Find the K-Beauty of a Number](#sliding-window-problems)
 
 ### Medium Problems
 - [3407. Substring Matching Pattern](#string-problems)
