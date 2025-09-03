@@ -2,14 +2,14 @@
 
 ## 📊 Quick Statistics
 
-- **Total Problems Solved**: 10
-- **Easy**: 9 | **Medium**: 1 | **Hard**: 0
-- **Last Updated**: 2025-09-02
+- **Total Problems Solved**: 11
+- **Easy**: 10 | **Medium**: 1 | **Hard**: 0
+- **Last Updated**: 2025-09-03
 
 ```mermaid
 pie
     title Problems by Difficulty
-    "Easy" : 9
+    "Easy" : 10
     "Medium" : 1
     "Hard" : 0
 ```
@@ -62,6 +62,7 @@ pie
 | 3407 | Substring Matching Pattern | Medium | String Manipulation | String | Wildcard file search | ✅ | 2025-08-27 |
 | 3492 | Maximum Containers on a Ship | Easy | Math | N/A | Calculating capacity with multiple constraints | ✅ | 2025-08-31 |
 | 2269 | Find the K-Beauty of a Number | Easy | Sliding Window | String | Analyzing patterns in time-series data | ✅ | 2025-09-02 |
+| 1221 | Split a String in Balanced Strings | Easy | Greedy, Counting | String | Balancing steps on a path | ✅ | 2025-09-03 |
 
 ---
 
@@ -79,7 +80,8 @@ pie
 | 3407 | Substring Matching Pattern | Medium | String Splitting | Wildcard pattern matching | Split by wildcard, check prefix/suffix |
 | 387 | First Unique Character in a String | Easy | Two-Pass Hash Map | Data stream analysis | O(N) time, O(1) space for alphabet |
 | 2810 | Faulty Keyboard | Easy | Simulation, Array | Text editor simulation | Use mutable array to build string |
-| 3110 | Score of a String | Easy | Adjacent Difference | Hiking elevation change analogy | O(N) time, O(1) space single-pass |
+| 3110 | Score of a String | Easy | String Manipulation | Hiking elevation change analogy | O(N) time, O(1) space single-pass |
+| 1221 | Split a String in Balanced Strings | Easy | Greedy, Counting | Balancing steps on a path | O(N) time, O(1) space with a single counter. |
 
 ### Linked List Problems
 
@@ -146,6 +148,7 @@ pie
 
 | # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
 |---|---------|------------|--------------|-------------------|-------|
+| 1221 | Split a String in Balanced Strings | Easy | Counting | Balancing steps on a path | Split as soon as balance is 0 for max splits. |
 
 ### Sorting Problems
 
@@ -167,11 +170,12 @@ pie
 - [83. Remove Duplicates from Sorted List](#linked-list-problems)
 - [387. First Unique Character in a String](#string-problems)
 - [728. Self Dividing Numbers](#general-problems)
+- [1221. Split a String in Balanced Strings](#string-problems)
 - [1603. Design Parking System](#design-problems)
+- [2269. Find the K-Beauty of a Number](#sliding-window-problems)
 - [2810. Faulty Keyboard](#string-problems)
 - [3110. Score of a String](#string-problems)
 - [3492. Maximum Containers on a Ship](#general-problems)
-- [2269. Find the K-Beauty of a Number](#sliding-window-problems)
 
 ### Medium Problems
 - [3407. Substring Matching Pattern](#string-problems)
@@ -249,5 +253,5 @@ For each problem, include:
 
 ---
 
-*Last updated: 2025-09-01*
-*Repository maintained for systematic LeetCode practice tracking*actice tracking**
+*Last updated: 2025-09-03*
+*Repository maintained for systematic LeetCode practice tracking*
