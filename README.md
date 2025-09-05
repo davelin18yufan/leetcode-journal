@@ -2,14 +2,14 @@
 
 ## 📊 Quick Statistics
 
-- **Total Problems Solved**: 11
-- **Easy**: 10 | **Medium**: 1 | **Hard**: 0
-- **Last Updated**: 2025-09-03
+- **Total Problems Solved**: 12
+- **Easy**: 11 | **Medium**: 1 | **Hard**: 0
+- **Last Updated**: 2025-09-05
 
 ```mermaid
 pie
     title Problems by Difficulty
-    "Easy" : 10
+    "Easy" : 11
     "Medium" : 1
     "Hard" : 0
 ```
@@ -52,6 +52,7 @@ pie
 
 | # | Problem | Difficulty | Algorithm | Data Structure | Real-world Scenario | Status | Date |
 |---|---------|------------|-----------|----------------|-------------------|---------|------|
+| 1678 | [Goal Parser Interpretation](./problems/1678-goal-parser-interpretation.md) | Easy | String Manipulation | String | Telegraph operator decoding messages | ✅ | 2025-09-05 |
 | 21 | Merge Two Sorted Lists | Easy | Recursion, Iteration | Linked List | Merging two sorted decks of cards | ✅ | 2025-08-27 |
 | 83 | Remove Duplicates from Sorted List | Easy | Single Pointer | Linked List | De-duplicating a sorted sequence | 🤔 | 2025-09-02 |
 | 387 | First Unique Character in a String | Easy | Two-Pass Hash Map | Hash Table | Finding first unique item in a data stream | ✅ | 2025-08-29 |
@@ -77,6 +78,7 @@ pie
 
 | # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
 |---|---------|------------|--------------|-------------------|-------|
+| 1678 | [Goal Parser Interpretation](./problems/1678-goal-parser-interpretation.md) | Easy | String Manipulation, Look-Ahead | Telegraph operator decoding messages | Replace `()` with `o` and `(al)` with `al`. |
 | 3407 | Substring Matching Pattern | Medium | String Splitting | Wildcard pattern matching | Split by wildcard, check prefix/suffix |
 | 387 | First Unique Character in a String | Easy | Two-Pass Hash Map | Data stream analysis | O(N) time, O(1) space for alphabet |
 | 2810 | Faulty Keyboard | Easy | Simulation, Array | Text editor simulation | Use mutable array to build string |
@@ -171,6 +173,7 @@ pie
 - [387. First Unique Character in a String](#string-problems)
 - [728. Self Dividing Numbers](#general-problems)
 - [1221. Split a String in Balanced Strings](#string-problems)
+- [1678. Goal Parser Interpretation](#string-problems)
 - [1603. Design Parking System](#design-problems)
 - [2269. Find the K-Beauty of a Number](#sliding-window-problems)
 - [2810. Faulty Keyboard](#string-problems)
