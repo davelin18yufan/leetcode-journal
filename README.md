@@ -2,14 +2,14 @@
 
 ## 📊 Quick Statistics
 
-- **Total Problems Solved**: 12
-- **Easy**: 11 | **Medium**: 1 | **Hard**: 0
-- **Last Updated**: 2025-09-05
+- **Total Problems Solved**: 15
+- **Easy**: 14 | **Medium**: 1 | **Hard**: 0
+- **Last Updated**: 2025-09-06
 
 ```mermaid
 pie
     title Problems by Difficulty
-    "Easy" : 11
+    "Easy" : 14
     "Medium" : 1
     "Hard" : 0
 ```
@@ -23,6 +23,7 @@ pie
 - [Stack & Queue](#stack--queue-problems)
 - [Tree](#tree-problems)
 - [Graph](#graph-problems)
+- [Math](#math-problems)
 - [Design](#design-problems)
 - [Dynamic Programming](#dynamic-programming-problems)
 - [Binary Search](#binary-search-problems)
@@ -52,6 +53,9 @@ pie
 
 | # | Problem | Difficulty | Algorithm | Data Structure | Real-world Scenario | Status | Date |
 |---|---------|------------|-----------|----------------|-------------------|---------|------|
+| 993 | [Cousins in Binary Tree](./problems/993-cousins-in-binary-tree.md) | Easy | BFS | Tree | A genealogist checking if two people are in the same generation with different parents. | 🤔 | 2025-09-06 |
+| 94 | [Binary Tree Inorder Traversal](./problems/94-binary-tree-inorder-traversal.md) | Easy | DFS | Tree | A librarian listing books on a shelf following a 'Left -> Self -> Right' rule. | 🤔 | 2025-09-06 |
+| 3099 | [Harshad Number](./problems/3099-harshad-number.md) | Easy | Math | N/A | A number is a "Team Player" if it's divisible by its "teamwork contribution" (sum of digits). | ✅ | 2025-09-06 |
 | 1678 | [Goal Parser Interpretation](./problems/1678-goal-parser-interpretation.md) | Easy | String Manipulation | String | Telegraph operator decoding messages | ✅ | 2025-09-05 |
 | 21 | Merge Two Sorted Lists | Easy | Recursion, Iteration | Linked List | Merging two sorted decks of cards | ✅ | 2025-08-27 |
 | 83 | Remove Duplicates from Sorted List | Easy | Single Pointer | Linked List | De-duplicating a sorted sequence | 🤔 | 2025-09-02 |
@@ -101,11 +105,19 @@ pie
 
 | # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
 |---|---------|------------|--------------|-------------------|-------|
+| 94 | [Binary Tree Inorder Traversal](./problems/94-binary-tree-inorder-traversal.md) | Easy | Recursion, DFS | Librarian analogy for `Left -> Root -> Right`. | Standard recursive helper pattern is key. |
+| 993 | [Cousins in Binary Tree](./problems/993-cousins-in-binary-tree.md) | Easy | BFS, Level-Order | Genealogist analogy for same depth, different parents. | BFS is natural for level-based problems. |
 
 ### Graph Problems
 
 | # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
 |---|---------|------------|--------------|-------------------|-------|
+
+### Math Problems
+
+| # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
+|---|---------|------------|--------------|-------------------|-------|
+| 3099 | [Harshad Number](./problems/3099-harshad-number.md) | Easy | Digit Sum, Divisibility | A number is a "Team Player" if it's divisible by its "teamwork contribution" (sum of digits). | Calculate digit sum, then check divisibility. |
 
 ### General Problems
 
@@ -170,8 +182,10 @@ pie
 ### Easy Problems
 - [21. Merge Two Sorted Lists](#linked-list-problems)
 - [83. Remove Duplicates from Sorted List](#linked-list-problems)
+- [94. Binary Tree Inorder Traversal](#tree-problems)
 - [387. First Unique Character in a String](#string-problems)
 - [728. Self Dividing Numbers](#general-problems)
+- [993. Cousins in Binary Tree](#tree-problems)
 - [1221. Split a String in Balanced Strings](#string-problems)
 - [1678. Goal Parser Interpretation](#string-problems)
 - [1603. Design Parking System](#design-problems)
@@ -179,6 +193,7 @@ pie
 - [2810. Faulty Keyboard](#string-problems)
 - [3110. Score of a String](#string-problems)
 - [3492. Maximum Containers on a Ship](#general-problems)
+- [3099. Harshad Number](#math-problems)
 
 ### Medium Problems
 - [3407. Substring Matching Pattern](#string-problems)

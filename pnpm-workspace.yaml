@@ -1,2 +1,3 @@
 onlyBuiltDependencies:
+  - '@lvce-editor/ripgrep'
   - node-pty
