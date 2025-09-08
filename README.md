@@ -2,14 +2,14 @@
 
 ## 📊 Quick Statistics
 
-- **Total Problems Solved**: 16
-- **Easy**: 15 | **Medium**: 1 | **Hard**: 0
+- **Total Problems Solved**: 17
+- **Easy**: 16 | **Medium**: 1 | **Hard**: 0
 - **Last Updated**: 2025-09-08
 
 ```mermaid
 pie
     title Problems by Difficulty
-    "Easy" : 15
+    "Easy" : 16
     "Medium" : 1
     "Hard" : 0
 ```
@@ -53,6 +53,7 @@ pie
 
 | # | Problem | Difficulty | Algorithm | Data Structure | Real-world Scenario | Status | Date |
 |---|---------|------------|-----------|----------------|-------------------|---------|------|
+| 543 | [Diameter of Binary Tree](./problems/543-diameter-of-binary-tree.md) | Easy | Depth-First Search | Tree | Mapping a cave system to find the longest path. | 🤔 | 2025-09-08 |
 | 3146 | [Permutation Difference between Two Strings](./problems/3146-permutation-difference-between-two-strings.md) | Easy | Hash Table | String | Organizing a race and calculating a shuffling score. | ✅ | 2025-09-08 |
 | 993 | [Cousins in Binary Tree](./problems/993-cousins-in-binary-tree.md) | Easy | BFS | Tree | A genealogist checking if two people are in the same generation with different parents. | 🤔 | 2025-09-06 |
 | 94 | [Binary Tree Inorder Traversal](./problems/94-binary-tree-inorder-traversal.md) | Easy | DFS | Tree | A librarian listing books on a shelf following a 'Left -> Self -> Right' rule. | 🤔 | 2025-09-06 |
@@ -107,6 +108,7 @@ pie
 
 | # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
 |---|---------|------------|--------------|-------------------|-------|
+| 543 | [Diameter of Binary Tree](./problems/543-diameter-of-binary-tree.md) | Easy | DFS, Recursion | Finding the longest path in a branching structure. | A dual-purpose recursive function is the key. |
 | 94 | [Binary Tree Inorder Traversal](./problems/94-binary-tree-inorder-traversal.md) | Easy | Recursion, DFS | Librarian analogy for `Left -> Root -> Right`. | Standard recursive helper pattern is key. |
 | 993 | [Cousins in Binary Tree](./problems/993-cousins-in-binary-tree.md) | Easy | BFS, Level-Order | Genealogist analogy for same depth, different parents. | BFS is natural for level-based problems. |
 
@@ -187,6 +189,7 @@ pie
 - [83. Remove Duplicates from Sorted List](#linked-list-problems)
 - [94. Binary Tree Inorder Traversal](#tree-problems)
 - [387. First Unique Character in a String](#string-problems)
+- [543. Diameter of Binary Tree](#tree-problems)
 - [728. Self Dividing Numbers](#general-problems)
 - [993. Cousins in Binary Tree](#tree-problems)
 - [1221. Split a String in Balanced Strings](#string-problems)
