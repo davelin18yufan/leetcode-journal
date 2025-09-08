@@ -2,14 +2,14 @@
 
 ## 📊 Quick Statistics
 
-- **Total Problems Solved**: 15
-- **Easy**: 14 | **Medium**: 1 | **Hard**: 0
-- **Last Updated**: 2025-09-06
+- **Total Problems Solved**: 16
+- **Easy**: 15 | **Medium**: 1 | **Hard**: 0
+- **Last Updated**: 2025-09-08
 
 ```mermaid
 pie
     title Problems by Difficulty
-    "Easy" : 14
+    "Easy" : 15
     "Medium" : 1
     "Hard" : 0
 ```
@@ -53,6 +53,7 @@ pie
 
 | # | Problem | Difficulty | Algorithm | Data Structure | Real-world Scenario | Status | Date |
 |---|---------|------------|-----------|----------------|-------------------|---------|------|
+| 3146 | [Permutation Difference between Two Strings](./problems/3146-permutation-difference-between-two-strings.md) | Easy | Hash Table | String | Organizing a race and calculating a shuffling score. | ✅ | 2025-09-08 |
 | 993 | [Cousins in Binary Tree](./problems/993-cousins-in-binary-tree.md) | Easy | BFS | Tree | A genealogist checking if two people are in the same generation with different parents. | 🤔 | 2025-09-06 |
 | 94 | [Binary Tree Inorder Traversal](./problems/94-binary-tree-inorder-traversal.md) | Easy | DFS | Tree | A librarian listing books on a shelf following a 'Left -> Self -> Right' rule. | 🤔 | 2025-09-06 |
 | 3099 | [Harshad Number](./problems/3099-harshad-number.md) | Easy | Math | N/A | A number is a "Team Player" if it's divisible by its "teamwork contribution" (sum of digits). | ✅ | 2025-09-06 |
@@ -82,6 +83,7 @@ pie
 
 | # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
 |---|---------|------------|--------------|-------------------|-------|
+| 3146 | [Permutation Difference between Two Strings](./problems/3146-permutation-difference-between-two-strings.md) | Easy | Hash Table, Two-Pass | Calculating a "shuffling score" in a race. | Optimal O(N) time and O(K) space solution. |
 | 1678 | [Goal Parser Interpretation](./problems/1678-goal-parser-interpretation.md) | Easy | String Manipulation, Look-Ahead | Telegraph operator decoding messages | Replace `()` with `o` and `(al)` with `al`. |
 | 3407 | Substring Matching Pattern | Medium | String Splitting | Wildcard pattern matching | Split by wildcard, check prefix/suffix |
 | 387 | First Unique Character in a String | Easy | Two-Pass Hash Map | Data stream analysis | O(N) time, O(1) space for alphabet |
@@ -173,6 +175,7 @@ pie
 
 | # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
 |---|---------|------------|--------------|-------------------|-------|
+| 3146 | [Permutation Difference between Two Strings](./problems/3146-permutation-difference-between-two-strings.md) | Easy | Two-Pass, Map | Calculating a "shuffling score" in a race. | Optimal O(N) time and O(K) space solution. |
 | 387 | First Unique Character in a String | Easy | Frequency Counter | Finding first unique element in a sequence | Two-pass scan for efficiency |
 
 ---
@@ -192,6 +195,7 @@ pie
 - [2269. Find the K-Beauty of a Number](#sliding-window-problems)
 - [2810. Faulty Keyboard](#string-problems)
 - [3110. Score of a String](#string-problems)
+- [3146. Permutation Difference between Two Strings](#string-problems)
 - [3492. Maximum Containers on a Ship](#general-problems)
 - [3099. Harshad Number](#math-problems)
 
@@ -213,7 +217,7 @@ For each problem, include:
 - **Topics**: Algorithm types, Data structures
 - **Real-world Application**: Practical use case
 - **Key Insights**: Important observations
-- **Time Complexity**: Big O notation
+- [ ] Time Complexity**: Big O notation
 - **Space Complexity**: Big O notation
 - **Alternative Approaches**: Other solutions
 - **Edge Cases**: Special scenarios to consider

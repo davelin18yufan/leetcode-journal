@@ -9,8 +9,8 @@ importers:
   .:
     devDependencies:
       '@google/gemini-cli':
-        specifier: ^0.3.3
-        version: 0.3.3
+        specifier: ^0.3.4
+        version: 0.3.4
 
 packages:
 
@@ -26,12 +26,12 @@ packages:
     resolution: {integrity: sha512-D2hP9eA+Sqx1kBZgzxZh0y1trbuU+JoDkiEwqhQ36nodYqJwyEIhPSdMNd7lOm/4io72luTPWH20Yda0xOuUow==}
     engines: {node: '>=6.9.0'}
 
-  '@google/gemini-cli-core@0.3.3':
-    resolution: {integrity: sha512-puyftYPF2YvMdfxs+18aqen44eQ6h9WKW1a44ws8m27tZ7H6qDpoimF+EkvUvG0bW9Ha7Jq/XTHzBnddXngqWw==}
+  '@google/gemini-cli-core@0.3.4':
+    resolution: {integrity: sha512-aaR2NE2XutO8fyNKySxgMnqxgqL4etK/opGK6I3ebtIahB4lNRRZ3fCbltLqqQAhPC6vOAIUTbOwOxkOXPgasA==}
     engines: {node: '>=20'}
 
-  '@google/gemini-cli@0.3.3':
-    resolution: {integrity: sha512-7dTj5FnxO0g6mfA353rjEtvfnxkMOMlmviFP7Oni39gsCGF4qG1jna4uzARSNdwJopPNMIXuypGIQRGIKF6Y+g==}
+  '@google/gemini-cli@0.3.4':
+    resolution: {integrity: sha512-rFwzm88+nlVcwlWNWbSL5NeSzXQC9C10eG31XEF7VUt80PvNMmIKpYApUwH42d8SOLO2Dohto4DaWg2K4wOdrA==}
     engines: {node: '>=20'}
     hasBin: true
 
@@ -1779,7 +1779,7 @@ snapshots:
 
   '@babel/helper-validator-identifier@7.27.1': {}
 
-  '@google/gemini-cli-core@0.3.3':
+  '@google/gemini-cli-core@0.3.4':
     dependencies:
       '@google/genai': 1.13.0(@modelcontextprotocol/sdk@1.17.5)
       '@lvce-editor/ripgrep': 1.6.0
@@ -1833,9 +1833,9 @@ snapshots:
       - supports-color
       - utf-8-validate
 
-  '@google/gemini-cli@0.3.3':
+  '@google/gemini-cli@0.3.4':
     dependencies:
-      '@google/gemini-cli-core': 0.3.3
+      '@google/gemini-cli-core': 0.3.4
       '@google/genai': 1.13.0(@modelcontextprotocol/sdk@1.17.5)
       '@iarna/toml': 2.2.5
       '@modelcontextprotocol/sdk': 1.17.5
