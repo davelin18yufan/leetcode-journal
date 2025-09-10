@@ -2,14 +2,14 @@
 
 ## 📊 Quick Statistics
 
-- **Total Problems Solved**: 17
-- **Easy**: 16 | **Medium**: 1 | **Hard**: 0
-- **Last Updated**: 2025-09-08
+- **Total Problems Solved**: 18
+- **Easy**: 17 | **Medium**: 1 | **Hard**: 0
+- **Last Updated**: 2025-09-10
 
 ```mermaid
 pie
     title Problems by Difficulty
-    "Easy" : 16
+    "Easy" : 17
     "Medium" : 1
     "Hard" : 0
 ```
@@ -53,6 +53,7 @@ pie
 
 | # | Problem | Difficulty | Algorithm | Data Structure | Real-world Scenario | Status | Date |
 |---|---------|------------|-----------|----------------|-------------------|---------|------|
+| 2255 | [Count Prefixes of a Given String](./problems/2255-count-prefixes-of-a-given-string.md) | Easy | String Manipulation | Array, String | Autocomplete in a search bar. | ✅ | 2025-09-10 |
 | 543 | [Diameter of Binary Tree](./problems/543-diameter-of-binary-tree.md) | Easy | Depth-First Search | Tree | Mapping a cave system to find the longest path. | 🤔 | 2025-09-08 |
 | 3146 | [Permutation Difference between Two Strings](./problems/3146-permutation-difference-between-two-strings.md) | Easy | Hash Table | String | Organizing a race and calculating a shuffling score. | ✅ | 2025-09-08 |
 | 993 | [Cousins in Binary Tree](./problems/993-cousins-in-binary-tree.md) | Easy | BFS | Tree | A genealogist checking if two people are in the same generation with different parents. | 🤔 | 2025-09-06 |
@@ -79,11 +80,13 @@ pie
 
 | # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
 |---|---------|------------|--------------|-------------------|-------|
+| 2255 | [Count Prefixes of a Given String](./problems/2255-count-prefixes-of-a-given-string.md) | Easy | String Manipulation, Iteration | Autocomplete suggestions. | Optimal O(N*M) solution using `startsWith`. |
 
 ### String Problems
 
 | # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
 |---|---------|------------|--------------|-------------------|-------|
+| 2255 | [Count Prefixes of a Given String](./problems/2255-count-prefixes-of-a-given-string.md) | Easy | Iteration, `startsWith` | Autocomplete suggestions. | Optimal O(N*M) solution for single-pass check. |
 | 3146 | [Permutation Difference between Two Strings](./problems/3146-permutation-difference-between-two-strings.md) | Easy | Hash Table, Two-Pass | Calculating a "shuffling score" in a race. | Optimal O(N) time and O(K) space solution. |
 | 1678 | [Goal Parser Interpretation](./problems/1678-goal-parser-interpretation.md) | Easy | String Manipulation, Look-Ahead | Telegraph operator decoding messages | Replace `()` with `o` and `(al)` with `al`. |
 | 3407 | Substring Matching Pattern | Medium | String Splitting | Wildcard pattern matching | Split by wildcard, check prefix/suffix |
@@ -193,14 +196,15 @@ pie
 - [728. Self Dividing Numbers](#general-problems)
 - [993. Cousins in Binary Tree](#tree-problems)
 - [1221. Split a String in Balanced Strings](#string-problems)
-- [1678. Goal Parser Interpretation](#string-problems)
 - [1603. Design Parking System](#design-problems)
+- [1678. Goal Parser Interpretation](#string-problems)
+- [2255. Count Prefixes of a Given String](#array-problems)
 - [2269. Find the K-Beauty of a Number](#sliding-window-problems)
 - [2810. Faulty Keyboard](#string-problems)
+- [3099. Harshad Number](#math-problems)
 - [3110. Score of a String](#string-problems)
 - [3146. Permutation Difference between Two Strings](#string-problems)
 - [3492. Maximum Containers on a Ship](#general-problems)
-- [3099. Harshad Number](#math-problems)
 
 ### Medium Problems
 - [3407. Substring Matching Pattern](#string-problems)
