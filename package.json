@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/davelin18yufan/leetcode-journal#readme",
   "devDependencies": {
-    "@google/gemini-cli": "^0.4.0"
+    "@google/gemini-cli": "^0.4.1"
   }
 }
