@@ -2,14 +2,14 @@
 
 ## 📊 Quick Statistics
 
-- **Total Problems Solved**: 21
-- **Easy**: 20 | **Medium**: 1 | **Hard**: 0
-- **Last Updated**: 2025-09-14
+- **Total Problems Solved**: 22
+- **Easy**: 21 | **Medium**: 1 | **Hard**: 0
+- **Last Updated**: 2025-09-15
 
 ```mermaid
 pie
     title Problems by Difficulty
-    "Easy" : 20
+    "Easy" : 21
     "Medium" : 1
     "Hard" : 0
 ```
@@ -53,6 +53,7 @@ pie
 
 | # | Problem | Difficulty | Algorithm | Data Structure | Real-world Scenario | Status | Date |
 |---|---------|------------|-----------|----------------|-------------------|---------|------|
+| 1800 | [Maximum Ascending Subarray Sum](./problems/1800-maximum-ascending-subarray-sum.md) | Easy | Single Pass | Array | Finding the most profitable period of uninterrupted stock growth. | ✅ | 2025-09-15 |
 | 1380 | [Lucky Numbers in a Matrix](./problems/1380-lucky-numbers-in-a-matrix.md) | Easy | Matrix | Array, Set | Finding a "saddle point" on a topographical map. | ✅ | 2025-09-14 |
 | 326 | [Power of Three](./problems/326-power-of-three.md) | Easy | Math | N/A | Checking if a set of Russian Nesting Dolls is a 'perfect power-of-three set'. | ✅ | 2025-09-14 |
 | 1995 | [Count Special Quadruplets](./problems/1995-count-special-quadruplets.md) | Easy | Hash Table, Enumeration | Array, Hash Table | Counting combinations for a target sum. | 🤔 | 2025-09-11 |
@@ -83,6 +84,7 @@ pie
 
 | # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
 |---|---------|------------|--------------|-------------------|-------|
+| 1800 | [Maximum Ascending Subarray Sum](./problems/1800-maximum-ascending-subarray-sum.md) | Easy | Single Pass, Greedy | Analyzing stock price trends. | Optimal O(N) time and O(1) space by tracking current and max sums. |
 | 1380 | [Lucky Numbers in a Matrix](./problems/1380-lucky-numbers-in-a-matrix.md) | Easy | Matrix, Preprocessing | Finding a topographical "saddle point". | O(M*N) solution by finding the intersection of row minimums and column maximums. |
 | 1995 | [Count Special Quadruplets](./problems/1995-count-special-quadruplets.md) | Easy | Hash Table, O(N³) | Counting specific combinations in a dataset. | A good example of trading space for time (O(N) space for O(N³) time). |
 | 2255 | [Count Prefixes of a Given String](./problems/2255-count-prefixes-of-a-given-string.md) | Easy | String Manipulation, Iteration | Autocomplete suggestions. | Optimal O(N*M) solution using `startsWith`. |
@@ -195,6 +197,7 @@ pie
 ## 🎯 Problems by Difficulty
 
 ### Easy Problems
+- [1800. Maximum Ascending Subarray Sum](./problems/1800-maximum-ascending-subarray-sum.md)
 - [21. Merge Two Sorted Lists](./problems/21-merge-two-sorted-lists.md)
 - [83. Remove Duplicates from Sorted List](./problems/83-remove-duplicates-from-sorted-list.md)
 - [94. Binary Tree Inorder Traversal](./problems/94-binary-tree-inorder-traversal.md)
