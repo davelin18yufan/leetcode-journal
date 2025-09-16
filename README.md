@@ -2,14 +2,14 @@
 
 ## 📊 Quick Statistics
 
-- **Total Problems Solved**: 22
-- **Easy**: 21 | **Medium**: 1 | **Hard**: 0
-- **Last Updated**: 2025-09-15
+- **Total Problems Solved**: 23
+- **Easy**: 22 | **Medium**: 1 | **Hard**: 0
+- **Last Updated**: 2025-09-16
 
 ```mermaid
 pie
     title Problems by Difficulty
-    "Easy" : 21
+    "Easy" : 22
     "Medium" : 1
     "Hard" : 0
 ```
@@ -53,6 +53,7 @@ pie
 
 | # | Problem | Difficulty | Algorithm | Data Structure | Real-world Scenario | Status | Date |
 |---|---------|------------|-----------|----------------|-------------------|---------|------|
+| 3258 | [Count Substrings That Satisfy K-Constraint I](./problems/3258-count-substrings-that-satisfy-k-constraint-i.md) | Easy | Sliding Window | String | Quality control for candy production based on flavor constraints. | ✅ | 2025-09-16 |
 | 1800 | [Maximum Ascending Subarray Sum](./problems/1800-maximum-ascending-subarray-sum.md) | Easy | Single Pass | Array | Finding the most profitable period of uninterrupted stock growth. | ✅ | 2025-09-15 |
 | 1380 | [Lucky Numbers in a Matrix](./problems/1380-lucky-numbers-in-a-matrix.md) | Easy | Matrix | Array, Set | Finding a "saddle point" on a topographical map. | ✅ | 2025-09-14 |
 | 326 | [Power of Three](./problems/326-power-of-three.md) | Easy | Math | N/A | Checking if a set of Russian Nesting Dolls is a 'perfect power-of-three set'. | ✅ | 2025-09-14 |
@@ -166,6 +167,7 @@ pie
 
 | # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
 |---|---------|------------|--------------|-------------------|-------|
+| 3258 | [Count Substrings That Satisfy K-Constraint I](./problems/3258-count-substrings-that-satisfy-k-constraint-i.md) | Easy | Nested Loops, Counting | Candy factory quality control. | O(N²) solution by checking all substrings with running counts. |
 | 2269 | [Find the K-Beauty of a Number](./problems/2269-find-the-k-beauty-of-a-number.md) | Easy | Sliding Window, String | Stock data pattern analysis | O(L) time, single-pass solution. |
 
 ### Backtracking Problems
@@ -218,6 +220,7 @@ pie
 - [3110. Score of a String](./problems/3110-score-of-a-string.md)
 - [3146. Permutation Difference between Two Strings](./problems/3146-permutation-difference-between-two-strings.md)
 - [3492. Maximum Containers on a Ship](./problems/3492-maximum-containers-on-a-ship.md)
+- [3258. Count Substrings That Satisfy K-Constraint I](#sliding-window-problems)
 
 ### Medium Problems
 - [3407. Substring Matching Pattern](./problems/3407-substring-matching-pattern.md)
