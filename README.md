@@ -1,15 +1,13 @@
-# LeetCode Practice Tracking Repository
-
 ## 📊 Quick Statistics
 
-- **Total Problems Solved**: 23
-- **Easy**: 22 | **Medium**: 1 | **Hard**: 0
-- **Last Updated**: 2025-09-16
+- **Total Problems Solved**: 25
+- **Easy**: 24 | **Medium**: 1 | **Hard**: 0
+- **Last Updated**: 2025-09-17
 
 ```mermaid
 pie
     title Problems by Difficulty
-    "Easy" : 22
+    "Easy" : 24
     "Medium" : 1
     "Hard" : 0
 ```
@@ -53,6 +51,8 @@ pie
 
 | # | Problem | Difficulty | Algorithm | Data Structure | Real-world Scenario | Status | Date |
 |---|---------|------------|-----------|----------------|-------------------|---------|------|
+| 104 | [Maximum Depth of Binary Tree](./problems/104-maximum-depth-of-binary-tree.md) | Easy | DFS, BFS | Tree | Finding the highest floor in a building with branching corridors. | ✅ | 2025-09-17 |
+| 1337 | [The K Weakest Rows in a Matrix](./problems/1337-the-k-weakest-rows-in-a-matrix.md) | Easy | Binary Search, Sorting | Array, Matrix | Organizing a playoff tournament based on team wins and seeding. | ✅ | 2025-09-17 |
 | 3258 | [Count Substrings That Satisfy K-Constraint I](./problems/3258-count-substrings-that-satisfy-k-constraint-i.md) | Easy | Sliding Window | String | Quality control for candy production based on flavor constraints. | ✅ | 2025-09-16 |
 | 1800 | [Maximum Ascending Subarray Sum](./problems/1800-maximum-ascending-subarray-sum.md) | Easy | Single Pass | Array | Finding the most profitable period of uninterrupted stock growth. | ✅ | 2025-09-15 |
 | 1380 | [Lucky Numbers in a Matrix](./problems/1380-lucky-numbers-in-a-matrix.md) | Easy | Matrix | Array, Set | Finding a "saddle point" on a topographical map. | ✅ | 2025-09-14 |
@@ -85,6 +85,7 @@ pie
 
 | # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
 |---|---------|------------|--------------|-------------------|-------|
+| 1337 | [The K Weakest Rows in a Matrix](./problems/1337-the-k-weakest-rows-in-a-matrix.md) | Easy | Binary Search, Sorting | Ranking teams in a tournament. | O(M log N + M log M) solution using binary search for counting and then sorting. |
 | 1800 | [Maximum Ascending Subarray Sum](./problems/1800-maximum-ascending-subarray-sum.md) | Easy | Single Pass, Greedy | Analyzing stock price trends. | Optimal O(N) time and O(1) space by tracking current and max sums. |
 | 1380 | [Lucky Numbers in a Matrix](./problems/1380-lucky-numbers-in-a-matrix.md) | Easy | Matrix, Preprocessing | Finding a topographical "saddle point". | O(M*N) solution by finding the intersection of row minimums and column maximums. |
 | 1995 | [Count Special Quadruplets](./problems/1995-count-special-quadruplets.md) | Easy | Hash Table, O(N³) | Counting specific combinations in a dataset. | A good example of trading space for time (O(N) space for O(N³) time). |
@@ -119,6 +120,7 @@ pie
 
 | # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
 |---|---------|------------|--------------|-------------------|-------|
+| 104 | [Maximum Depth of Binary Tree](./problems/104-maximum-depth-of-binary-tree.md) | Easy | DFS, Recursion | Finding the highest floor in a building. | Classic bottom-up recursion: `1 + max(left, right)`. |
 | 543 | [Diameter of Binary Tree](./problems/543-diameter-of-binary-tree.md) | Easy | DFS, Recursion | Finding the longest path in a branching structure. | A dual-purpose recursive function is the key. |
 | 94 | [Binary Tree Inorder Traversal](./problems/94-binary-tree-inorder-traversal.md) | Easy | Recursion, DFS | Librarian analogy for `Left -> Root -> Right`. | Standard recursive helper pattern is key. |
 | 993 | [Cousins in Binary Tree](./problems/993-cousins-in-binary-tree.md) | Easy | BFS, Level-Order | Genealogist analogy for same depth, different parents. | BFS is natural for level-based problems. |
@@ -157,6 +159,7 @@ pie
 
 | # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
 |---|---------|------------|--------------|-------------------|-------|
+| 1337 | [The K Weakest Rows in a Matrix](./problems/1337-the-k-weakest-rows-in-a-matrix.md) | Easy | Sorting, Tie-breaking | Ranking teams in a tournament. | O(M log N + M log M) solution using binary search for counting and then sorting. |
 
 ### Two Pointers Problems
 
@@ -185,6 +188,7 @@ pie
 
 | # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
 |---|---------|------------|--------------|-------------------|-------|
+| 1337 | [The K Weakest Rows in a Matrix](./problems/1337-the-k-weakest-rows-in-a-matrix.md) | Easy | Binary Search, Tie-breaking | Ranking teams in a tournament. | O(M log N + M log M) solution using binary search for counting and then sorting. |
 
 ### Hash Table Problems
 
@@ -203,12 +207,14 @@ pie
 - [21. Merge Two Sorted Lists](./problems/21-merge-two-sorted-lists.md)
 - [83. Remove Duplicates from Sorted List](./problems/83-remove-duplicates-from-sorted-list.md)
 - [94. Binary Tree Inorder Traversal](./problems/94-binary-tree-inorder-traversal.md)
+- [104. Maximum Depth of Binary Tree](#tree-problems)
 - [326. Power of Three](#math-problems)
 - [387. First Unique Character in a String](./problems/387-first-unique-character-in-a-string.md)
 - [543. Diameter of Binary Tree](./problems/543-diameter-of-binary-tree.md)
 - [728. Self Dividing Numbers](./problems/728-self-dividing-numbers.md)
 - [993. Cousins in Binary Tree](./problems/993-cousins-in-binary-tree.md)
 - [1221. Split a String in Balanced Strings](./problems/1221-split-a-string-in-balanced-strings.md)
+- [1337. The K Weakest Rows in a Matrix](#array-problems)
 - [1380. Lucky Numbers in a Matrix](#array-problems)
 - [1603. Design Parking System](./problems/1603-design-parking-system.md)
 - [1678. Goal Parser Interpretation](./problems/1678-goal-parser-interpretation.md)
