@@ -1,0 +1,31 @@
+
+## 📋 Complete Problems Table
+
+| # | Problem | Difficulty | Algorithm | Data Structure | Real-world Scenario | Status | Date |
+|---|---------|------------|-----------|----------------|-------------------|---------|------|
+| 561 | [Array Partition](./problems/561-array-partition.md) | Easy | Greedy, Sorting | Array | Maximizing dance competition scores by pairing dancers with similar skill levels. | ✅ | 2025-09-18 |
+| 104 | [Maximum Depth of Binary Tree](./problems/104-maximum-depth-of-binary-tree.md) | Easy | DFS, BFS | Tree | Finding the highest floor in a building with branching corridors. | ✅ | 2025-09-17 |
+| 1337 | [The K Weakest Rows in a Matrix](./problems/1337-the-k-weakest-rows-in-a-matrix.md) | Easy | Binary Search, Sorting | Array, Matrix | Organizing a playoff tournament based on team wins and seeding. | ✅ | 2025-09-17 |
+| 3258 | [Count Substrings That Satisfy K-Constraint I](./problems/3258-count-substrings-that-satisfy-k-constraint-i.md) | Easy | Sliding Window | String | Quality control for candy production based on flavor constraints. | ✅ | 2025-09-16 |
+| 1800 | [Maximum Ascending Subarray Sum](./problems/1800-maximum-ascending-subarray-sum.md) | Easy | Single Pass | Array | Finding the most profitable period of uninterrupted stock growth. | ✅ | 2025-09-15 |
+| 1380 | [Lucky Numbers in a Matrix](./problems/1380-lucky-numbers-in-a-matrix.md) | Easy | Matrix | Array, Set | Finding a "saddle point" on a topographical map. | ✅ | 2025-09-14 |
+| 326 | [Power of Three](./problems/326-power-of-three.md) | Easy | Math | N/A | Checking if a set of Russian Nesting Dolls is a 'perfect power-of-three set'. | ✅ | 2025-09-14 |
+| 1995 | [Count Special Quadruplets](./problems/1995-count-special-quadruplets.md) | Easy | Hash Table, Enumeration | Array, Hash Table | Counting combinations for a target sum. | 🤔 | 2025-09-11 |
+| 2255 | [Count Prefixes of a Given String](./problems/2255-count-prefixes-of-a-given-string.md) | Easy | String Manipulation | Array, String | Autocomplete in a search bar. | ✅ | 2025-09-10 |
+| 543 | [Diameter of Binary Tree](./problems/543-diameter-of-binary-tree.md) | Easy | Depth-First Search | Tree | Mapping a cave system to find the longest path. | 🤔 | 2025-09-08 |
+| 3146 | [Permutation Difference between Two Strings](./problems/3146-permutation-difference-between-two-strings.md) | Easy | Hash Table | String | Organizing a race and calculating a shuffling score. | ✅ | 2025-09-08 |
+| 993 | [Cousins in Binary Tree](./problems/993-cousins-in-binary-tree.md) | Easy | BFS | Tree | A genealogist checking if two people are in the same generation with different parents. | 🤔 | 2025-09-06 |
+| 94 | [Binary Tree Inorder Traversal](./problems/94-binary-tree-inorder-traversal.md) | Easy | DFS | Tree | A librarian listing books on a shelf following a 'Left -> Self -> Right' rule. | 🤔 | 2025-09-06 |
+| 3099 | [Harshad Number](./problems/3099-harshad-number.md) | Easy | Math | N/A | A number is a "Team Player" if it's divisible by its "teamwork contribution" (sum of digits). | ✅ | 2025-09-06 |
+| 1678 | [Goal Parser Interpretation](./problems/1678-goal-parser-interpretation.md) | Easy | String Manipulation | String | Telegraph operator decoding messages | ✅ | 2025-09-05 |
+| 21 | [Merge Two Sorted Lists](./problems/21-merge-two-sorted-lists.md) | Easy | Recursion, Iteration | Linked List | Merging two sorted decks of cards | ✅ | 2025-08-27 |
+| 83 | [Remove Duplicates from Sorted List](./problems/83-remove-duplicates-from-sorted-list.md) | Easy | Single Pointer | Linked List | De-duplicating a sorted sequence | 🤔 | 2025-09-02 |
+| 387 | [First Unique Character in a String](./problems/387-first-unique-character-in-a-string.md) | Easy | Two-Pass Hash Map | Hash Table | Finding first unique item in a data stream | ✅ | 2025-08-29 |
+| 728 | [Self Dividing Numbers](./problems/728-self-dividing-numbers.md) | Easy | Math | N/A | Quality control for phone numbers | ✅ | 2025-08-31 |
+| 1603 | [Design Parking System](./problems/1603-design-parking-system.md) | Easy | Design, Simulation | Array | Real-time parking garage management | ✅ | 2025-09-01 |
+| 2810 | [Faulty Keyboard](./problems/2810-faulty-keyboard.md) | Easy | Simulation | String | Simulating a text editor command | ✅ | 2025-08-31 |
+| 3110 | [Score of a String](./problems/3110-score-of-a-string.md) | Easy | String Manipulation | String | Calculating elevation change on a hike | ✅ | 2025-09-01 |
+| 3407 | [Substring Matching Pattern](./problems/3407-substring-matching-pattern.md) | Medium | String Manipulation | String | Wildcard file search | ✅ | 2025-08-27 |
+| 3492 | [Maximum Containers on a Ship](./problems/3492-maximum-containers-on-a-ship.md) | Easy | Math | N/A | Calculating capacity with multiple constraints | ✅ | 2025-08-31 |
+| 2269 | [Find the K-Beauty of a Number](./problems/2269-find-the-k-beauty-of-a-number.md) | Easy | Sliding Window | String | Analyzing patterns in time-series data | ✅ | 2025-09-02 |
+| 1221 | [Split a String in Balanced Strings](./problems/1221-split-a-string-in-balanced-strings.md) | Easy | Greedy, Counting | String | Balancing steps on a path | ✅ | 2025-09-03 |

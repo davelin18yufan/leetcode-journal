@@ -6,14 +6,24 @@ All modification **must strictly follow the rules below**.
 ## 📋 1. README.md Structure
 
 The `README.md` file is the **master index** of all solved problems.  
-It contains **three main sections**:
 
-0. **Statistics**
+It contains two sections
+
+**Statistics**
 - **Total Problems Solved**
 - **Count by difficulty**: 0
 - **Last Updated Date**
 
+**Quick Search Index**
+- All problems listed here possess reference link to detail file.
+
+---
+
+## 2. All problems classified into **three marlfown files**:
+
 1. **Complete Problems Table**
+`by_status.md`
+
    ```md
    ## 📋 Complete Problems Table
 
@@ -27,6 +37,7 @@ It contains **three main sections**:
 ---
 
 2. **Problems by Category**
+`by_category.md`
 
    ```md
    ## 📚 Problems by Category
@@ -44,6 +55,7 @@ It contains **three main sections**:
 ---
 
 3. **Problems by Difficulty**
+`by_difficulty.md`
 
    ```md
    ## 🎯 Problems by Difficulty
@@ -57,9 +69,11 @@ It contains **three main sections**:
    * Use internal anchor link to category section (e.g., `#stack-problems`).
    * Keep the list **chronological by problem number**.
 
+
+
 ---
 
-## 📂 2. Problem-Specific Files
+## 📂 3. Problem-Specific Files
 
 Each solved problem **must also have a markdown file** inside `/problems/`:
 
@@ -92,14 +106,19 @@ problems/20-valid-parentheses.md
 
 ---
 
+## Real-world analogy
+(Illustration about how the problems might occured in real world scenarios.)
+
+---
+
 ## 💡 Key Idea
 (Brief explanation of the main algorithmic insight, e.g. "Use a stack to track open brackets and ensure each closing bracket matches the latest open one.")
 
 ---
 
 ## 🧮 Complexity Analysis
-- Time: O(N)  
-- Space: O(N)
+- Time: `O(N)` 
+- Space: `O(N)`
 
 ---
 

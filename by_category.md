@@ -1,0 +1,118 @@
+## 📚 Problems by Category
+
+### Array Problems
+
+| # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
+|---|---------|------------|--------------|-------------------|-------|
+| 561 | [Array Partition](./problems/561-array-partition.md) | Easy | Greedy, Sorting | Maximizing dance competition scores. | Sort the array and sum every second element. |
+| 1337 | [The K Weakest Rows in a Matrix](./problems/1337-the-k-weakest-rows-in-a-matrix.md) | Easy | Binary Search, Sorting | Ranking teams in a tournament. | O(M log N + M log M) solution using binary search for counting and then sorting. |
+| 1800 | [Maximum Ascending Subarray Sum](./problems/1800-maximum-ascending-subarray-sum.md) | Easy | Single Pass, Greedy | Analyzing stock price trends. | Optimal O(N) time and O(1) space by tracking current and max sums. |
+| 1380 | [Lucky Numbers in a Matrix](./problems/1380-lucky-numbers-in-a-matrix.md) | Easy | Matrix, Preprocessing | Finding a topographical "saddle point". | O(M*N) solution by finding the intersection of row minimums and column maximums. |
+| 1995 | [Count Special Quadruplets](./problems/1995-count-special-quadruplets.md) | Easy | Hash Table, O(N³) | Counting specific combinations in a dataset. | A good example of trading space for time (O(N) space for O(N³) time). |
+| 2255 | [Count Prefixes of a Given String](./problems/2255-count-prefixes-of-a-given-string.md) | Easy | String Manipulation, Iteration | Autocomplete suggestions. | Optimal O(N*M) solution using `startsWith`. |
+
+### String Problems
+
+| # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
+|---|---------|------------|--------------|-------------------|-------|
+| 2255 | [Count Prefixes of a Given String](./problems/2255-count-prefixes-of-a-given-string.md) | Easy | Iteration, `startsWith` | Autocomplete suggestions. | Optimal O(N*M) solution for single-pass check. |
+| 3146 | [Permutation Difference between Two Strings](./problems/3146-permutation-difference-between-two-strings.md) | Easy | Hash Table, Two-Pass | Calculating a "shuffling score" in a race. | Optimal O(N) time and O(K) space solution. |
+| 1678 | [Goal Parser Interpretation](./problems/1678-goal-parser-interpretation.md) | Easy | String Manipulation, Look-Ahead | Telegraph operator decoding messages | Replace `()` with `o` and `(al)` with `al`. |
+| 3407 | [Substring Matching Pattern](./problems/3407-substring-matching-pattern.md) | Medium | String Splitting | Wildcard pattern matching | Split by wildcard, check prefix/suffix |
+| 387 | [First Unique Character in a String](./problems/387-first-unique-character-in-a-string.md) | Easy | Two-Pass Hash Map | Data stream analysis | O(N) time, O(1) space for alphabet |
+| 2810 | [Faulty Keyboard](./problems/2810-faulty-keyboard.md) | Easy | Simulation, Array | Text editor simulation | Use mutable array to build string |
+| 3110 | [Score of a String](./problems/3110-score-of-a-string.md) | Easy | String Manipulation | Hiking elevation change analogy | O(N) time, O(1) space single-pass |
+| 1221 | [Split a String in Balanced Strings](./problems/1221-split-a-string-in-balanced-strings.md) | Easy | Greedy, Counting | Balancing steps on a path | O(N) time, O(1) space with a single counter. |
+
+### Linked List Problems
+
+| # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
+|---|---------|------------|--------------|-------------------|-------|
+| 21 | [Merge Two Sorted Lists](./problems/21-merge-two-sorted-lists.md) | Easy | Recursion, Iteration | Merging sorted data streams | Iterative approach is O(1) space |
+| 83 | [Remove Duplicates from Sorted List](./problems/83-remove-duplicates-from-sorted-list.md) | Easy | Single Pointer, In-place | De-duplicating sorted train cars | O(N) time, O(1) space. A core pattern. |
+
+### Stack & Queue Problems
+
+| # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
+|---|---------|------------|--------------|-------------------|-------|
+
+### Tree Problems
+
+| # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
+|---|---------|------------|--------------|-------------------|-------|
+| 104 | [Maximum Depth of Binary Tree](./problems/104-maximum-depth-of-binary-tree.md) | Easy | DFS, Recursion | Finding the highest floor in a building. | Classic bottom-up recursion: `1 + max(left, right)`. |
+| 543 | [Diameter of Binary Tree](./problems/543-diameter-of-binary-tree.md) | Easy | DFS, Recursion | Finding the longest path in a branching structure. | A dual-purpose recursive function is the key. |
+| 94 | [Binary Tree Inorder Traversal](./problems/94-binary-tree-inorder-traversal.md) | Easy | Recursion, DFS | Librarian analogy for `Left -> Root -> Right`. | Standard recursive helper pattern is key. |
+| 993 | [Cousins in Binary Tree](./problems/993-cousins-in-binary-tree.md) | Easy | BFS, Level-Order | Genealogist analogy for same depth, different parents. | BFS is natural for level-based problems. |
+
+### Graph Problems
+
+| # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
+|---|---------|------------|--------------|-------------------|-------|
+
+### Math Problems
+
+| # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
+|---|---------|------------|--------------|-------------------|-------|
+| 326 | [Power of Three](./problems/326-power-of-three.md) | Easy | Integer Limitation | Checking for perfect nesting in Russian dolls. | O(1) solution using the largest integer power of 3. |
+| 3099 | [Harshad Number](./problems/3099-harshad-number.md) | Easy | Digit Sum, Divisibility | A number is a "Team Player" if it's divisible by its "teamwork contribution" (sum of digits). | Calculate digit sum, then check divisibility. |
+
+### General Problems
+
+| # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
+|---|---------|------------|--------------|-------------------|-------|
+| 3492 | [Maximum Containers on a Ship](./problems/3492-maximum-containers-on-a-ship.md) | Easy | Math, O(1) | Capacity planning | Direct calculation is better than search |
+| 728 | [Self Dividing Numbers](./problems/728-self-dividing-numbers.md) | Easy | Math, Modulo | Number validation | Iterate and check digits with modulo |
+
+### Design Problems
+
+| # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
+|---|---------|------------|--------------|-------------------|-------|
+| 1603 | [Design Parking System](./problems/1603-design-parking-system.md) | Easy | O(1) State Management | Parking garage software | Countdown method simplifies state |
+
+### Dynamic Programming Problems
+
+| # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
+|---|---------|------------|--------------|-------------------|-------|
+
+### Binary Search Problems
+
+| # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
+|---|---------|------------|--------------|-------------------|-------|
+| 1337 | [The K Weakest Rows in a Matrix](./problems/1337-the-k-weakest-rows-in-a-matrix.md) | Easy | Sorting, Tie-breaking | Ranking teams in a tournament. | O(M log N + M log M) solution using binary search for counting and then sorting. |
+
+### Two Pointers Problems
+
+| # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
+|---|---------|------------|--------------|-------------------|-------|
+
+### Sliding Window Problems
+
+| # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
+|---|---------|------------|--------------|-------------------|-------|
+| 3258 | [Count Substrings That Satisfy K-Constraint I](./problems/3258-count-substrings-that-satisfy-k-constraint-i.md) | Easy | Nested Loops, Counting | Candy factory quality control. | O(N²) solution by checking all substrings with running counts. |
+| 2269 | [Find the K-Beauty of a Number](./problems/2269-find-the-k-beauty-of-a-number.md) | Easy | Sliding Window, String | Stock data pattern analysis | O(L) time, single-pass solution. |
+
+### Backtracking Problems
+
+| # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
+|---|---------|------------|--------------|-------------------|-------|
+
+| # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
+|---|---------|------------|--------------|-------------------|-------|
+| 561 | [Array Partition](./problems/561-array-partition.md) | Easy | Sorting | Maximizing dance competition scores. | Sort and sum every second element for the optimal result. |
+| 1221 | [Split a String in Balanced Strings](./problems/1221-split-a-string-in-balanced-strings.md) | Easy | Counting | Balancing steps on a path | Split as soon as balance is 0 for max splits. |
+
+| # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
+|---|---------|------------|--------------|-------------------|-------|
+| 561 | [Array Partition](./problems/561-array-partition.md) | Easy | Greedy | Maximizing dance competition scores. | The key is to sort the array first. |
+| 1337 | [The K Weakest Rows in a Matrix](./problems/1337-the-k-weakest-rows-in-a-matrix.md) | Easy | Binary Search, Tie-breaking | Ranking teams in a tournament. | O(M log N + M log M) solution using binary search for counting and then sorting. |
+
+### Hash Table Problems
+
+| # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
+|---|---------|------------|--------------|-------------------|-------|
+| 1995 | [Count Special Quadruplets](./problems/1995-count-special-quadruplets.md) | Easy | O(N³) Enumeration | Finding combinations that sum to a target. | Uses a frequency map to optimize a brute-force search from O(N⁴) to O(N³). |
+| 3146 | [Permutation Difference between Two Strings](./problems/3146-permutation-difference-between-two-strings.md) | Easy | Two-Pass, Map | Calculating a "shuffling score" in a race. | Optimal O(N) time and O(K) space solution. |
+| 387 | [First Unique Character in a String](./problems/387-first-unique-character-in-a-string.md) | Easy | Frequency Counter | Finding first unique element in a sequence | Two-pass scan for efficiency |
+
