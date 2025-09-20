@@ -85,6 +85,7 @@
 
 | # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
 |---|---------|------------|--------------|-------------------|-------|
+| 344 | [Reverse String](./problems/344-reverse-string.md) | Easy | In-place swap | Reversing books on a shelf | Optimal O(N) time, O(1) space solution. |
 
 ### Sliding Window Problems
 
@@ -115,4 +116,5 @@
 | 1995 | [Count Special Quadruplets](./problems/1995-count-special-quadruplets.md) | Easy | O(N³) Enumeration | Finding combinations that sum to a target. | Uses a frequency map to optimize a brute-force search from O(N⁴) to O(N³). |
 | 3146 | [Permutation Difference between Two Strings](./problems/3146-permutation-difference-between-two-strings.md) | Easy | Two-Pass, Map | Calculating a "shuffling score" in a race. | Optimal O(N) time and O(K) space solution. |
 | 387 | [First Unique Character in a String](./problems/387-first-unique-character-in-a-string.md) | Easy | Frequency Counter | Finding first unique element in a sequence | Two-pass scan for efficiency |
+| 3663 | [Find The Least Frequent Digit](./problems/3663-find-the-least-frequent-digit.md) | Easy | Frequency Count, Two-Pass | Finding least-voted candidate | Optimal O(L) time, O(1) space solution. |
 

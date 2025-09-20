@@ -29,3 +29,5 @@
 | 3492 | [Maximum Containers on a Ship](./problems/3492-maximum-containers-on-a-ship.md) | Easy | Math | N/A | Calculating capacity with multiple constraints | ✅ | 2025-08-31 |
 | 2269 | [Find the K-Beauty of a Number](./problems/2269-find-the-k-beauty-of-a-number.md) | Easy | Sliding Window | String | Analyzing patterns in time-series data | ✅ | 2025-09-02 |
 | 1221 | [Split a String in Balanced Strings](./problems/1221-split-a-string-in-balanced-strings.md) | Easy | Greedy, Counting | String | Balancing steps on a path | ✅ | 2025-09-03 |
+| 344 | [Reverse String](./problems/344-reverse-string.md) | Easy | Two Pointers | String | Reversing a row of books on a shelf. | ✅ | 2025-09-20 |
+| 3663 | [Find The Least Frequent Digit](./problems/3663-find-the-least-frequent-digit.md) | Easy | Hash Map | Hash Map | Finding the least-voted candidate in an election. | ✅ | 2025-09-20 |

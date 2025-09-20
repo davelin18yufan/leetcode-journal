@@ -7,6 +7,7 @@
 - [94. Binary Tree Inorder Traversal](./problems/94-binary-tree-inorder-traversal.md)
 - [104. Maximum Depth of Binary Tree](#tree-problems)
 - [326. Power of Three](#math-problems)
+- [344. Reverse String](./problems/344-reverse-string.md)
 - [387. First Unique Character in a String](./problems/387-first-unique-character-in-a-string.md)
 - [543. Diameter of Binary Tree](./problems/543-diameter-of-binary-tree.md)
 - [561. Array Partition](#array-problems)
@@ -25,6 +26,7 @@
 - [3110. Score of a String](./problems/3110-score-of-a-string.md)
 - [3146. Permutation Difference between Two Strings](./problems/3146-permutation-difference-between-two-strings.md)
 - [3492. Maximum Containers on a Ship](./problems/3492-maximum-containers-on-a-ship.md)
+- [3663. Find The Least Frequent Digit](./problems/3663-find-the-least-frequent-digit.md)
 - [3258. Count Substrings That Satisfy K-Constraint I](#sliding-window-problems)
 
 ### Medium Problems
