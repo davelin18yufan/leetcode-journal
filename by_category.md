@@ -10,6 +10,7 @@
 | 1380 | [Lucky Numbers in a Matrix](./problems/1380-lucky-numbers-in-a-matrix.md) | Easy | Matrix, Preprocessing | Finding a topographical "saddle point". | O(M*N) solution by finding the intersection of row minimums and column maximums. |
 | 1995 | [Count Special Quadruplets](./problems/1995-count-special-quadruplets.md) | Easy | Hash Table, O(N³) | Counting specific combinations in a dataset. | A good example of trading space for time (O(N) space for O(N³) time). |
 | 2255 | [Count Prefixes of a Given String](./problems/2255-count-prefixes-of-a-given-string.md) | Easy | String Manipulation, Iteration | Autocomplete suggestions. | Optimal O(N*M) solution using `startsWith`. |
+| 2006 | [Count Number of Pairs With Absolute Difference K](./problems/2006-count-number-of-pairs-with-absolute-difference-k.md) | Easy | Hash Map | Customer Data Analysis | Use a hash map to track frequencies for O(1) lookups. |
 
 ### String Problems
 

@@ -31,3 +31,4 @@
 | 1221 | [Split a String in Balanced Strings](./problems/1221-split-a-string-in-balanced-strings.md) | Easy | Greedy, Counting | String | Balancing steps on a path | ✅ | 2025-09-03 |
 | 344 | [Reverse String](./problems/344-reverse-string.md) | Easy | Two Pointers | String | Reversing a row of books on a shelf. | ✅ | 2025-09-20 |
 | 3663 | [Find The Least Frequent Digit](./problems/3663-find-the-least-frequent-digit.md) | Easy | Hash Map | Hash Map | Finding the least-voted candidate in an election. | ✅ | 2025-09-20 |
+| 2006 | [Count Number of Pairs With Absolute Difference K](./problems/2006-count-number-of-pairs-with-absolute-difference-k.md) | Easy | Hash Table, Counting | Array, Hash Table | Finding customer pairs with a specific age gap. | ✅ | 2025-09-22 |
