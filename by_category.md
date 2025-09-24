@@ -11,6 +11,7 @@
 | 1995 | [Count Special Quadruplets](./problems/1995-count-special-quadruplets.md) | Easy | Hash Table, O(N³) | Counting specific combinations in a dataset. | A good example of trading space for time (O(N) space for O(N³) time). |
 | 2255 | [Count Prefixes of a Given String](./problems/2255-count-prefixes-of-a-given-string.md) | Easy | String Manipulation, Iteration | Autocomplete suggestions. | Optimal O(N*M) solution using `startsWith`. |
 | 2006 | [Count Number of Pairs With Absolute Difference K](./problems/2006-count-number-of-pairs-with-absolute-difference-k.md) | Easy | Hash Map | Customer Data Analysis | Use a hash map to track frequencies for O(1) lookups. |
+| 2744 | [Find Maximum Number of String Pairs](./problems/2744-find-maximum-number-of-string-pairs.md) | Easy | Hash Table, Simulation | Pairing socks from a pile of laundry. | Use a Set to track seen words and find pairs. |
 
 ### String Problems
 
@@ -24,6 +25,7 @@
 | 2810 | [Faulty Keyboard](./problems/2810-faulty-keyboard.md) | Easy | Simulation, Array | Text editor simulation | Use mutable array to build string |
 | 3110 | [Score of a String](./problems/3110-score-of-a-string.md) | Easy | String Manipulation | Hiking elevation change analogy | O(N) time, O(1) space single-pass |
 | 1221 | [Split a String in Balanced Strings](./problems/1221-split-a-string-in-balanced-strings.md) | Easy | Greedy, Counting | Balancing steps on a path | O(N) time, O(1) space with a single counter. |
+| 2744 | [Find Maximum Number of String Pairs](./problems/2744-find-maximum-number-of-string-pairs.md) | Easy | Hash Table, Simulation | Pairing socks from a pile of laundry. | Use a Set to track seen words and find pairs. |
 
 ### Linked List Problems
 
@@ -118,4 +120,5 @@
 | 3146 | [Permutation Difference between Two Strings](./problems/3146-permutation-difference-between-two-strings.md) | Easy | Two-Pass, Map | Calculating a "shuffling score" in a race. | Optimal O(N) time and O(K) space solution. |
 | 387 | [First Unique Character in a String](./problems/387-first-unique-character-in-a-string.md) | Easy | Frequency Counter | Finding first unique element in a sequence | Two-pass scan for efficiency |
 | 3663 | [Find The Least Frequent Digit](./problems/3663-find-the-least-frequent-digit.md) | Easy | Frequency Count, Two-Pass | Finding least-voted candidate | Optimal O(L) time, O(1) space solution. |
+| 2744 | [Find Maximum Number of String Pairs](./problems/2744-find-maximum-number-of-string-pairs.md) | Easy | Simulation | Pairing socks from a pile of laundry. | Use a Set to track seen words and find pairs. |
 

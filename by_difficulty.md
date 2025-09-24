@@ -29,6 +29,7 @@
 - [3663. Find The Least Frequent Digit](./problems/3663-find-the-least-frequent-digit.md)
 - [3258. Count Substrings That Satisfy K-Constraint I](#sliding-window-problems)
 - [2006. Count Number of Pairs With Absolute Difference K](#array-problems)
+- [2744. Find Maximum Number of String Pairs](#hash-table-problems)
 
 ### Medium Problems
 - [3407. Substring Matching Pattern](./problems/3407-substring-matching-pattern.md)
