@@ -5,6 +5,7 @@
 - [21. Merge Two Sorted Lists](./problems/21-merge-two-sorted-lists.md)
 - [83. Remove Duplicates from Sorted List](./problems/83-remove-duplicates-from-sorted-list.md)
 - [94. Binary Tree Inorder Traversal](./problems/94-binary-tree-inorder-traversal.md)
+- [100. Same Tree](#tree-problems)
 - [104. Maximum Depth of Binary Tree](#tree-problems)
 - [326. Power of Three](#math-problems)
 - [344. Reverse String](./problems/344-reverse-string.md)
