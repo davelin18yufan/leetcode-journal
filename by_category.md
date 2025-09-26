@@ -12,6 +12,7 @@
 | 2255 | [Count Prefixes of a Given String](./problems/2255-count-prefixes-of-a-given-string.md) | Easy | String Manipulation, Iteration | Autocomplete suggestions. | Optimal O(N*M) solution using `startsWith`. |
 | 2006 | [Count Number of Pairs With Absolute Difference K](./problems/2006-count-number-of-pairs-with-absolute-difference-k.md) | Easy | Hash Map | Customer Data Analysis | Use a hash map to track frequencies for O(1) lookups. |
 | 2744 | [Find Maximum Number of String Pairs](./problems/2744-find-maximum-number-of-string-pairs.md) | Easy | Hash Table, Simulation | Pairing socks from a pile of laundry. | Use a Set to track seen words and find pairs. |
+| 724 | [Find Pivot Index](./problems/724-find-pivot-index.md) | Easy | Prefix Sum | Balancing a seesaw. | O(N) time, O(1) space using total sum. |
 
 ### String Problems
 
