@@ -30,7 +30,8 @@
 - [3663. Find The Least Frequent Digit](./problems/3663-find-the-least-frequent-digit.md)
 - [3258. Count Substrings That Satisfy K-Constraint I](#sliding-window-problems)
 - [2006. Count Number of Pairs With Absolute Difference K](#array-problems)
-| 2744 | [Find Maximum Number of String Pairs](./problems/2744-find-maximum-number-of-string-pairs.md) | Easy | Hash Table, Simulation | Pairing socks from a pile of laundry. | Use a Set to track seen words and find pairs. |
+- [2446. Determine if Two Events Have Conflict](#array-problems)
+- [2744. Find Maximum Number of String Pairs](./problems/2744-find-maximum-number-of-string-pairs.md)
 - [724. Find Pivot Index](#array-problems)
 
 ### Medium Problems

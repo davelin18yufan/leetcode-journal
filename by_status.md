@@ -35,3 +35,4 @@
 | 2006 | [Count Number of Pairs With Absolute Difference K](./problems/2006-count-number-of-pairs-with-absolute-difference-k.md) | Easy | Hash Table, Counting | Array, Hash Table | Finding customer pairs with a specific age gap. | ✅ | 2025-09-22 |
 | 2744 | [Find Maximum Number of String Pairs](./problems/2744-find-maximum-number-of-string-pairs.md) | Easy | Simulation | Hash Table | Pairing socks from a pile of laundry. | ✅ | 2025-09-24 |
 | 724 | [Find Pivot Index](./problems/724-find-pivot-index.md) | Easy | Prefix Sum | Array | Balancing a seesaw. | ✅ | 2025-09-26 |
+| 2446 | [2446. Determine if Two Events Have Conflict](./problems/2446-determine-if-two-events-have-conflict.md) | Easy | Direct String Comparison | Array, String | Checking for overlapping meetings. | ✅ | 2025-09-27 |
