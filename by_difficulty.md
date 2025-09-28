@@ -33,6 +33,8 @@
 - [2446. Determine if Two Events Have Conflict](#array-problems)
 - [2744. Find Maximum Number of String Pairs](./problems/2744-find-maximum-number-of-string-pairs.md)
 - [724. Find Pivot Index](#array-problems)
+- [867. Transpose Matrix](#array-problems)
+- [3370. Smallest Number With All Set Bits](#math-problems)
 
 ### Medium Problems
 - [3407. Substring Matching Pattern](./problems/3407-substring-matching-pattern.md)

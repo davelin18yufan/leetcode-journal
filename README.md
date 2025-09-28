@@ -1,13 +1,13 @@
 ## 📊 Quick Statistics
 
-- **Total Problems Solved**: 33
-- **Easy**: 32 | **Medium**: 1 | **Hard**: 0
-- **Last Updated**: 2025-09-27
+- **Total Problems Solved**: 35
+- **Easy**: 34 | **Medium**: 1 | **Hard**: 0
+- **Last Updated**: 2025-09-28
 
 ```mermaid
 pie
     title Problems by Difficulty
-    "Easy" : 32
+    "Easy" : 34
     "Medium" : 1
     "Hard" : 0
 ```
@@ -25,6 +25,7 @@ pie
 - [Design](#design-problems)
 - [Dynamic Programming](#dynamic-programming-problems)
 - [Binary Search](#binary-search-problems)
+- [Bit Manipulation](#bit-manipulation-problems)
 - [Two Pointers](#two-pointers-problems)
 - [Sliding Window](#sliding-window-problems)
 - [Backtracking](#backtracking-problems)

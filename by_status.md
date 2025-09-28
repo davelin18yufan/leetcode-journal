@@ -36,3 +36,5 @@
 | 2744 | [Find Maximum Number of String Pairs](./problems/2744-find-maximum-number-of-string-pairs.md) | Easy | Simulation | Hash Table | Pairing socks from a pile of laundry. | ✅ | 2025-09-24 |
 | 724 | [Find Pivot Index](./problems/724-find-pivot-index.md) | Easy | Prefix Sum | Array | Balancing a seesaw. | ✅ | 2025-09-26 |
 | 2446 | [2446. Determine if Two Events Have Conflict](./problems/2446-determine-if-two-events-have-conflict.md) | Easy | Direct String Comparison | Array, String | Checking for overlapping meetings. | ✅ | 2025-09-27 |
+| 867 | [Transpose Matrix](./problems/867-transpose-matrix.md) | Easy | Matrix, Simulation | Array | Rotating a spreadsheet | ✅ | 2025-09-28 |
+| 3370 | [Smallest Number With All Set Bits](./problems/3370-smallest-number-with-all-set-bits.md) | Easy | Bit Manipulation | N/A | Finding the right-sized standard shipping box. | ✅ | 2025-09-28 |
