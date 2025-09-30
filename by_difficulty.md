@@ -10,6 +10,7 @@
 - [326. Power of Three](#math-problems)
 - [344. Reverse String](./problems/344-reverse-string.md)
 - [387. First Unique Character in a String](./problems/387-first-unique-character-in-a-string.md)
+- [434. Number of Segments in a String](./problems/434-number-of-segments-in-a-string.md)
 - [543. Diameter of Binary Tree](./problems/543-diameter-of-binary-tree.md)
 - [561. Array Partition](#array-problems)
 - [728. Self Dividing Numbers](./problems/728-self-dividing-numbers.md)

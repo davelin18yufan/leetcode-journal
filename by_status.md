@@ -38,3 +38,4 @@
 | 2446 | [2446. Determine if Two Events Have Conflict](./problems/2446-determine-if-two-events-have-conflict.md) | Easy | Direct String Comparison | Array, String | Checking for overlapping meetings. | ✅ | 2025-09-27 |
 | 867 | [Transpose Matrix](./problems/867-transpose-matrix.md) | Easy | Matrix, Simulation | Array | Rotating a spreadsheet | ✅ | 2025-09-28 |
 | 3370 | [Smallest Number With All Set Bits](./problems/3370-smallest-number-with-all-set-bits.md) | Easy | Bit Manipulation | N/A | Finding the right-sized standard shipping box. | ✅ | 2025-09-28 |
+| 434 | [Number of Segments in a String](./problems/434-number-of-segments-in-a-string.md) | Easy | String | String | Counting cars in a freight train. | ✅ | 2025-09-30 |
