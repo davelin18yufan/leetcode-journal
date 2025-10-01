@@ -1,9 +1,8 @@
 ## 📚 Problems by Category
 
-### Array Problems
-
 | # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
 |---|---------|------------|--------------|-------------------|-------|
+| 108 | [Convert Sorted Array to Binary Search Tree](./problems/108-convert-sorted-array-to-binary-search-tree.md) | Easy | Divide and Conquer, Recursion | Creating a fair tournament bracket. | 🚧 WIP. Optimal solution uses pointers, not slicing. |
 | 561 | [Array Partition](./problems/561-array-partition.md) | Easy | Greedy, Sorting | Maximizing dance competition scores. | Sort the array and sum every second element. |
 | 1337 | [The K Weakest Rows in a Matrix](./problems/1337-the-k-weakest-rows-in-a-matrix.md) | Easy | Binary Search, Sorting | Ranking teams in a tournament. | O(M log N + M log M) solution using binary search for counting and then sorting. |
 | 1800 | [Maximum Ascending Subarray Sum](./problems/1800-maximum-ascending-subarray-sum.md) | Easy | Single Pass, Greedy | Analyzing stock price trends. | Optimal O(N) time and O(1) space by tracking current and max sums. |
@@ -46,6 +45,7 @@
 
 | # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
 |---|---------|------------|--------------|-------------------|-------|
+| 108 | [Convert Sorted Array to Binary Search Tree](./problems/108-convert-sorted-array-to-binary-search-tree.md) | Easy | Divide and Conquer, Recursion | Creating a fair tournament bracket. | 🚧 WIP. The key is picking the middle element as the root. |
 | 100 | [Same Tree](./problems/100-same-tree.md) | Easy | Recursion, DFS, BFS | Comparing two company organization charts. | Classic recursive solution checking node values and structure. |
 | 104 | [Maximum Depth of Binary Tree](./problems/104-maximum-depth-of-binary-tree.md) | Easy | DFS, Recursion | Finding the highest floor in a building. | Classic bottom-up recursion: `1 + max(left, right)`. |
 | 543 | [Diameter of Binary Tree](./problems/543-diameter-of-binary-tree.md) | Easy | DFS, Recursion | Finding the longest path in a branching structure. | A dual-purpose recursive function is the key. |

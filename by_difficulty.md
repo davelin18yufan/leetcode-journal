@@ -7,6 +7,7 @@
 - [94. Binary Tree Inorder Traversal](./problems/94-binary-tree-inorder-traversal.md)
 - [100. Same Tree](#tree-problems)
 - [104. Maximum Depth of Binary Tree](#tree-problems)
+- [108. Convert Sorted Array to Binary Search Tree](#array-problems)
 - [326. Power of Three](#math-problems)
 - [344. Reverse String](./problems/344-reverse-string.md)
 - [387. First Unique Character in a String](./problems/387-first-unique-character-in-a-string.md)

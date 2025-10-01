@@ -3,6 +3,7 @@
 
 | # | Problem | Difficulty | Algorithm | Data Structure | Real-world Scenario | Status | Date |
 |---|---------|------------|-----------|----------------|-------------------|---------|------|
+| 108 | [Convert Sorted Array to Binary Search Tree](./problems/108-convert-sorted-array-to-binary-search-tree.md) | Easy | Divide and Conquer | Array, Tree | Creating a balanced tournament bracket. | 🚧 WIP | 2025-10-01 |
 | 100 | [Same Tree](./problems/100-same-tree.md) | Easy | DFS, BFS | Tree, Binary Tree | Comparing two company organization charts. | ✅ | 2025-09-25 |
 | 561 | [Array Partition](./problems/561-array-partition.md) | Easy | Greedy, Sorting | Array | Maximizing dance competition scores by pairing dancers with similar skill levels. | ✅ | 2025-09-18 |
 | 104 | [Maximum Depth of Binary Tree](./problems/104-maximum-depth-of-binary-tree.md) | Easy | DFS, BFS | Tree | Finding the highest floor in a building with branching corridors. | ✅ | 2025-09-17 |
