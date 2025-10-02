@@ -15,6 +15,12 @@
 | 2446 | [Determine if Two Events Have Conflict](./problems/2446-determine-if-two-events-have-conflict.md) | Easy | Direct String Comparison | Yes | Compare time strings directly to check for overlap. |
 | 867 | [Transpose Matrix](./problems/867-transpose-matrix.md) | Easy | Matrix Transposition | Rotating a spreadsheet | Create a new matrix with swapped dimensions and copy elements. |
 
+### Array Problems
+
+| # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
+|---|---------|------------|--------------|-------------------|-------|
+| 303 | [Range Sum Query - Immutable](./problems/303-range-sum-query-immutable.md) | Easy | Prefix Sum, O(1) Query | Road trip mileage log | Pre-computation for fast queries. |
+
 ### String Problems
 
 | # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
@@ -83,6 +89,7 @@
 | # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
 |---|---------|------------|--------------|-------------------|-------|
 | 1603 | [Design Parking System](./problems/1603-design-parking-system.md) | Easy | O(1) State Management | Parking garage software | Countdown method simplifies state |
+| 303 | [Range Sum Query - Immutable](./problems/303-range-sum-query-immutable.md) | Easy | Prefix Sum, O(1) Query | Road trip mileage log | Pre-computation for fast queries. |
 
 ### Dynamic Programming Problems
 
