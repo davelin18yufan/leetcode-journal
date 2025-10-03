@@ -41,3 +41,4 @@
 | 3370 | [Smallest Number With All Set Bits](./problems/3370-smallest-number-with-all-set-bits.md) | Easy | Bit Manipulation | N/A | Finding the right-sized standard shipping box. | ✅ | 2025-09-28 |
 | 434 | [Number of Segments in a String](./problems/434-number-of-segments-in-a-string.md) | Easy | String | String | Counting cars in a freight train. | ✅ | 2025-09-30 |
 | 303 | [Range Sum Query - Immutable](./problems/303-range-sum-query-immutable.md) | Easy | Prefix Sum | Array, Design | Calculating daily mileage totals on a road trip. | ✅ | 2025-10-02 |
+| 111 | [Minimum Depth of Binary Tree](./problems/111-minimum-depth-of-binary-tree.md) | Easy | BFS, DFS | Tree, Binary Tree | Finding the shortest path to a fire escape in a building. | ✅ | 2025-10-03 |

@@ -57,6 +57,7 @@
 | 543 | [Diameter of Binary Tree](./problems/543-diameter-of-binary-tree.md) | Easy | DFS, Recursion | Finding the longest path in a branching structure. | A dual-purpose recursive function is the key. |
 | 94 | [Binary Tree Inorder Traversal](./problems/94-binary-tree-inorder-traversal.md) | Easy | Recursion, DFS | Librarian analogy for `Left -> Root -> Right`. | Standard recursive helper pattern is key. |
 | 993 | [Cousins in Binary Tree](./problems/993-cousins-in-binary-tree.md) | Easy | BFS, Level-Order | Genealogist analogy for same depth, different parents. | BFS is natural for level-based problems. |
+| 111 | [Minimum Depth of Binary Tree](./problems/111-minimum-depth-of-binary-tree.md) | Easy | BFS, DFS | Finding the shortest path to a fire escape. | BFS is optimal as it finds the first leaf level by level. |
 
 ### Graph Problems
 
