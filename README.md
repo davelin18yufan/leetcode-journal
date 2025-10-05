@@ -1,13 +1,13 @@
 ## 📊 Quick Statistics
 
-- **Total Problems Solved**: 39
-- **Easy**: 38 | **Medium**: 1 | **Hard**: 0
-- **Last Updated**: 2025-10-03
+- **Total Problems Solved**: 41
+- **Easy**: 40 | **Medium**: 1 | **Hard**: 0
+- **Last Updated**: 2025-10-05
 
 ```mermaid
 pie
     title Problems by Difficulty
-    "Easy" : 38
+    "Easy" : 40
     "Medium" : 1
     "Hard" : 0
 ```

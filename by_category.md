@@ -19,6 +19,7 @@
 
 | # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
 |---|---------|------------|--------------|-------------------|-------|
+| 941 | [Valid Mountain Array](./problems/941-valid-mountain-array.md) | Easy | Two Pointers | Verifying a hike profile. | A single-pass approach is optimal.
 | 303 | [Range Sum Query - Immutable](./problems/303-range-sum-query-immutable.md) | Easy | Prefix Sum, O(1) Query | Road trip mileage log | Pre-computation for fast queries. |
 
 ### String Problems
@@ -34,6 +35,7 @@
 | 3110 | [Score of a String](./problems/3110-score-of-a-string.md) | Easy | String Manipulation | Hiking elevation change analogy | O(N) time, O(1) space single-pass |
 | 2446 | [Determine if Two Events Have Conflict](./problems/2446-determine-if-two-events-have-conflict.md) | Easy | Direct String Comparison | Yes | Compare time strings directly to check for overlap. |
 | 434 | [Number of Segments in a String](./problems/434-number-of-segments-in-a-string.md) | Easy | Single Pass | String | Counting cars in a freight train. |
+| 1021 | [Remove Outermost Parentheses](./problems/1021-remove-outermost-parentheses.md) | Easy | Depth Counter | Parentheses Parsing | Use a counter to track nesting depth. |
 
 ### Linked List Problems
 
@@ -46,6 +48,7 @@
 
 | # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
 |---|---------|------------|--------------|-------------------|-------|
+| 1021 | [Remove Outermost Parentheses](./problems/1021-remove-outermost-parentheses.md) | Easy | Counter Simulation | Parentheses Parsing | A counter efficiently simulates a stack for depth tracking. |
 
 ### Tree Problems
 

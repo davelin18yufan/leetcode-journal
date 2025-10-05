@@ -18,6 +18,7 @@
 - [561. Array Partition](#array-problems)
 - [728. Self Dividing Numbers](./problems/728-self-dividing-numbers.md)
 - [993. Cousins in Binary Tree](./problems/993-cousins-in-binary-tree.md)
+- [1021. Remove Outermost Parentheses](#string-problems)
 - [1221. Split a String in Balanced Strings](./problems/1221-split-a-string-in-balanced-strings.md)
 - [1337. The K Weakest Rows in a Matrix](#array-problems)
 - [1380. Lucky Numbers in a Matrix](#array-problems)
@@ -38,6 +39,7 @@
 - [2744. Find Maximum Number of String Pairs](./problems/2744-find-maximum-number-of-string-pairs.md)
 - [724. Find Pivot Index](#array-problems)
 - [867. Transpose Matrix](#array-problems)
+- [941. Valid Mountain Array](#array-problems)
 - [3370. Smallest Number With All Set Bits](#math-problems)
 
 ### Medium Problems
