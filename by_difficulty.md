@@ -41,6 +41,8 @@
 - [867. Transpose Matrix](#array-problems)
 - [941. Valid Mountain Array](#array-problems)
 - [3370. Smallest Number With All Set Bits](#math-problems)
+- [2828. Check if a String Is an Acronym of Words](#string-problems)
+- [2325. Decode the Message](#hash-table-problems)
 
 ### Medium Problems
 - [3407. Substring Matching Pattern](./problems/3407-substring-matching-pattern.md)

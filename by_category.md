@@ -19,8 +19,8 @@
 
 | # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
 |---|---------|------------|--------------|-------------------|-------|
-| 941 | [Valid Mountain Array](./problems/941-valid-mountain-array.md) | Easy | Two Pointers | Verifying a hike profile. | A single-pass approach is optimal.
 | 303 | [Range Sum Query - Immutable](./problems/303-range-sum-query-immutable.md) | Easy | Prefix Sum, O(1) Query | Road trip mileage log | Pre-computation for fast queries. |
+| 2828 | [Check if a String Is an Acronym of Words](./problems/2828-check-if-a-string-is-an-acronym-of-words.md) | Easy | First Character Matching | Acronym Verification | Compare first char of each word. |
 
 ### String Problems
 
@@ -36,6 +36,8 @@
 | 2446 | [Determine if Two Events Have Conflict](./problems/2446-determine-if-two-events-have-conflict.md) | Easy | Direct String Comparison | Yes | Compare time strings directly to check for overlap. |
 | 434 | [Number of Segments in a String](./problems/434-number-of-segments-in-a-string.md) | Easy | Single Pass | String | Counting cars in a freight train. |
 | 1021 | [Remove Outermost Parentheses](./problems/1021-remove-outermost-parentheses.md) | Easy | Depth Counter | Parentheses Parsing | Use a counter to track nesting depth. |
+| 2828 | [Check if a String Is an Acronym of Words](./problems/2828-check-if-a-string-is-an-acronym-of-words.md) | Easy | Character-by-Character Comparison | Acronym Verification | Iterate and compare chars at each index. |
+| 2325 | [Decode the Message](./problems/2325-decode-the-message.md) | Easy | Character Mapping | Secret Decoder Ring | Map key chars to alphabet, then substitute. |
 
 ### Linked List Problems
 
@@ -143,4 +145,5 @@
 | 387 | [First Unique Character in a String](./problems/387-first-unique-character-in-a-string.md) | Easy | Frequency Counter | Finding first unique element in a sequence | Two-pass scan for efficiency |
 | 3663 | [Find The Least Frequent Digit](./problems/3663-find-the-least-frequent-digit.md) | Easy | Frequency Count, Two-Pass | Finding least-voted candidate | Optimal O(L) time, O(1) space solution. |
 | 2744 | [Find Maximum Number of String Pairs](./problems/2744-find-maximum-number-of-string-pairs.md) | Easy | Simulation | Pairing socks from a pile of laundry. | Use a Set to track seen words and find pairs. |
+| 2325 | [Decode the Message](./problems/2325-decode-the-message.md) | Easy | Substitution Cipher | Secret Decoder Ring | Build a map from key, then decode message. |
 

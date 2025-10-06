@@ -47,6 +47,8 @@ This file tracks the completion status of all problems. They are divided into th
 | 303  | [Range Sum Query - Immutable](./problems/303-range-sum-query-immutable.md)                                              | Easy       | Prefix Sum               | Array, Design     | Calculating daily mileage totals on a road trip.                                              | ✅     | 2025-10-02 |
 | 111  | [Minimum Depth of Binary Tree](./problems/111-minimum-depth-of-binary-tree.md)                                          | Easy       | BFS, DFS                 | Tree, Binary Tree | Finding the shortest path to a fire escape in a building.                                     | ✅     | 2025-10-03 |
 | 1021 | [Remove Outermost Parentheses](./problems/1021-remove-outermost-parentheses.md)                                         | Easy       | Stack Simulation         | String, Stack     | Parsing nested structures like file paths or code blocks.                                     | ✅     | 2025-10-05 |
+| 2828 | [Check if a String Is an Acronym of Words](./problems/2828-check-if-a-string-is-an-acronym-of-words.md) | Easy | String Manipulation | Array, String | Acronym Verification | ✅ | 2025-10-06 |
+| 2325 | [Decode the Message](./problems/2325-decode-the-message.md) | Easy | Hash Table | String, Hash Table | Secret Message Decoding | ✅ | 2025-10-06 |
 
 ---
 
