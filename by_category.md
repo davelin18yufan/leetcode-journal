@@ -18,6 +18,10 @@
 ### Array Problems
 
 | # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
+|---|---|---|---|---|---|
+| 3684 | [Maximize Sum of At Most K Distinct Elements](./problems/3684-maximize-sum-of-at-most-k-distinct-elements.md) | Easy | Greedy, Sorting | Packing a treasure chest. | Greedy: get unique elements with Set, sort descending, take top k. |
+|---|---|---|---|---|---|
+| 2859 | [Sum of Values at Indices With K Set Bits](./problems/2859-sum-of-values-at-indices-with-k-set-bits.md) | Easy | Bit Manipulation | Quality control inspector analogy. | Use bit manipulation to count set bits in an index `i`. |
 |---|---------|------------|--------------|-------------------|-------|
 | 908 | [Smallest Range I](./problems/908-smallest-range-i.md) | Easy | Math | Adjusting building temperatures | The key is to only consider the min and max values. |
 | 303 | [Range Sum Query - Immutable](./problems/303-range-sum-query-immutable.md) | Easy | Prefix Sum, O(1) Query | Road trip mileage log | Pre-computation for fast queries. |
@@ -90,6 +94,8 @@
 ### Bit Manipulation Problems
 
 | # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
+|---|---|---|---|---|---|
+| 2859 | [Sum of Values at Indices With K Set Bits](./problems/2859-sum-of-values-at-indices-with-k-set-bits.md) | Easy | Bit Manipulation | Quality control inspector analogy. | Use bit manipulation to count set bits in an index `i`. |
 |---|---------|------------|--------------|-------------------|-------|
 | 3370 | [Smallest Number With All Set Bits](./problems/3370-smallest-number-with-all-set-bits.md) | Easy | Bitwise Generation | Finding a standard shipping box. | Generate `1, 3, 7, 15...` with `(x << 1) | 1`. |
 
@@ -134,7 +140,11 @@
 | 561 | [Array Partition](./problems/561-array-partition.md) | Easy | Sorting | Maximizing dance competition scores. | Sort and sum every second element for the optimal result. |
 | 1221 | [Split a String in Balanced Strings](./problems/1221-split-a-string-in-balanced-strings.md) | Easy | Counting | Balancing steps on a path | Split as soon as balance is 0 for max splits. |
 
+### Greedy Problems
+
 | # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
+|---|---|---|---|---|---|
+| 3684 | [Maximize Sum of At Most K Distinct Elements](./problems/3684-maximize-sum-of-at-most-k-distinct-elements.md) | Easy | Sorting, Hash Table | Packing a treasure chest. | Get unique elements with Set, sort descending, take top k. |
 |---|---------|------------|--------------|-------------------|-------|
 | 561 | [Array Partition](./problems/561-array-partition.md) | Easy | Greedy | Maximizing dance competition scores. | The key is to sort the array first. |
 | 1337 | [The K Weakest Rows in a Matrix](./problems/1337-the-k-weakest-rows-in-a-matrix.md) | Easy | Binary Search, Tie-breaking | Ranking teams in a tournament. | O(M log N + M log M) solution using binary search for counting and then sorting. |
@@ -142,6 +152,8 @@
 ### Hash Table Problems
 
 | # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
+|---|---|---|---|---|---|
+| 3684 | [Maximize Sum of At Most K Distinct Elements](./problems/3684-maximize-sum-of-at-most-k-distinct-elements.md) | Easy | Greedy, Sorting | Packing a treasure chest. | Greedy: get unique elements with Set, sort descending, take top k. |
 |---|---------|------------|--------------|-------------------|-------|
 | 1995 | [Count Special Quadruplets](./problems/1995-count-special-quadruplets.md) | Easy | O(N³) Enumeration | Finding combinations that sum to a target. | Uses a frequency map to optimize a brute-force search from O(N⁴) to O(N³). |
 | 3146 | [Permutation Difference between Two Strings](./problems/3146-permutation-difference-between-two-strings.md) | Easy | Two-Pass, Map | Calculating a "shuffling score" in a race. | Optimal O(N) time and O(K) space solution. |
@@ -150,3 +162,9 @@
 | 2744 | [Find Maximum Number of String Pairs](./problems/2744-find-maximum-number-of-string-pairs.md) | Easy | Simulation | Pairing socks from a pile of laundry. | Use a Set to track seen words and find pairs. |
 | 2325 | [Decode the Message](./problems/2325-decode-the-message.md) | Easy | Substitution Cipher | Secret Decoder Ring | Build a map from key, then decode message. |
 
+### Sorting Problems
+
+| # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
+|---|---|---|---|---|---|
+| 3684 | [Maximize Sum of At Most K Distinct Elements](./problems/3684-maximize-sum-of-at-most-k-distinct-elements.md) | Easy | Greedy, Hash Table | Packing a treasure chest. | Get unique elements with Set, sort descending, take top k. |
+|---|---------|------------|--------------|-------------------|-------|
