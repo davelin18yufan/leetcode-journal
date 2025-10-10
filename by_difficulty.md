@@ -50,6 +50,7 @@
 
 ### Medium Problems
 - [3407. Substring Matching Pattern](./problems/3407-substring-matching-pattern.md)
+- [2563. Count the Number of Fair Pairs](./problems/2563-count-the-number-of-fair-pairs)
 
 ### Hard Problems
 - Coming soon...

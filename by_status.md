@@ -54,6 +54,7 @@ This file tracks the completion status of all problems. They are divided into th
 | 2828 | [Check if a String Is an Acronym of Words](./problems/2828-check-if-a-string-is-an-acronym-of-words.md) | Easy | String Manipulation | Array, String | Acronym Verification | ✅ | 2025-10-06 |
 | 2325 | [Decode the Message](./problems/2325-decode-the-message.md) | Easy | Hash Table | String, Hash Table | Secret Message Decoding | ✅ | 2025-10-06 |
 | 459 | [Repeated Substring Pattern](./problems/459-repeated-substring-pattern.md) | Easy | String Matching | String | Verifying a repeating wallpaper pattern. | ✅ | 2025-10-07 |
+| 2563 | [Count the Number of Fair Pairs](./problems/2563-count-the-number-of-fair-pairs.md) | Medium | Two Pointers, Sorting | Array | Finding dance pairs with a combined height in a specific range. | ✅ | 2025-10-10 |
 
 ---
 
