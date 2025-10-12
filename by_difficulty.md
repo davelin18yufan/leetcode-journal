@@ -33,6 +33,7 @@
 - [3099. Harshad Number](./problems/3099-harshad-number.md)
 - [3110. Score of a String](./problems/3110-score-of-a-string.md)
 - [3146. Permutation Difference between Two Strings](./problems/3146-permutation-difference-between-two-strings.md)
+- [3216. Lexicographically Smallest String After a Swap](#string-problems)
 - [3492. Maximum Containers on a Ship](./problems/3492-maximum-containers-on-a-ship.md)
 - [3663. Find The Least Frequent Digit](./problems/3663-find-the-least-frequent-digit.md)
 - [3684. Maximize Sum of At Most K Distinct Elements](#array-problems)

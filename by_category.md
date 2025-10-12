@@ -32,6 +32,7 @@
 
 | # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
 |---|---------|------------|--------------|-------------------|-------|
+| 3216 | [Lexicographically Smallest String After a Swap](./problems/3216-lexicographically-smallest-string-after-a-swap.md) | Easy | Greedy | Optimizing a sequence with a single swap. | The first beneficial swap is always the best one. |
 | 2255 | [Count Prefixes of a Given String](./problems/2255-count-prefixes-of-a-given-string.md) | Easy | Iteration, `startsWith` | Autocomplete suggestions. | Optimal O(N*M) solution for single-pass check. |
 | 3146 | [Permutation Difference between Two Strings](./problems/3146-permutation-difference-between-two-strings.md) | Easy | Hash Table, Two-Pass | Calculating a "shuffling score" in a race. | Optimal O(N) time and O(K) space solution. |
 | 1678 | [Goal Parser Interpretation](./problems/1678-goal-parser-interpretation.md) | Easy | String Manipulation, Look-Ahead | Telegraph operator decoding messages | Replace `()` with `o` and `(al)` with `al`. |
@@ -146,6 +147,7 @@
 
 | # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
 |---|---|---|---|---|---|
+| 3216 | [Lexicographically Smallest String After a Swap](./problems/3216-lexicographically-smallest-string-after-a-swap.md) | Easy | String | Optimizing a sequence with a single swap. | The first beneficial swap is always the best one. |
 | 3684 | [Maximize Sum of At Most K Distinct Elements](./problems/3684-maximize-sum-of-at-most-k-distinct-elements.md) | Easy | Sorting, Hash Table | Packing a treasure chest. | Get unique elements with Set, sort descending, take top k. |
 |---|---------|------------|--------------|-------------------|-------|
 | 561 | [Array Partition](./problems/561-array-partition.md) | Easy | Greedy | Maximizing dance competition scores. | The key is to sort the array first. |
