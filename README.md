@@ -1,14 +1,14 @@
 ## 📊 Quick Statistics
 
-- **Total Problems Solved**: 48
-- **Easy**: 47 | **Medium**: 2 | **Hard**: 0
-- **Last Updated**: 2025-10-12
+- **Total Problems Solved**: 49
+- **Easy**: 47 | **Medium**: 3 | **Hard**: 0
+- **Last Updated**: 2025-10-13
 
 ```mermaid
 pie
     title Problems by Difficulty
     "Easy" : 47
-    "Medium" : 2
+    "Medium" : 3
     "Hard" : 0
 ```
 
@@ -32,6 +32,8 @@ pie
 - [Greedy](#greedy-problems)
 - [Sorting](#sorting-problems)
 - [Hash Table](#hash-table-problems)
+- [Matrix](#matrix-problems)
+- [Simulation](#simulation-problems)
 
 ### By Difficulty
 - [Easy Problems](#easy-problems)

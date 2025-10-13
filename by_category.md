@@ -19,6 +19,7 @@
 
 | # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
 |---|---|---|---|---|---|
+| 1706 | [Where Will the Ball Fall](./problems/1706-where-will-the-ball-fall.md) | Medium | Direct Simulation | Pachinko machine simulation | Clean simulation is key. |
 | 3684 | [Maximize Sum of At Most K Distinct Elements](./problems/3684-maximize-sum-of-at-most-k-distinct-elements.md) | Easy | Greedy, Sorting | Packing a treasure chest. | Greedy: get unique elements with Set, sort descending, take top k. |
 |---|---|---|---|---|---|
 | 2859 | [Sum of Values at Indices With K Set Bits](./problems/2859-sum-of-values-at-indices-with-k-set-bits.md) | Easy | Bit Manipulation | Quality control inspector analogy. | Use bit manipulation to count set bits in an index `i`. |
@@ -174,3 +175,15 @@
 |---|---------|------------|--------------|-------------------|-------|
 | 2563 | [Count the Number of Fair Pairs](./problems/2563-count-the-number-of-fair-pairs.md) | Medium | Two Pointers | Finding dance partners. | O(N log N) solution using two pointers after sorting. |
 |---|---------|------------|--------------|-------------------|-------|
+
+### Matrix Problems
+
+| # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
+|---|---|---|---|---|---|
+| 1706 | [Where Will the Ball Fall](./problems/1706-where-will-the-ball-fall.md) | Medium | Direct Simulation | Pachinko machine simulation | Clean simulation is key. |
+
+### Simulation Problems
+
+| # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
+|---|---|---|---|---|---|
+| 1706 | [Where Will the Ball Fall](./problems/1706-where-will-the-ball-fall.md) | Medium | Direct Simulation | Pachinko machine simulation | Clean simulation is key. |

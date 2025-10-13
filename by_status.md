@@ -12,6 +12,7 @@ This file tracks the completion status of all problems. They are divided into th
 
 | #    | Problem                                                                                                                 | Difficulty | Algorithm                | Data Structure    | Real-world Scenario                                                                           | Status | Date       |
 |---|---|---|---|---|---|---|---|
+| 1706 | [Where Will the Ball Fall](./problems/1706-where-will-the-ball-fall.md) | Medium | Simulation | Array, Matrix | Simulating a Plinko or Pachinko machine. | ✅ | 2025-10-13 |
 | 3216 | [Lexicographically Smallest String After a Swap](./problems/3216-lexicographically-smallest-string-after-a-swap.md) | Easy       | Greedy                   | String            | Optimizing a sequence with a single, constrained, local adjustment.                           | ✅     | 2025-10-12 |
 | 3684 | [Maximize Sum of At Most K Distinct Elements](./problems/3684-maximize-sum-of-at-most-k-distinct-elements.md) | Easy       | Greedy, Sorting          | Array, Hash Table | Packing a treasure chest with the most valuable unique items.                                 | ✅     | 2025-10-09 |
 |---|-------------------------------------------------------------------------------------------------------------------------|------------|--------------------------|-------------------|-----------------------------------------------------------------------------------------------|--------|------------|
