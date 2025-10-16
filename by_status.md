@@ -78,3 +78,4 @@ This file tracks the completion status of all problems. They are divided into th
 
 | #   | Problem | Difficulty | Algorithm | Data Structure | Real-world Scenario | Status | Date |
 | --- | ------- | ---------- | --------- | -------------- | ------------------- | ------ | ---- |
+| 2012 | [Sum of Beauty in the Array](./problems/2012-sum-of-beauty-in-the-array.md) | Medium | Prefix Sum, Array | Array | Analyzing a mountain range profile. | 🚧 | 2025-10-16 |

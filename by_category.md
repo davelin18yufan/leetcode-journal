@@ -19,6 +19,7 @@
 
 | # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
 |---|---|---|---|---|---|
+| 2012 | [Sum of Beauty in the Array](./problems/2012-sum-of-beauty-in-the-array.md) | Medium | Prefix Sum, Suffix Min | Mountain range peak finding | Marked as incomplete for future review. |
 | 1706 | [Where Will the Ball Fall](./problems/1706-where-will-the-ball-fall.md) | Medium | Direct Simulation | Pachinko machine simulation | Clean simulation is key. |
 | 3684 | [Maximize Sum of At Most K Distinct Elements](./problems/3684-maximize-sum-of-at-most-k-distinct-elements.md) | Easy | Greedy, Sorting | Packing a treasure chest. | Greedy: get unique elements with Set, sort descending, take top k. |
 |---|---|---|---|---|---|

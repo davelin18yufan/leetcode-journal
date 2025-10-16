@@ -51,8 +51,9 @@
 
 ### Medium Problems
 - [1706. Where Will the Ball Fall](./problems/1706-where-will-the-ball-fall.md)
-- [3407. Substring Matching Pattern](./problems/3407-substring-matching-pattern.md)
+- [2012. Sum of Beauty in the Array](#array-problems)
 - [2563. Count the Number of Fair Pairs](./problems/2563-count-the-number-of-fair-pairs)
+- [3407. Substring Matching Pattern](./problems/3407-substring-matching-pattern.md)
 
 ### Hard Problems
 - Coming soon...
