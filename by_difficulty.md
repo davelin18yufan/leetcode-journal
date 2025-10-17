@@ -50,6 +50,7 @@
 - [2325. Decode the Message](#hash-table-problems)
 
 ### Medium Problems
+- [825. Friends Of Appropriate Ages](#array-problems)
 - [1706. Where Will the Ball Fall](./problems/1706-where-will-the-ball-fall.md)
 - [2012. Sum of Beauty in the Array](#array-problems)
 - [2563. Count the Number of Fair Pairs](./problems/2563-count-the-number-of-fair-pairs)

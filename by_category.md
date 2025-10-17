@@ -29,6 +29,7 @@
 | 303 | [Range Sum Query - Immutable](./problems/303-range-sum-query-immutable.md) | Easy | Prefix Sum, O(1) Query | Road trip mileage log | Pre-computation for fast queries. |
 | 2828 | [Check if a String Is an Acronym of Words](./problems/2828-check-if-a-string-is-an-acronym-of-words.md) | Easy | First Character Matching | Acronym Verification | Compare first char of each word. |
 | 2563 | [Count the Number of Fair Pairs](./problems/2563-count-the-number-of-fair-pairs.md) | Medium | Two Pointers, Sorting | Finding dance partners. | O(N log N) solution by sorting and using two pointers. |
+| 825 | [Friends Of Appropriate Ages](./problems/825-friends-of-appropriate-ages.md) | Medium | Two Pointers, Sorting | Analyzing demographics at a large convention. | O(N) solution using age counting. |
 
 ### String Problems
 
@@ -127,6 +128,7 @@
 |---|---------|------------|--------------|-------------------|-------|
 | 344 | [Reverse String](./problems/344-reverse-string.md) | Easy | In-place swap | Reversing books on a shelf | Optimal O(N) time, O(1) space solution. |
 | 2563 | [Count the Number of Fair Pairs](./problems/2563-count-the-number-of-fair-pairs.md) | Medium | Sorting | Finding dance partners. | O(N log N) solution by sorting first. |
+| 825 | [Friends Of Appropriate Ages](./problems/825-friends-of-appropriate-ages.md) | Medium | Sorting | Analyzing demographics at a large convention. | O(N) solution using age counting. |
 
 ### Sliding Window Problems
 
