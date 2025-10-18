@@ -19,6 +19,7 @@
 
 | # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
 |---|---|---|---|---|---|
+| 1732 | [Find the Highest Altitude](./problems/1732-find-the-highest-altitude.md) | Easy | Prefix Sum | Tracking your bank account balance | Iterate through gains, tracking current and max altitude. |
 | 2012 | [Sum of Beauty in the Array](./problems/2012-sum-of-beauty-in-the-array.md) | Medium | Prefix Sum, Suffix Min | Mountain range peak finding | Marked as incomplete for future review. |
 | 1706 | [Where Will the Ball Fall](./problems/1706-where-will-the-ball-fall.md) | Medium | Direct Simulation | Pachinko machine simulation | Clean simulation is key. |
 | 3684 | [Maximize Sum of At Most K Distinct Elements](./problems/3684-maximize-sum-of-at-most-k-distinct-elements.md) | Easy | Greedy, Sorting | Packing a treasure chest. | Greedy: get unique elements with Set, sort descending, take top k. |
@@ -84,6 +85,7 @@
 
 | # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
 |---|---------|------------|--------------|-------------------|-------|
+| 3304 | [Find the K-th Character in String Game I](./problems/3304-find-the-k-th-character-in-string-game-i.md) | Easy | Recursion, Bit Manipulation | Building a fractal pattern | Optimal O(log k) solution using recursion. |
 | 908 | [Smallest Range I](./problems/908-smallest-range-i.md) | Easy | Math | Adjusting building temperatures | The key is to only consider the min and max values. |
 | 326 | [Power of Three](./problems/326-power-of-three.md) | Easy | Integer Limitation | Checking for perfect nesting in Russian dolls. | O(1) solution using the largest integer power of 3. |
 | 3099 | [Harshad Number](./problems/3099-harshad-number.md) | Easy | Digit Sum, Divisibility | A number is a "Team Player" if it's divisible by its "teamwork contribution" (sum of digits). | Calculate digit sum, then check divisibility. |
@@ -100,6 +102,7 @@
 
 | # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
 |---|---|---|---|---|---|
+| 3304 | [Find the K-th Character in String Game I](./problems/3304-find-the-k-th-character-in-string-game-i.md) | Easy | Recursion, Math | Building a fractal pattern | The string length doubles each time, a power-of-2 pattern. |
 | 2859 | [Sum of Values at Indices With K Set Bits](./problems/2859-sum-of-values-at-indices-with-k-set-bits.md) | Easy | Bit Manipulation | Quality control inspector analogy. | Use bit manipulation to count set bits in an index `i`. |
 |---|---------|------------|--------------|-------------------|-------|
 | 3370 | [Smallest Number With All Set Bits](./problems/3370-smallest-number-with-all-set-bits.md) | Easy | Bitwise Generation | Finding a standard shipping box. | Generate `1, 3, 7, 15...` with `(x << 1) | 1`. |
