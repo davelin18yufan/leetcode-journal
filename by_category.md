@@ -67,6 +67,8 @@
 ### Tree Problems
 
 | # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
+|---|---|---|---|---|---|
+| 1530 | [Number of Good Leaf Nodes Pairs](./problems/1530-number-of-good-leaf-nodes-pairs.md) | Medium | DFS, Recursion | Finding "close" employees in an org chart. | Marked for review. Uses post-order DFS to find LCA. |
 |---|---------|------------|--------------|-------------------|-------|
 | 108 | [Convert Sorted Array to Binary Search Tree](./problems/108-convert-sorted-array-to-binary-search-tree.md) | Easy | Divide and Conquer, Recursion | Creating a fair tournament bracket. | 🚧 WIP. The key is picking the middle element as the root. |
 | 100 | [Same Tree](./problems/100-same-tree.md) | Easy | Recursion, DFS, BFS | Comparing two company organization charts. | Classic recursive solution checking node values and structure. |

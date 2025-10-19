@@ -66,6 +66,8 @@ This file tracks the completion status of all problems. They are divided into th
 ### 🤔 Needs Review
 
 | #    | Problem                                                                                                    | Difficulty | Algorithm               | Data Structure    | Real-world Scenario                                                                     | Status | Date       |
+|---|---|---|---|---|---|---|---|
+| 1530 | [Number of Good Leaf Nodes Pairs](./problems/1530-number-of-good-leaf-nodes-pairs.md) | Medium | Depth-First Search | Tree | Finding "close" employees in an org chart. | 🤔 | 2025-10-19 |
 | ---- | ---------------------------------------------------------------------------------------------------------- | ---------- | ----------------------- | ----------------- | --------------------------------------------------------------------------------------- | ------ | ---------- |
 | 908  | [Smallest Range I](./problems/908-smallest-range-i.md)                                                     | Easy       | Math                    | Array             | Adjusting temperatures in a building to minimize the difference.                        | 🤔     | 2025-10-08 |
 | 1995 | [Count Special Quadruplets](./problems/1995-count-special-quadruplets.md)                                  | Easy       | Hash Table, Enumeration | Array, Hash Table | Counting combinations for a target sum.                                                 | 🤔     | 2025-09-11 |
