@@ -60,6 +60,7 @@ This file tracks the completion status of all problems. They are divided into th
 | 459 | [Repeated Substring Pattern](./problems/459-repeated-substring-pattern.md) | Easy | String Matching | String | Verifying a repeating wallpaper pattern. | ✅ | 2025-10-07 |
 | 2563 | [Count the Number of Fair Pairs](./problems/2563-count-the-number-of-fair-pairs.md) | Medium | Two Pointers, Sorting | Array | Finding dance pairs with a combined height in a specific range. | ✅ | 2025-10-10 |
 | 825 | [Friends Of Appropriate Ages](./problems/825-friends-of-appropriate-ages.md) | Medium | Two Pointers, Sorting | Array | Analyzing demographics at a large convention. | ✅ | 2025-10-17 |
+| 3355 | [Zero Array Transformation I](./problems/3355-zero-array-transformation-i.md) | Medium | Prefix Sum | Array | Calculating total coverage of overlapping intervals. | ✅ | 2025-10-20 |
 
 ---
 
