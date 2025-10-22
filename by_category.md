@@ -51,6 +51,7 @@
 | 2828 | [Check if a String Is an Acronym of Words](./problems/2828-check-if-a-string-is-an-acronym-of-words.md) | Easy | Character-by-Character Comparison | Acronym Verification | Iterate and compare chars at each index. |
 | 2325 | [Decode the Message](./problems/2325-decode-the-message.md) | Easy | Character Mapping | Secret Decoder Ring | Map key chars to alphabet, then substitute. |
 | 459 | [Repeated Substring Pattern](./problems/459-repeated-substring-pattern.md) | Easy | String Matching | Wallpaper Pattern Matching | O(N) trick using string concatenation. |
+| 1309 | [Decrypt String from Alphabet to Integer Mapping](./problems/1309-decrypt-string-from-alphabet-to-integer-mapping.md) | Easy | String Manipulation, Iteration | Translating Morse code with varying patterns for single and double-digit representations. | Iterate and check for '#' to determine 1 or 2 digit mapping. |
 
 ### Linked List Problems
 

@@ -20,6 +20,7 @@
 - [908. Smallest Range I](#array-problems)
 - [993. Cousins in Binary Tree](./problems/993-cousins-in-binary-tree.md)
 - [1021. Remove Outermost Parentheses](#string-problems)
+- [1309. Decrypt String from Alphabet to Integer Mapping](#string-problems)
 - [1221. Split a String in Balanced Strings](./problems/1221-split-a-string-in-balanced-strings.md)
 - [1337. The K Weakest Rows in a Matrix](#array-problems)
 - [1380. Lucky Numbers in a Matrix](#array-problems)
