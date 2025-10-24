@@ -52,6 +52,7 @@
 | 2325 | [Decode the Message](./problems/2325-decode-the-message.md) | Easy | Character Mapping | Secret Decoder Ring | Map key chars to alphabet, then substitute. |
 | 459 | [Repeated Substring Pattern](./problems/459-repeated-substring-pattern.md) | Easy | String Matching | Wallpaper Pattern Matching | O(N) trick using string concatenation. |
 | 1309 | [Decrypt String from Alphabet to Integer Mapping](./problems/1309-decrypt-string-from-alphabet-to-integer-mapping.md) | Easy | String Manipulation, Iteration | Translating Morse code with varying patterns for single and double-digit representations. | Iterate and check for '#' to determine 1 or 2 digit mapping. |
+| 1790 | [Check if One String Swap Can Make Strings Equal](./problems/1790-check-if-one-string-swap-can-make-strings-equal.md) | Easy | Index Tracking | Swapping books on a shelf. | Use an array to track differing indices. |
 
 ### Linked List Problems
 
@@ -176,6 +177,7 @@
 | 3663 | [Find The Least Frequent Digit](./problems/3663-find-the-least-frequent-digit.md) | Easy | Frequency Count, Two-Pass | Finding least-voted candidate | Optimal O(L) time, O(1) space solution. |
 | 2744 | [Find Maximum Number of String Pairs](./problems/2744-find-maximum-number-of-string-pairs.md) | Easy | Simulation | Pairing socks from a pile of laundry. | Use a Set to track seen words and find pairs. |
 | 2325 | [Decode the Message](./problems/2325-decode-the-message.md) | Easy | Substitution Cipher | Secret Decoder Ring | Build a map from key, then decode message. |
+| 1790 | [Check if One String Swap Can Make Strings Equal](./problems/1790-check-if-one-string-swap-can-make-strings-equal.md) | Easy | Index Tracking | Swapping books on a shelf. | Use an array to track differing indices. |
 
 ### Sorting Problems
 

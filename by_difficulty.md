@@ -27,6 +27,7 @@
 - [1603. Design Parking System](./problems/1603-design-parking-system.md)
 - [1678. Goal Parser Interpretation](./problems/1678-goal-parser-interpretation.md)
 - [1732. Find the Highest Altitude](#array-problems)
+- [1790. Check if One String Swap Can Make Strings Equal](#string-problems)
 - [1800. Maximum Ascending Subarray Sum](./problems/1800-maximum-ascending-subarray-sum.md)
 - [1995. Count Special Quadruplets](./problems/1995-count-special-quadruplets.md)
 - [2255. Count Prefixes of a Given String](./problems/2255-count-prefixes-of-a-given-string.md)

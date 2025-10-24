@@ -62,6 +62,7 @@ This file tracks the completion status of all problems. They are divided into th
 | 825 | [Friends Of Appropriate Ages](./problems/825-friends-of-appropriate-ages.md) | Medium | Two Pointers, Sorting | Array | Analyzing demographics at a large convention. | ✅ | 2025-10-17 |
 | 3355 | [Zero Array Transformation I](./problems/3355-zero-array-transformation-i.md) | Medium | Prefix Sum | Array | Calculating total coverage of overlapping intervals. | ✅ | 2025-10-20 |
 | 1309 | [Decrypt String from Alphabet to Integer Mapping](./problems/1309-decrypt-string-from-alphabet-to-integer-mapping.md) | Easy | String Manipulation, Iteration | String | Translating Morse code with varying patterns for single and double-digit representations. | ✅ | 2025-10-22 |
+| 1790 | [Check if One String Swap Can Make Strings Equal](./problems/1790-check-if-one-string-swap-can-make-strings-equal.md) | Easy | String | Hash Table | Checking if two bookshelves are identical with one swap. | ✅ | 2025-10-24 |
 
 ---
 
