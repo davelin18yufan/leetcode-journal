@@ -51,8 +51,8 @@
 | 2828 | [Check if a String Is an Acronym of Words](./problems/2828-check-if-a-string-is-an-acronym-of-words.md) | Easy | Character-by-Character Comparison | Acronym Verification | Iterate and compare chars at each index. |
 | 2325 | [Decode the Message](./problems/2325-decode-the-message.md) | Easy | Character Mapping | Secret Decoder Ring | Map key chars to alphabet, then substitute. |
 | 459 | [Repeated Substring Pattern](./problems/459-repeated-substring-pattern.md) | Easy | String Matching | Wallpaper Pattern Matching | O(N) trick using string concatenation. |
-| 1309 | [Decrypt String from Alphabet to Integer Mapping](./problems/1309-decrypt-string-from-alphabet-to-integer-mapping.md) | Easy | String Manipulation, Iteration | Translating Morse code with varying patterns for single and double-digit representations. | Iterate and check for '#' to determine 1 or 2 digit mapping. |
 | 1790 | [Check if One String Swap Can Make Strings Equal](./problems/1790-check-if-one-string-swap-can-make-strings-equal.md) | Easy | Index Tracking | Swapping books on a shelf. | Use an array to track differing indices. |
+| 3106 | [Lexicographically Smallest String After Operations With Constraint](./problems/3106-lexicographically-smallest-string-after-operations-with-constraint.md) | Medium | Greedy | Adjusting a combination lock. | Iterate from left to right, making each character as small as possible. |
 
 ### Linked List Problems
 

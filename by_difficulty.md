@@ -60,6 +60,7 @@
 - [2012. Sum of Beauty in the Array](#array-problems)
 - [2563. Count the Number of Fair Pairs](./problems/2563-count-the-number-of-fair-pairs)
 - [3407. Substring Matching Pattern](./problems/3407-substring-matching-pattern.md)
+- [3106. Lexicographically Smallest String After Operations With Constraint](#string-problems)
 - [3355. Zero Array Transformation I](#array-problems)
 
 ### Hard Problems
