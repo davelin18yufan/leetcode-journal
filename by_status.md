@@ -80,11 +80,7 @@ This file tracks the completion status of all problems. They are divided into th
 | 94   | [Binary Tree Inorder Traversal](./problems/94-binary-tree-inorder-traversal.md)                            | Easy       | DFS                     | Tree              | A librarian listing books on a shelf following a 'Left -> Self -> Right' rule.          | 🤔     | 2025-09-06 |
 | 83   | [Remove Duplicates from Sorted List](./problems/83-remove-duplicates-from-sorted-list.md)                  | Easy       | Single Pointer          | Linked List       | De-duplicating a sorted sequence                                                        | 🤔     | 2025-09-02 |
 | 108  | [Convert Sorted Array to Binary Search Tree](./problems/108-convert-sorted-array-to-binary-search-tree.md) | Easy       | Divide and Conquer      | Array, Tree       | Creating a balanced tournament bracket.                                                 | 🤔     | 2025-10-01 |
-
----
-
-### 🚧 Work in Progress
-
 | #   | Problem | Difficulty | Algorithm | Data Structure | Real-world Scenario | Status | Date |
 | --- | ------- | ---------- | --------- | -------------- | ------------------- | ------ | ---- |
-| 2012 | [Sum of Beauty in the Array](./problems/2012-sum-of-beauty-in-the-array.md) | Medium | Prefix Sum, Array | Array | Analyzing a mountain range profile. | 🚧 | 2025-10-16 |
+| 785 | [Is Graph Bipartite?](./problems/785-is-graph-bipartite.md) | Medium | DFS, BFS, Union Find | Graph | Scheduling conflicting meetings. | 🤔 | 2025-10-26 |
+| 2012 | [Sum of Beauty in the Array](./problems/2012-sum-of-beauty-in-the-array.md) | Medium | Prefix Sum, Array | Array | Analyzing a mountain range profile. | 🤔 | 2025-10-16 |
