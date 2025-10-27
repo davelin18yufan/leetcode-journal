@@ -138,6 +138,7 @@
 | 344 | [Reverse String](./problems/344-reverse-string.md) | Easy | In-place swap | Reversing books on a shelf | Optimal O(N) time, O(1) space solution. |
 | 2563 | [Count the Number of Fair Pairs](./problems/2563-count-the-number-of-fair-pairs.md) | Medium | Sorting | Finding dance partners. | O(N log N) solution by sorting first. |
 | 825 | [Friends Of Appropriate Ages](./problems/825-friends-of-appropriate-ages.md) | Medium | Sorting | Analyzing demographics at a large convention. | O(N) solution using age counting. |
+| 2540 | [Minimum Common Value](./problems/2540-minimum-common-value.md) | Easy | Two Pointers, Array | Finding a common entry in two sorted lists. | Optimal O(N+M) time and O(1) space solution. |
 
 ### Sliding Window Problems
 

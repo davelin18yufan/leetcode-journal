@@ -44,6 +44,7 @@
 - [3304. Find the K-th Character in String Game I](#math-problems)
 - [2006. Count Number of Pairs With Absolute Difference K](#array-problems)
 - [2446. Determine if Two Events Have Conflict](#array-problems)
+- [2540. Minimum Common Value](#two-pointers-problems)
 - [2744. Find Maximum Number of String Pairs](./problems/2744-find-maximum-number-of-string-pairs.md)
 - [2859. Sum of Values at Indices With K Set Bits](./problems/2859-sum-of-values-at-indices-with-k-set-bits.md)
 - [724. Find Pivot Index](#array-problems)
