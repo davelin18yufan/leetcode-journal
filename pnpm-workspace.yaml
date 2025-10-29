@@ -1,3 +1,4 @@
 onlyBuiltDependencies:
   - '@lvce-editor/ripgrep'
   - node-pty
+  - tree-sitter-bash

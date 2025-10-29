@@ -64,6 +64,7 @@
 - [3407. Substring Matching Pattern](./problems/3407-substring-matching-pattern.md)
 - [3106. Lexicographically Smallest String After Operations With Constraint](#string-problems)
 - [3355. Zero Array Transformation I](#array-problems)
+- [2516. Take K of Each Character From Left and Right](#sliding-window-problems)
 
 ### Hard Problems
 - Coming soon...

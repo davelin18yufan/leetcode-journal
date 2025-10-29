@@ -65,6 +65,7 @@ This file tracks the completion status of all problems. They are divided into th
 | 1790 | [Check if One String Swap Can Make Strings Equal](./problems/1790-check-if-one-string-swap-can-make-strings-equal.md) | Easy | String | Hash Table | Checking if two bookshelves are identical with one swap. | ✅ | 2025-10-24 |
 | 3106 | [Lexicographically Smallest String After Operations With Constraint](./problems/3106-lexicographically-smallest-string-after-operations-with-constraint.md) | Medium | Greedy | String | Adjusting a combination lock with a limited number of clicks. | ✅ | 2025-10-25 |
 | 2540 | [Minimum Common Value](./problems/2540-minimum-common-value.md) | Easy | Two Pointers | Array | Finding the first common name in two sorted phone books. | ✅ | 2025-10-27 |
+| 2516 | [Take K of Each Character From Left and Right](./problems/2516-take-k-of-each-character-from-left-and-right.md) | Medium | Sliding Window | String, Hash Table | Gathering a specific number of items from the ends of a collection. | ✅ | 2025-10-29 |
 
 ---
 
