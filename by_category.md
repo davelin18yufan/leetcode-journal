@@ -19,6 +19,7 @@
 
 | # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
 |---|---|---|---|---|---|
+| 2535 | [Difference Between Element Sum and Digit Sum of an Array](./problems/2535-difference-between-element-sum-and-digit-sum-of-an-array.md) | Easy | Summation, Modulo | Check Processing | Calculate element sum and digit sum separately. |
 | 1732 | [Find the Highest Altitude](./problems/1732-find-the-highest-altitude.md) | Easy | Prefix Sum | Tracking your bank account balance | Iterate through gains, tracking current and max altitude. |
 | 2012 | [Sum of Beauty in the Array](./problems/2012-sum-of-beauty-in-the-array.md) | Medium | Prefix Sum, Suffix Min | Mountain range peak finding | Marked as incomplete for future review. |
 | 1706 | [Where Will the Ball Fall](./problems/1706-where-will-the-ball-fall.md) | Medium | Direct Simulation | Pachinko machine simulation | Clean simulation is key. |
@@ -37,6 +38,7 @@
 
 | # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
 |---|---------|------------|--------------|-------------------|-------|
+| 2000 | [Reverse Prefix of Word](./problems/2000-reverse-prefix-of-word.md) | Easy | Two Pointers | Road Sign Analogy | Find index, slice, reverse prefix, and concatenate. |
 | 2516 | [Take K of Each Character From Left and Right](./problems/2516-take-k-of-each-character-from-left-and-right.md) | Medium | Sliding Window, Inverted Thinking | Resource gathering from ends | Invert the problem: find the largest valid middle window to *leave*. |
 | 3216 | [Lexicographically Smallest String After a Swap](./problems/3216-lexicographically-smallest-string-after-a-swap.md) | Easy | Greedy | Optimizing a sequence with a single swap. | The first beneficial swap is always the best one. |
 | 2255 | [Count Prefixes of a Given String](./problems/2255-count-prefixes-of-a-given-string.md) | Easy | Iteration, `startsWith` | Autocomplete suggestions. | Optimal O(N*M) solution for single-pass check. |
@@ -92,6 +94,7 @@
 
 | # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
 |---|---------|------------|--------------|-------------------|-------|
+| 2535 | [Difference Between Element Sum and Digit Sum of an Array](./problems/2535-difference-between-element-sum-and-digit-sum-of-an-array.md) | Easy | Summation, Modulo | Check Processing | Calculate element sum and digit sum separately. |
 | 3304 | [Find the K-th Character in String Game I](./problems/3304-find-the-k-th-character-in-string-game-i.md) | Easy | Recursion, Bit Manipulation | Building a fractal pattern | Optimal O(log k) solution using recursion. |
 | 908 | [Smallest Range I](./problems/908-smallest-range-i.md) | Easy | Math | Adjusting building temperatures | The key is to only consider the min and max values. |
 | 326 | [Power of Three](./problems/326-power-of-three.md) | Easy | Integer Limitation | Checking for perfect nesting in Russian dolls. | O(1) solution using the largest integer power of 3. |
@@ -136,6 +139,7 @@
 
 | # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
 |---|---------|------------|--------------|-------------------|-------|
+| 2000 | [Reverse Prefix of Word](./problems/2000-reverse-prefix-of-word.md) | Easy | String Reversal | Road Sign Analogy | Use two pointers to reverse the prefix in-place (on a character array). |
 | 344 | [Reverse String](./problems/344-reverse-string.md) | Easy | In-place swap | Reversing books on a shelf | Optimal O(N) time, O(1) space solution. |
 | 2563 | [Count the Number of Fair Pairs](./problems/2563-count-the-number-of-fair-pairs.md) | Medium | Sorting | Finding dance partners. | O(N log N) solution by sorting first. |
 | 825 | [Friends Of Appropriate Ages](./problems/825-friends-of-appropriate-ages.md) | Medium | Sorting | Analyzing demographics at a large convention. | O(N) solution using age counting. |

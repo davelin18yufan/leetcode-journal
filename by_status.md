@@ -66,6 +66,8 @@ This file tracks the completion status of all problems. They are divided into th
 | 3106 | [Lexicographically Smallest String After Operations With Constraint](./problems/3106-lexicographically-smallest-string-after-operations-with-constraint.md) | Medium | Greedy | String | Adjusting a combination lock with a limited number of clicks. | ✅ | 2025-10-25 |
 | 2540 | [Minimum Common Value](./problems/2540-minimum-common-value.md) | Easy | Two Pointers | Array | Finding the first common name in two sorted phone books. | ✅ | 2025-10-27 |
 | 2516 | [Take K of Each Character From Left and Right](./problems/2516-take-k-of-each-character-from-left-and-right.md) | Medium | Sliding Window | String, Hash Table | Gathering a specific number of items from the ends of a collection. | ✅ | 2025-10-29 |
+| 2535 | [Difference Between Element Sum and Digit Sum of an Array](./problems/2535-difference-between-element-sum-and-digit-sum-of-an-array.md) | Easy | Math | Array | Calculating the difference between the face value of checks and the sum of their individual digits. | ✅ | 2025-10-31 |
+| 2000 | [Reverse Prefix of Word](./problems/2000-reverse-prefix-of-word.md) | Easy | Two Pointers | String | Reversing a segment of a road up to a specific landmark. | ✅ | 2025-10-31 |
 
 ---
 

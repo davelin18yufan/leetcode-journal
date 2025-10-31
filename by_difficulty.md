@@ -30,6 +30,7 @@
 - [1790. Check if One String Swap Can Make Strings Equal](#string-problems)
 - [1800. Maximum Ascending Subarray Sum](./problems/1800-maximum-ascending-subarray-sum.md)
 - [1995. Count Special Quadruplets](./problems/1995-count-special-quadruplets.md)
+- [2000. Reverse Prefix of Word](#string-problems)
 - [2255. Count Prefixes of a Given String](./problems/2255-count-prefixes-of-a-given-string.md)
 - [2269. Find the K-Beauty of a Number](./problems/2269-find-the-k-beauty-of-a-number.md)
 - [2810. Faulty Keyboard](./problems/2810-faulty-keyboard.md)
@@ -53,6 +54,7 @@
 - [3370. Smallest Number With All Set Bits](#math-problems)
 - [2828. Check if a String Is an Acronym of Words](#string-problems)
 - [2325. Decode the Message](#hash-table-problems)
+- [2535. Difference Between Element Sum and Digit Sum of an Array](#array-problems)
 
 ### Medium Problems
 - [785. Is Graph Bipartite?](#graph-problems)
