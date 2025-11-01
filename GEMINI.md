@@ -142,7 +142,8 @@ problems/20-valid-parentheses.md
    * `Difficulty List`
    * (plus a dedicated `/problems/*.md` file)
 6. **Calculate total count and update mermaid chart at the top after every update.**
-7. **Real world analogy description around 50 ~ 150 words.** (easy to imaginated.)
+7. **Real world analogy description around 50 ~ 200 words.** (easy to imaginated.)
+8. **If target problem which is already on list, check status on list and update.**
 
 ---
 
