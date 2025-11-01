@@ -88,3 +88,11 @@ This file tracks the completion status of all problems. They are divided into th
 | --- | ------- | ---------- | --------- | -------------- | ------------------- | ------ | ---- |
 | 785 | [Is Graph Bipartite?](./problems/785-is-graph-bipartite.md) | Medium | DFS, BFS, Union Find | Graph | Scheduling conflicting meetings. | 🤔 | 2025-10-26 |
 | 2012 | [Sum of Beauty in the Array](./problems/2012-sum-of-beauty-in-the-array.md) | Medium | Prefix Sum, Array | Array | Analyzing a mountain range profile. | 🤔 | 2025-10-16 |
+
+---
+
+### 🚧 Work in Progress
+
+| #    | Problem                                                                                                                         | Difficulty | Algorithm         | Data Structure | Real-world Scenario                               | Status      | Date       |
+|------|---------------------------------------------------------------------------------------------------------------------------------|------------|-------------------|----------------|---------------------------------------------------|-------------|------------|
+| 1968 | [Array With Elements Not Equal to Average of Neighbors](./problems/1968-array-with-elements-not-equal-to-average-of-neighbors.md) | Medium     | Greedy, Sorting   | Array          | Building a "peak-and-valley" mountain range.      | 🚧 (TODO)   | 2025-11-01 |

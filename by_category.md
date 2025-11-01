@@ -13,7 +13,8 @@
 | 2744 | [Find Maximum Number of String Pairs](./problems/2744-find-maximum-number-of-string-pairs.md) | Easy | Hash Table, Simulation | Pairing socks from a pile of laundry. | Use a Set to track seen words and find pairs. |
 | 724 | [Find Pivot Index](./problems/724-find-pivot-index.md) | Easy | Prefix Sum | Balancing a seesaw. | O(N) time, O(1) space using total sum. |
 | 2446 | [Determine if Two Events Have Conflict](./problems/2446-determine-if-two-events-have-conflict.md) | Easy | Direct String Comparison | Yes | Compare time strings directly to check for overlap. |
-| 867 | [Transpose Matrix](./problems/867-transpose-matrix.md) | Easy | Matrix Transposition | Rotating a spreadsheet | Create a new matrix with swapped dimensions and copy elements. |
+| 867  | [Transpose Matrix](./problems/867-transpose-matrix.md)                                                                  | Easy       | Matrix Transposition | Rotating a spreadsheet | Create a new matrix with swapped dimensions and copy elements. |
+| 1968 | [Array With Elements Not Equal to Average of Neighbors](./problems/1968-array-with-elements-not-equal-to-average-of-neighbors.md) | Medium | Greedy, Sorting | Creating a "peak-and-valley" arrangement. | Sort and interleave elements from both ends. |
 
 ### Array Problems
 
@@ -172,6 +173,7 @@
 |---|---------|------------|--------------|-------------------|-------|
 | 561 | [Array Partition](./problems/561-array-partition.md) | Easy | Greedy | Maximizing dance competition scores. | The key is to sort the array first. |
 | 1337 | [The K Weakest Rows in a Matrix](./problems/1337-the-k-weakest-rows-in-a-matrix.md) | Easy | Binary Search, Tie-breaking | Ranking teams in a tournament. | O(M log N + M log M) solution using binary search for counting and then sorting. |
+| 1968 | [Array With Elements Not Equal to Average of Neighbors](./problems/1968-array-with-elements-not-equal-to-average-of-neighbors.md) | Medium | Sorting | Creating a "peak-and-valley" arrangement. | Sort and interleave elements from both ends. |
 
 ### Hash Table Problems
 
@@ -193,8 +195,9 @@
 | # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
 |---|---|---|---|---|---|
 | 3684 | [Maximize Sum of At Most K Distinct Elements](./problems/3684-maximize-sum-of-at-most-k-distinct-elements.md) | Easy | Greedy, Hash Table | Packing a treasure chest. | Get unique elements with Set, sort descending, take top k. |
-|---|---------|------------|--------------|-------------------|-------|
+|---|
 | 2563 | [Count the Number of Fair Pairs](./problems/2563-count-the-number-of-fair-pairs.md) | Medium | Two Pointers | Finding dance partners. | O(N log N) solution using two pointers after sorting. |
+| 1968 | [Array With Elements Not Equal to Average of Neighbors](./problems/1968-array-with-elements-not-equal-to-average-of-neighbors.md) | Medium | Greedy | Creating a "peak-and-valley" arrangement. | Sort and interleave elements from both ends. |
 |---|---------|------------|--------------|-------------------|-------|
 
 ### Matrix Problems
