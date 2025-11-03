@@ -61,6 +61,7 @@
 - [825. Friends Of Appropriate Ages](./problems\825-friends-of-appropriate-ages.md)
 - [1530. Number of Good Leaf Nodes Pairs](./problems\1530-number-of-good-leaf-nodes-pairs.md)
 - [1706. Where Will the Ball Fall](./problems/1706-where-will-the-ball-fall.md)
+- [1838. Frequency of the Most Frequent Element](#array-problems)
 - [1968. Array With Elements Not Equal to Average of Neighbors](./problems\1968-array-with-elements-not-equal-to-average-of-neighbors.md)
 - [2012. Sum of Beauty in the Array](./problems\2012-sum-of-beauty-in-the-array.md)
 - [2516. Take K of Each Character From Left and Right](./problems\2516-take-k-of-each-character-from-left-and-right.md)

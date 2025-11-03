@@ -22,6 +22,7 @@
 |---|---|---|---|---|---|
 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](./problems/2535-difference-between-element-sum-and-digit-sum-of-an-array.md) | Easy | Summation, Modulo | Check Processing | Calculate element sum and digit sum separately. |
 | 1732 | [Find the Highest Altitude](./problems/1732-find-the-highest-altitude.md) | Easy | Prefix Sum | Tracking your bank account balance | Iterate through gains, tracking current and max altitude. |
+| 1838 | [Frequency of the Most Frequent Element](./problems/1838-frequency-of-the-most-frequent-element.md) | Medium | Sliding Window, Sorting | Manufacturing, Resource Allocation | Use a sliding window over a sorted array to find the longest valid subarray. |
 | 2012 | [Sum of Beauty in the Array](./problems/2012-sum-of-beauty-in-the-array.md) | Medium | Prefix Sum, Suffix Min | Mountain range peak finding | Marked as incomplete for future review. |
 | 1706 | [Where Will the Ball Fall](./problems/1706-where-will-the-ball-fall.md) | Medium | Direct Simulation | Pachinko machine simulation | Clean simulation is key. |
 | 3684 | [Maximize Sum of At Most K Distinct Elements](./problems/3684-maximize-sum-of-at-most-k-distinct-elements.md) | Easy | Greedy, Sorting | Packing a treasure chest. | Greedy: get unique elements with Set, sort descending, take top k. |
