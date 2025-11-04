@@ -68,6 +68,7 @@
 - [2563. Count the Number of Fair Pairs](./problems/2563-count-the-number-of-fair-pairs)
 - [3407. Substring Matching Pattern](./problems/3407-substring-matching-pattern.md)
 - [3106. Lexicographically Smallest String After Operations With Constraint](./problems\3106-lexicographically-smallest-string-after-operations-with-constraint.md)
+- [3160. Find the Number of Distinct Colors Among the Balls](./problems/3160-find-the-number-of-distinct-colors-among-the-balls.md)
 - [3355. Zero Array Transformation I](./problems\3355-zero-array-transformation-i.md)
 
 ### Hard Problems

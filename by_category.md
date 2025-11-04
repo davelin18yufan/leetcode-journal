@@ -34,6 +34,7 @@
 | 2828 | [Check if a String Is an Acronym of Words](./problems/2828-check-if-a-string-is-an-acronym-of-words.md) | Easy | First Character Matching | Acronym Verification | Compare first char of each word. |
 | 2563 | [Count the Number of Fair Pairs](./problems/2563-count-the-number-of-fair-pairs.md) | Medium | Two Pointers, Sorting | Finding dance partners. | O(N log N) solution by sorting and using two pointers. |
 | 825 | [Friends Of Appropriate Ages](./problems/825-friends-of-appropriate-ages.md) | Medium | Two Pointers, Sorting | Analyzing demographics at a large convention. | O(N) solution using age counting. |
+| 3160 | [Find the Number of Distinct Colors Among the Balls](./problems/3160-find-the-number-of-distinct-colors-among-the-balls.md) | Medium | Simulation, Hash Table | T-Shirt Inventory Management | Use two hash maps to track ball colors and color frequencies. |
 | 3355 | [Zero Array Transformation I](./problems/3355-zero-array-transformation-i.md) | Medium | Prefix Sum | Calculating total coverage of overlapping intervals. | Use a difference array to track changes, then calculate prefix sum. |
 
 ### String Problems
@@ -190,6 +191,7 @@
 | 2744 | [Find Maximum Number of String Pairs](./problems/2744-find-maximum-number-of-string-pairs.md) | Easy | Simulation | Pairing socks from a pile of laundry. | Use a Set to track seen words and find pairs. |
 | 2325 | [Decode the Message](./problems/2325-decode-the-message.md) | Easy | Substitution Cipher | Secret Decoder Ring | Build a map from key, then decode message. |
 | 1790 | [Check if One String Swap Can Make Strings Equal](./problems/1790-check-if-one-string-swap-can-make-strings-equal.md) | Easy | Index Tracking | Swapping books on a shelf. | Use an array to track differing indices. |
+| 3160 | [Find the Number of Distinct Colors Among the Balls](./problems/3160-find-the-number-of-distinct-colors-among-the-balls.md) | Medium | Simulation, Hash Table | T-Shirt Inventory Management | Use two hash maps to track ball colors and color frequencies. |
 
 ### Sorting Problems
 
@@ -207,8 +209,5 @@
 |---|---|---|---|---|---|
 | 1706 | [Where Will the Ball Fall](./problems/1706-where-will-the-ball-fall.md) | Medium | Direct Simulation | Pachinko machine simulation | Clean simulation is key. |
 
-### Simulation Problems
-
-| # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
-|---|---|---|---|---|---|
 | 1706 | [Where Will the Ball Fall](./problems/1706-where-will-the-ball-fall.md) | Medium | Direct Simulation | Pachinko machine simulation | Clean simulation is key. |
+| 3160 | [Find the Number of Distinct Colors Among the Balls](./problems/3160-find-the-number-of-distinct-colors-among-the-balls.md) | Medium | Simulation, Hash Table | T-Shirt Inventory Management | Use two hash maps to track ball colors and color frequencies. |

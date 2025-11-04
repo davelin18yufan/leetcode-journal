@@ -68,6 +68,7 @@ This file tracks the completion status of all problems. They are divided into th
 | 2516 | [Take K of Each Character From Left and Right](./problems/2516-take-k-of-each-character-from-left-and-right.md) | Medium | Sliding Window | String, Hash Table | Gathering a specific number of items from the ends of a collection. | ✅ | 2025-10-29 |
 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](./problems/2535-difference-between-element-sum-and-digit-sum-of-an-array.md) | Easy | Math | Array | Calculating the difference between the face value of checks and the sum of their individual digits. | ✅ | 2025-10-31 |
 | 2000 | [Reverse Prefix of Word](./problems/2000-reverse-prefix-of-word.md) | Easy | Two Pointers | String | Reversing a segment of a road up to a specific landmark. | ✅ | 2025-10-31 |
+| 3160 | [Find the Number of Distinct Colors Among the Balls](./problems/3160-find-the-number-of-distinct-colors-among-the-balls.md) | Medium | Simulation, Hash Table | Array, Hash Table | Managing T-shirt inventory for a sports team. | ✅ | 2025-11-04 |
 
 ---
 
