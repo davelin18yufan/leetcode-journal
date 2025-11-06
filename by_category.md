@@ -20,6 +20,7 @@
 
 | # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
 |---|---|---|---|---|---|
+| 1726 | [Tuple with Same Product](./problems/1726-tuple-with-same-product.md) | Medium | Hash Table, Counting | Finding hash collisions. | Use a hash map to count product frequencies. |
 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](./problems/2535-difference-between-element-sum-and-digit-sum-of-an-array.md) | Easy | Summation, Modulo | Check Processing | Calculate element sum and digit sum separately. |
 | 1732 | [Find the Highest Altitude](./problems/1732-find-the-highest-altitude.md) | Easy | Prefix Sum | Tracking your bank account balance | Iterate through gains, tracking current and max altitude. |
 | 1838 | [Frequency of the Most Frequent Element](./problems/1838-frequency-of-the-most-frequent-element.md) | Medium | Sliding Window, Sorting | Manufacturing, Resource Allocation | Use a sliding window over a sorted array to find the longest valid subarray. |
@@ -181,6 +182,7 @@
 
 | # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
 |---|---|---|---|---|---|
+| 1726 | [Tuple with Same Product](./problems/1726-tuple-with-same-product.md) | Medium | Hash Table, Counting | Finding hash collisions. | Use a hash map to count product frequencies. |
 | 2516 | [Take K of Each Character From Left and Right](./problems/2516-take-k-of-each-character-from-left-and-right.md) | Medium | Sliding Window, Counting | Resource gathering from ends | Use a hash table to count characters in the sliding window. |
 | 3684 | [Maximize Sum of At Most K Distinct Elements](./problems/3684-maximize-sum-of-at-most-k-distinct-elements.md) | Easy | Greedy, Sorting | Packing a treasure chest. | Greedy: get unique elements with Set, sort descending, take top k. |
 |---|---------|------------|--------------|-------------------|-------|
