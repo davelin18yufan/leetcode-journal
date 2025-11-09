@@ -59,6 +59,7 @@
 ### Medium Problems
 - [785. Is Graph Bipartite?](./problems\785-is-graph-bipartite.md)
 - [825. Friends Of Appropriate Ages](./problems\825-friends-of-appropriate-ages.md)
+- [1297. Maximum Number of Occurrences of a Substring](#hash-table-problems)
 - [1530. Number of Good Leaf Nodes Pairs](./problems\1530-number-of-good-leaf-nodes-pairs.md)
 - [1706. Where Will the Ball Fall](./problems/1706-where-will-the-ball-fall.md)
 - [1726. Tuple with Same Product](#hash-table-problems)

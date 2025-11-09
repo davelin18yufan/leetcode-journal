@@ -70,6 +70,7 @@ This file tracks the completion status of all problems. They are divided into th
 | 2000 | [Reverse Prefix of Word](./problems/2000-reverse-prefix-of-word.md) | Easy | Two Pointers | String | Reversing a segment of a road up to a specific landmark. | ✅ | 2025-10-31 |
 | 3160 | [Find the Number of Distinct Colors Among the Balls](./problems/3160-find-the-number-of-distinct-colors-among-the-balls.md) | Medium | Simulation, Hash Table | Array, Hash Table | Managing T-shirt inventory for a sports team. | ✅ | 2025-11-04 |
 | 1726 | [Tuple with Same Product](./problems/1726-tuple-with-same-product.md) | Medium | Hash Table, Counting | Array | In cryptography, finding hash collisions where different input pairs produce the same hash value. | ✅ | 2025-11-06 |
+| 1297 | [Maximum Number of Occurrences of a Substring](./problems/1297-maximum-number-of-occurrences-of-a-substring.md) | Medium | Sliding Window, Hash Table, String | Hash Table | Analyzing DNA sequences for frequent patterns. | ✅ | 2025-11-09 |
 
 ---
 
