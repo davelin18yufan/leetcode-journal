@@ -45,6 +45,7 @@
 - [2810. Faulty Keyboard](./problems/2810-faulty-keyboard.md)
 - [2828. Check if a String Is an Acronym of Words](#string-problems)
 - [2859. Sum of Values at Indices With K Set Bits](./problems/2859-sum-of-values-at-indices-with-k-set-bits.md)
+- [2996. Smallest Missing Integer Greater Than Sequential Prefix Sum](#array-problems)
 - [3099. Harshad Number](./problems/3099-harshad-number.md)
 - [3110. Score of a String](./problems/3110-score-of-a-string.md)
 - [3146. Permutation Difference between Two Strings](./problems/3146-permutation-difference-between-two-strings.md)

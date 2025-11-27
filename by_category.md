@@ -32,6 +32,7 @@
 | 2563 | [Count the Number of Fair Pairs](./problems/2563-count-the-number-of-fair-pairs.md) | Medium | Two Pointers, Sorting | Finding dance partners. | O(N log N) solution by sorting and using two pointers. |
 | 2828 | [Check if a String Is an Acronym of Words](./problems/2828-check-if-a-string-is-an-acronym-of-words.md) | Easy | First Character Matching | Acronym Verification | Compare first char of each word. |
 | 2859 | [Sum of Values at Indices With K Set Bits](./problems/2859-sum-of-values-at-indices-with-k-set-bits.md) | Easy | Bit Manipulation | Quality control inspector analogy. | Use bit manipulation to count set bits in an index `i`. |
+| 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](./problems/2996-smallest-missing-integer-greater-than-sequential-prefix-sum.md) | Easy | Prefix Sum, Hash Table | Finding the first available slot after a contiguous block of reserved seats. | Calculate prefix sum, then find the first missing number >= sum using a Set. |
 | 3160 | [Find the Number of Distinct Colors Among the Balls](./problems/3160-find-the-number-of-distinct-colors-among-the-balls.md) | Medium | Simulation, Hash Table | T-Shirt Inventory Management | Use two hash maps to track ball colors and color frequencies. |
 | 3355 | [Zero Array Transformation I](./problems/3355-zero-array-transformation-i.md) | Medium | Prefix Sum | Calculating total coverage of overlapping intervals. | Use a difference array to track changes, then calculate prefix sum. |
 | 3684 | [Maximize Sum of At Most K Distinct Elements](./problems/3684-maximize-sum-of-at-most-k-distinct-elements.md) | Easy | Greedy, Sorting | Packing a treasure chest. | Greedy: get unique elements with Set, sort descending, take top k. |
@@ -186,6 +187,7 @@
 | 2325 | [Decode the Message](./problems/2325-decode-the-message.md) | Easy | Substitution Cipher | Secret Decoder Ring | Build a map from key, then decode message. |
 | 2516 | [Take K of Each Character From Left and Right](./problems/2516-take-k-of-each-character-from-left-and-right.md) | Medium | Sliding Window, Counting | Resource gathering from ends | Use a hash table to count characters in the sliding window. |
 | 2744 | [Find Maximum Number of String Pairs](./problems/2744-find-maximum-number-of-string-pairs.md) | Easy | Simulation | Pairing socks from a pile of laundry. | Use a Set to track seen words and find pairs. |
+| 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](./problems/2996-smallest-missing-integer-greater-than-sequential-prefix-sum.md) | Easy | Prefix Sum, Hash Table | Finding the first available slot after a contiguous block of reserved seats. | Calculate prefix sum, then find the first missing number >= sum using a Set. |
 | 3146 | [Permutation Difference between Two Strings](./problems/3146-permutation-difference-between-two-strings.md) | Easy | Two-Pass, Map | Calculating a "shuffling score" in a race. | Optimal O(N) time and O(K) space solution. |
 | 3160 | [Find the Number of Distinct Colors Among the Balls](./problems/3160-find-the-number-of-distinct-colors-among-the-balls.md) | Medium | Simulation, Hash Table | T-Shirt Inventory Management | Use two hash maps to track ball colors and color frequencies. |
 | 3663 | [Find The Least Frequent Digit](./problems/3663-find-the-least-frequent-digit.md) | Easy | Frequency Count, Two-Pass | Finding least-voted candidate | Optimal O(L) time, O(1) space solution. |
@@ -198,14 +200,5 @@
 | 3684 | [Maximize Sum of At Most K Distinct Elements](./problems/3684-maximize-sum-of-at-most-k-distinct-elements.md) | Easy | Greedy, Hash Table | Packing a treasure chest. | Get unique elements with Set, sort descending, take top k. |
 |---|
 | 2563 | [Count the Number of Fair Pairs](./problems/2563-count-the-number-of-fair-pairs.md) | Medium | Two Pointers | Finding dance partners. | O(N log N) solution using two pointers after sorting. |
-| 1968 | [Array With Elements Not Equal to Average of Neighbors](./problems/1968-array-with-elements-not-equal-to-average-of-neighbors.md) | Medium | Greedy | Creating a "peak-and-valley" arrangement. | Sort and interleave elements from both ends. |
-|---|---------|------------|--------------|-------------------|-------|
-
-### Matrix Problems
-
-| # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
-|---|---|---|---|---|---|
-| 1706 | [Where Will the Ball Fall](./problems/1706-where-will-the-ball-fall.md) | Medium | Direct Simulation | Pachinko machine simulation | Clean simulation is key. |
-
-| 1706 | [Where Will the Ball Fall](./problems/1706-where-will-the-ball-fall.md) | Medium | Direct Simulation | Pachinko machine simulation | Clean simulation is key. |
-| 3160 | [Find the Number of Distinct Colors Among the Balls](./problems/3160-find-the-number-of-distinct-colors-among-the-balls.md) | Medium | Simulation, Hash Table | T-Shirt Inventory Management | Use two hash maps to track ball colors and color frequencies. |
+| 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](./problems/2996-smallest-missing-integer-greater-than-sequential-prefix-sum.md) | Easy | Sorting, Prefix Sum | Finding the first available slot after a contiguous block of reserved seats. | The solution uses sorting as a possible approach, although the optimal one doesn't require it. It is categorized as Sorting in the problem tags. |
+| 3684 | [Maximize Sum of At Most K Distinct Elements](./problems/3684-maximize-sum-of-at-most-k-distinct-elements.md) | Easy | Greedy, Hash Table | Packing a treasure chest. | Get unique elements with Set, sort descending, take top k. |

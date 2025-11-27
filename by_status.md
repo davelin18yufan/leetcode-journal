@@ -69,6 +69,7 @@ This file tracks the completion status of all problems. They are divided into th
 | 3492 | [Maximum Containers on a Ship](./problems/3492-maximum-containers-on-a-ship.md)                                         | Easy       | Math                     | N/A               | Calculating capacity with multiple constraints                                                | ✅     | 2025-08-31 |
 | 3663 | [Find The Least Frequent Digit](./problems/3663-find-the-least-frequent-digit.md)                                       | Easy       | Hash Map                 | Hash Map          | Finding the least-voted candidate in an election.                                             | ✅     | 2025-09-20 |
 | 3684 | [Maximize Sum of At Most K Distinct Elements](./problems/3684-maximize-sum-of-at-most-k-distinct-elements.md) | Easy       | Greedy, Sorting          | Array, Hash Table | Packing a treasure chest with the most valuable unique items.                                 | ✅     | 2025-10-09 |
+| 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](./problems/2996-smallest-missing-integer-greater-than-sequential-prefix-sum.md) | Easy | Sorting | Hash Table | Finding the first available slot after a contiguous block of reserved seats. | ✅ | 2025-11-27 |
 
 ---
 
