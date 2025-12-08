@@ -53,6 +53,7 @@
 | 2325 | [Decode the Message](./problems/2325-decode-the-message.md) | Easy | Character Mapping | Secret Decoder Ring | Map key chars to alphabet, then substitute. |
 | 2446 | [Determine if Two Events Have Conflict](./problems/2446-determine-if-two-events-have-conflict.md) | Easy | Direct String Comparison | Yes | Compare time strings directly to check for overlap. |
 | 2516 | [Take K of Each Character From Left and Right](./problems/2516-take-k-of-each-character-from-left-and-right.md) | Medium | Sliding Window, Inverted Thinking | Resource gathering from ends | Invert the problem: find the largest valid middle window to *leave*. |
+| 2710 | [Remove Trailing Zeros From a String](./problems/2710-remove-trailing-zeros-from-a-string.md) | Easy       | String Manipulation      | Trimming loose threads from fabric.            | Iterate backward and find the first non-zero character. |
 | 2810 | [Faulty Keyboard](./problems/2810-faulty-keyboard.md) | Easy | Simulation, Array | Text editor simulation | Use mutable array to build string |
 | 2828 | [Check if a String Is an Acronym of Words](./problems/2828-check-if-a-string-is-an-acronym-of-words.md) | Easy | Character-by-Character Comparison | Acronym Verification | Iterate and compare chars at each index. |
 | 3106 | [Lexicographically Smallest String After Operations With Constraint](./problems/3106-lexicographically-smallest-string-after-operations-with-constraint.md) | Medium | Greedy | Adjusting a combination lock. | Iterate from left to right, making each character as small as possible. |

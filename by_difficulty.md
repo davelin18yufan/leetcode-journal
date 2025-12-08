@@ -41,6 +41,7 @@
 - [2446. Determine if Two Events Have Conflict](#array-problems)
 - [2535. Difference Between Element Sum and Digit Sum of an Array](#array-problems)
 - [2540. Minimum Common Value](#two-pointers-problems)
+- [2710. Remove Trailing Zeros From a String](#string-problems)
 - [2744. Find Maximum Number of String Pairs](./problems/2744-find-maximum-number-of-string-pairs.md)
 - [2810. Faulty Keyboard](./problems/2810-faulty-keyboard.md)
 - [2828. Check if a String Is an Acronym of Words](#string-problems)
