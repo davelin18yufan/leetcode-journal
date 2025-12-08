@@ -127,6 +127,7 @@
 |---|---------|------------|--------------|-------------------|-------|
 | 303 | [Range Sum Query - Immutable](./problems/303-range-sum-query-immutable.md) | Easy | Prefix Sum, O(1) Query | Road trip mileage log | Pre-computation for fast queries. |
 | 1603 | [Design Parking System](./problems/1603-design-parking-system.md) | Easy | O(1) State Management | Parking garage software | Countdown method simplifies state |
+| 1797 | [Design Authentication Manager](./problems/1797-design-authentication-manager.md) | Medium | Hash Table, Design | Event pass management | Lazy deletion via just-in-time cleaning. |
 
 ### Dynamic Programming Problems
 

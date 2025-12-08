@@ -71,6 +71,7 @@ This file tracks the completion status of all problems. They are divided into th
 | 3684 | [Maximize Sum of At Most K Distinct Elements](./problems/3684-maximize-sum-of-at-most-k-distinct-elements.md) | Easy       | Greedy, Sorting          | Array, Hash Table | Packing a treasure chest with the most valuable unique items.                                 | ✅     | 2025-10-09 |
 | 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](./problems/2996-smallest-missing-integer-greater-than-sequential-prefix-sum.md) | Easy | Sorting | Hash Table | Finding the first available slot after a contiguous block of reserved seats. | ✅ | 2025-11-27 |
 | 2710 | [Remove Trailing Zeros From a String](./problems/2710-remove-trailing-zeros-from-a-string.md)                       | Easy       | String Manipulation      | String            | Trimming loose threads from fabric.                                                           | ✅     | 2025-12-08 |
+| 1797 | [Design Authentication Manager](./problems/1797-design-authentication-manager.md) | Medium | Hash Table, Design | Hash Table | Event pass management | ✅ | 2025-12-08 |
 
 ---
 

@@ -59,21 +59,22 @@
 - [3684. Maximize Sum of At Most K Distinct Elements](#array-problems)
 
 ### Medium Problems
-- [785. Is Graph Bipartite?](./problems\785-is-graph-bipartite.md)
-- [825. Friends Of Appropriate Ages](./problems\825-friends-of-appropriate-ages.md)
+- [785. Is Graph Bipartite?](./problems/785-is-graph-bipartite.md)
+- [825. Friends Of Appropriate Ages](./problems/825-friends-of-appropriate-ages.md)
 - [1297. Maximum Number of Occurrences of a Substring](#hash-table-problems)
-- [1530. Number of Good Leaf Nodes Pairs](./problems\1530-number-of-good-leaf-nodes-pairs.md)
+- [1530. Number of Good Leaf Nodes Pairs](./problems/1530-number-of-good-leaf-nodes-pairs.md)
 - [1706. Where Will the Ball Fall](./problems/1706-where-will-the-ball-fall.md)
 - [1726. Tuple with Same Product](#hash-table-problems)
+- [1797. Design Authentication Manager](#design-problems)
 - [1838. Frequency of the Most Frequent Element](#array-problems)
-- [1968. Array With Elements Not Equal to Average of Neighbors](./problems\1968-array-with-elements-not-equal-to-average-of-neighbors.md)
-- [2012. Sum of Beauty in the Array](./problems\2012-sum-of-beauty-in-the-array.md)
-- [2516. Take K of Each Character From Left and Right](./problems\2516-take-k-of-each-character-from-left-and-right.md)
-- [2563. Count the Number of Fair Pairs](./problems/2563-count-the-number-of-fair-pairs)
-- [3407. Substring Matching Pattern](./problems/3407-substring-matching-pattern.md)
-- [3106. Lexicographically Smallest String After Operations With Constraint](./problems\3106-lexicographically-smallest-string-after-operations-with-constraint.md)
+- [1968. Array With Elements Not Equal to Average of Neighbors](./problems/1968-array-with-elements-not-equal-to-average-of-neighbors.md)
+- [2012. Sum of Beauty in the Array](./problems/2012-sum-of-beauty-in-the-array.md)
+- [2516. Take K of Each Character From Left and Right](./problems/2516-take-k-of-each-character-from-left-and-right.md)
+- [2563. Count the Number of Fair Pairs](./problems/2563-count-the-number-of-fair-pairs.md)
+- [3106. Lexicographically Smallest String After Operations With Constraint](./problems/3106-lexicographically-smallest-string-after-operations-with-constraint.md)
 - [3160. Find the Number of Distinct Colors Among the Balls](./problems/3160-find-the-number-of-distinct-colors-among-the-balls.md)
-- [3355. Zero Array Transformation I](./problems\3355-zero-array-transformation-i.md)
+- [3355. Zero Array Transformation I](./problems/3355-zero-array-transformation-i.md)
+- [3407. Substring Matching Pattern](./problems/3407-substring-matching-pattern.md)
 
 ### Hard Problems
 - Coming soon...
