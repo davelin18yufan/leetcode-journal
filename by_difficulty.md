@@ -38,6 +38,7 @@
 - [2255. Count Prefixes of a Given String](./problems/2255-count-prefixes-of-a-given-string.md)
 - [2269. Find the K-Beauty of a Number](./problems/2269-find-the-k-beauty-of-a-number.md)
 - [2325. Decode the Message](#hash-table-problems)
+- [2423. Remove Letter To Equalize Frequency](#string-problems)
 - [2446. Determine if Two Events Have Conflict](#array-problems)
 - [2535. Difference Between Element Sum and Digit Sum of an Array](#array-problems)
 - [2540. Minimum Common Value](#two-pointers-problems)
