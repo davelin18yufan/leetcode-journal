@@ -145,6 +145,9 @@ problems/20-valid-parentheses.md
 7. **Real world analogy description around 50 ~ 200 words.** (easy to imaginated.)
 8. **If target problem which is already on list, check status on list and update.**
 9. **Data inserted into the category file must in ascending order by question number.**
+10. **If found problem done before**
+   * if solved, add second time status with different color based on situation.
+   * if not solved, add second time status with different color based on situation and marked there still required next times.
 
 ---
 
