@@ -1,5 +1,6 @@
 This repository is designed to systematically record my **LeetCode practice**.  
 All modification **must strictly follow the rules below**.
+All files has to be written in English.
 
 ---
 

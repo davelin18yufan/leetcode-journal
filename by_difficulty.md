@@ -2,6 +2,7 @@
 
 ### Easy Problems
 - [1. Two Sum](#array-problems)
+- [20. Valid Parentheses](#stack-problems)
 - [21. Merge Two Sorted Lists](./problems/21-merge-two-sorted-lists.md)
 - [83. Remove Duplicates from Sorted List](./problems/83-remove-duplicates-from-sorted-list.md)
 - [94. Binary Tree Inorder Traversal](./problems/94-binary-tree-inorder-traversal.md)

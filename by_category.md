@@ -42,6 +42,7 @@
 
 | # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
 |---|---------|------------|--------------|-------------------|-------|
+| 20 | [Valid Parentheses](./problems/20-valid-parentheses.md) | Easy | LIFO, Stack | Syntax parsing | Use a stack to track open brackets and ensure each closing bracket matches the latest open one. |
 | 387 | [First Unique Character in a String](./problems/387-first-unique-character-in-a-string.md) | Easy | Two-Pass Hash Map | Data stream analysis | O(N) time, O(1) space for alphabet |
 | 434 | [Number of Segments in a String](./problems/434-number-of-segments-in-a-string.md) | Easy | Single Pass | String | Counting cars in a freight train. |
 | 459 | [Repeated Substring Pattern](./problems/459-repeated-substring-pattern.md) | Easy | String Matching | Wallpaper Pattern Matching | O(N) trick using string concatenation. |
@@ -71,10 +72,11 @@
 | 21 | [Merge Two Sorted Lists](./problems/21-merge-two-sorted-lists.md) | Easy | Recursion, Iteration | Merging sorted data streams | Iterative approach is O(1) space |
 | 83 | [Remove Duplicates from Sorted List](./problems/83-remove-duplicates-from-sorted-list.md) | Easy | Single Pointer, In-place | De-duplicating sorted train cars | O(N) time, O(1) space. A core pattern. |
 
-### Stack & Queue Problems
+### Stack Problems
 
 | # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
 |---|---------|------------|--------------|-------------------|-------|
+| 20 | [Valid Parentheses](./problems/20-valid-parentheses.md) | Easy | LIFO, Stack | Syntax parsing | Use a stack to track open brackets and ensure each closing bracket matches the latest open one. |
 | 1021 | [Remove Outermost Parentheses](./problems/1021-remove-outermost-parentheses.md) | Easy | Counter Simulation | Parentheses Parsing | A counter efficiently simulates a stack for depth tracking. |
 
 ### Tree Problems
