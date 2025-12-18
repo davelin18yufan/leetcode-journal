@@ -1,37 +1,34 @@
 # 21. Merge Two Sorted Lists
 
 **Difficulty:** Easy
-**Algorithm:** Recursion, Iteration
+**Algorithm:** Recursion
 **Data Structure:** Linked List
-**Date:** 2025-08-27
+**Date:** 2025-12-18
 
 ---
 
 ## 📝 Problem Description
-Given the heads of two sorted linked lists, merge them into a single sorted linked list and return the head of the new list.
+Given the heads of two sorted linked lists, merge the two lists into one sorted list. The list should be made by splicing together the nodes of the first two lists.
+
+---
+
+## Real-world analogy
+This is equivalent to merging two pre-sorted data streams, such as log files from different servers. Imagine a large e-commerce platform where user click logs are stored on different servers for performance reasons. Each server's logs are already sorted by timestamp. When a data analyst needs a complete timeline of all platform activity, the backend system must merge these sorted log streams into a single, comprehensive, and sorted list. Using a linked list is efficient because it avoids loading all data into memory at once, instead splicing the data streams together node by node, which is crucial when dealing with massive datasets.
 
 ---
 
 ## 💡 Key Idea
-The problem can be solved either recursively or iteratively.
-
-- **Recursive Approach:** Compare the heads of the two lists. The node with the smaller value becomes the head of the merged list. Its `next` pointer is then set to the result of the recursive call on the remaining parts of the lists. The base case is when one of the lists is null, in which case the other list is returned.
-
-- **Iterative Approach:** Use a dummy head node to simplify the process of building the new list. A `current` pointer tracks the end of the new list. In a loop, compare the nodes from both lists and append the smaller one to `current.next`. After the loop, append the remaining non-null list. This approach uses constant space.
+The core idea is to recursively merge the two lists. At each step, compare the values of the current heads of both lists. The node with the smaller value becomes the head of the merged list. The `next` pointer of this smaller node is then set by making a recursive call with the remaining elements of the lists. The base case for the recursion is when either of the lists becomes null, at which point the other list is returned.
 
 ---
 
 ## 🧮 Complexity Analysis
-- **Recursive:**
-  - Time: O(N + M), where N and M are the lengths of the two lists.
-  - Space: O(N + M) due to the recursion call stack.
-- **Iterative:**
-  - Time: O(N + M)
-  - Space: O(1)
+- **Time:** `O(N + M)`, where N and M are the number of nodes in the two lists, as each node is visited exactly once.
+- **Space:** `O(N + M)` for the recursive approach due to the call stack depth. An iterative approach can achieve `O(1)` space complexity.
 
 ---
 
 ## 📖 Notes
-- Real-world analogy: Merging two sorted decks of cards by repeatedly picking the smaller of the top two cards.
-- The iterative solution with a dummy head is generally preferred in an interview setting due to its O(1) space complexity, which avoids the risk of a stack overflow with very long lists.
-- Edge cases: one or both lists are empty.
+- **Real-world analogy:** Merging sorted log files from distributed systems.
+- **Key Optimization:** An iterative approach using a "dummy head" node is preferred in production to avoid potential stack overflow with very long lists and to achieve `O(1)` space complexity.
+- **Edge cases:** One or both lists are empty.
