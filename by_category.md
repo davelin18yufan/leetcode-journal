@@ -21,6 +21,7 @@
 | # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
 |---|---|---|---|---|---|
 | 1 | [Two Sum](./problems/1-two-sum.md) | Easy | One-pass Hash Map | Budgeting/Financial Reconciliation | Use a hash map to store numbers and their indices for O(1) lookups. |
+| 121 | [Best Time to Buy and Sell Stock](./problems/121-best-time-to-buy-and-sell-stock.md) | Easy | Greedy, Sliding Window | Dynamic Pricing Monitor | Use a one-pass greedy strategy to track the minimum price seen so far and calculate max profit. |
 | 303 | [Range Sum Query - Immutable](./problems/303-range-sum-query-immutable.md) | Easy | Prefix Sum, O(1) Query | Road trip mileage log | Pre-computation for fast queries. |
 | 825 | [Friends Of Appropriate Ages](./problems/825-friends-of-appropriate-ages.md) | Medium | Two Pointers, Sorting | Analyzing demographics at a large convention. | O(N) solution using age counting. |
 | 908 | [Smallest Range I](./problems/908-smallest-range-i.md) | Easy | Math | Adjusting building temperatures | The key is to only consider the min and max values. |
@@ -137,6 +138,7 @@
 
 | # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
 |---|---------|------------|--------------|-------------------|-------|
+| 121 | [Best Time to Buy and Sell Stock](./problems/121-best-time-to-buy-and-sell-stock.md) | Easy | Greedy, Sliding Window | Dynamic Pricing Monitor | Use a one-pass greedy strategy to track the minimum price seen so far and calculate max profit. |
 
 ### Binary Search Problems
 

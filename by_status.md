@@ -85,19 +85,14 @@ This file tracks the completion status of all problems. They are divided into th
 | 83   | [Remove Duplicates from Sorted List](./problems/83-remove-duplicates-from-sorted-list.md)                  | Easy       | Single Pointer          | Linked List       | De-duplicating a sorted sequence                                                        | 🤔     | 2025-09-02 |
 | 94   | [Binary Tree Inorder Traversal](./problems/94-binary-tree-inorder-traversal.md)                            | Easy       | DFS                     | Tree              | A librarian listing books on a shelf following a 'Left -> Self -> Right' rule.          | 🤔     | 2025-09-06 |
 | 108  | [Convert Sorted Array to Binary Search Tree](./problems/108-convert-sorted-array-to-binary-search-tree.md) | Easy       | Divide and Conquer      | Array, Tree       | Creating a balanced tournament bracket.                                                 | 🤔     | 2025-10-01 |
+| 121  | [Best Time to Buy and Sell Stock](./problems/121-best-time-to-buy-and-sell-stock.md)                            | Easy       | Dynamic Programming      | Array             | Dynamic Pricing Monitor                                                                 | ⚠️ Review Needed | 2025-12-20 |
 | 543  | [Diameter of Binary Tree](./problems/543-diameter-of-binary-tree.md)                                       | Easy       | Depth-First Search      | Tree              | Mapping a cave system to find the longest path.                                         | 🤔     | 2025-09-08 |
 | 785 | [Is Graph Bipartite?](./problems/785-is-graph-bipartite.md) | Medium | DFS, BFS, Union Find | Graph | Scheduling conflicting meetings. | 🤔 | 2025-10-26 |
 | 908  | [Smallest Range I](./problems/908-smallest-range-i.md)                                                     | Easy       | Math                    | Array             | Adjusting temperatures in a building to minimize the difference.                        | 🤔     | 2025-10-08 |
 | 993  | [Cousins in Binary Tree](./problems/993-cousins-in-binary-tree.md)                                         | Easy       | BFS                     | Tree              | A genealogist checking if two people are in the same generation with different parents. | 🤔     | 2025-09-06 |
 | 1530 | [Number of Good Leaf Nodes Pairs](./problems/1530-number-of-good-leaf-nodes-pairs.md) | Medium | Depth-First Search | Tree | Finding "close" employees in an org chart. | 🤔 | 2025-10-19 |
+| 1838 | [Frequency of the Most Frequent Element](./problems/1838-frequency-of-the-most-frequent-element.md) | Medium | Sliding Window | Array | Manufacturing, Resource Allocation | Done | 2025-11-03 |
+| 1968 | [Array With Elements Not Equal to Average of Neighbors](./problems/1968-array-with-elements-not-equal-to-average-of-neighbors.md) | Medium     | Greedy, Sorting   | Array          | Building a "peak-and-valley" mountain range.      | 🚧 (TODO)   | 2025-11-01 |
 | 1995 | [Count Special Quadruplets](./problems/1995-count-special-quadruplets.md)                                  | Easy       | Hash Table, Enumeration | Array, Hash Table | Counting combinations for a target sum.                                                 | 🤔     | 2025-09-11 |
 | 2012 | [Sum of Beauty in the Array](./problems/2012-sum-of-beauty-in-the-array.md) | Medium | Prefix Sum, Array | Array | Analyzing a mountain range profile. | 🤔 | 2025-10-16 |
 
----
-
-### 🚧 Work in Progress
-
-| #    | Problem                                                                                                                         | Difficulty | Algorithm         | Data Structure | Real-world Scenario                               | Status      | Date       |
-|------|---------------------------------------------------------------------------------------------------------------------------------|------------|-------------------|----------------|---------------------------------------------------|-------------|------------|
-| 1838 | [Frequency of the Most Frequent Element](./problems/1838-frequency-of-the-most-frequent-element.md) | Medium | Sliding Window | Array | Manufacturing, Resource Allocation | Done | 2025-11-03 |
-| 1968 | [Array With Elements Not Equal to Average of Neighbors](./problems/1968-array-with-elements-not-equal-to-average-of-neighbors.md) | Medium     | Greedy, Sorting   | Array          | Building a "peak-and-valley" mountain range.      | 🚧 (TODO)   | 2025-11-01 |
