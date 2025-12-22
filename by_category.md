@@ -44,6 +44,7 @@
 | # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
 |---|---------|------------|--------------|-------------------|-------|
 | 20 | [Valid Parentheses](./problems/20-valid-parentheses.md) | Easy | LIFO, Stack | Syntax parsing | Use a stack to track open brackets and ensure each closing bracket matches the latest open one. |
+| 125 | [Valid Palindrome](./problems/125-valid-palindrome.md) | Easy | Two Pointers | Bioinformatics & DNA Sequencing | Use two pointers moving inwards, skipping non-alphanumeric characters. |
 | 387 | [First Unique Character in a String](./problems/387-first-unique-character-in-a-string.md) | Easy | Two-Pass Hash Map | Data stream analysis | O(N) time, O(1) space for alphabet |
 | 434 | [Number of Segments in a String](./problems/434-number-of-segments-in-a-string.md) | Easy | Single Pass | String | Counting cars in a freight train. |
 | 459 | [Repeated Substring Pattern](./problems/459-repeated-substring-pattern.md) | Easy | String Matching | Wallpaper Pattern Matching | O(N) trick using string concatenation. |
@@ -150,6 +151,7 @@
 
 | # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
 |---|---------|------------|--------------|-------------------|-------|
+| 125 | [Valid Palindrome](./problems/125-valid-palindrome.md) | Easy | In-place comparison | Bioinformatics & DNA Sequencing | Use two pointers moving inwards, skipping non-alphanumeric characters. |
 | 344 | [Reverse String](./problems/344-reverse-string.md) | Easy | In-place swap | Reversing books on a shelf | Optimal O(N) time, O(1) space solution. |
 | 825 | [Friends Of Appropriate Ages](./problems/825-friends-of-appropriate-ages.md) | Medium | Sorting | Analyzing demographics at a large convention. | O(N) solution using age counting. |
 | 2000 | [Reverse Prefix of Word](./problems/2000-reverse-prefix-of-word.md) | Easy | String Reversal | Road Sign Analogy | Use two pointers to reverse the prefix in-place (on a character array). |

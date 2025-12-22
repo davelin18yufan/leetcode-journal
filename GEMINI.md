@@ -32,7 +32,7 @@ It contains two sections
    |---|---------|------------|-----------|----------------|-------------------|---------|------|
   ```
 
-* **Append new rows only** (never modify old ones unless fixing errors).
+* **Append new rows only** and make sure follow orders. (never modify old ones unless fixing errors).
 * **Date** = today’s date in `YYYY-MM-DD`.
 
 ---

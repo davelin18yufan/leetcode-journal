@@ -11,6 +11,7 @@
 - [108. Convert Sorted Array to Binary Search Tree](#array-problems)
 - [111. Minimum Depth of Binary Tree](#tree-problems)
 - [121. Best Time to Buy and Sell Stock](#array-problems)
+- [125. Valid Palindrome](#string-problems)
 - [303. Range Sum Query - Immutable](#array-problems)
 - [326. Power of Three](#math-problems)
 - [344. Reverse String](./problems/344-reverse-string.md)
