@@ -45,6 +45,7 @@
 |---|---------|------------|--------------|-------------------|-------|
 | 20 | [Valid Parentheses](./problems/20-valid-parentheses.md) | Easy | LIFO, Stack | Syntax parsing | Use a stack to track open brackets and ensure each closing bracket matches the latest open one. |
 | 125 | [Valid Palindrome](./problems/125-valid-palindrome.md) | Easy | Two Pointers | Bioinformatics & DNA Sequencing | Use two pointers moving inwards, skipping non-alphanumeric characters. |
+| 242 | [Valid Anagram](./problems/242-valid-anagram.md) | Easy | Character Frequency, One-Map | Word Puzzle & Cheat Detection | Use a single frequency map; supports Unicode. Sorting is an alternative. |
 | 387 | [First Unique Character in a String](./problems/387-first-unique-character-in-a-string.md) | Easy | Two-Pass Hash Map | Data stream analysis | O(N) time, O(1) space for alphabet |
 | 434 | [Number of Segments in a String](./problems/434-number-of-segments-in-a-string.md) | Easy | Single Pass | String | Counting cars in a freight train. |
 | 459 | [Repeated Substring Pattern](./problems/459-repeated-substring-pattern.md) | Easy | String Matching | Wallpaper Pattern Matching | O(N) trick using string concatenation. |
@@ -88,8 +89,7 @@
 | 94 | [Binary Tree Inorder Traversal](./problems/94-binary-tree-inorder-traversal.md) | Easy | Recursion, DFS | Librarian analogy for `Left -> Root -> Right`. | Standard recursive helper pattern is key. |
 | 100 | [Same Tree](./problems/100-same-tree.md) | Easy | Recursion, DFS, BFS | Comparing two company organization charts. | Classic recursive solution checking node values and structure. |
 | 111 | [Minimum Depth of Binary Tree](./problems/111-minimum-depth-of-binary-tree.md) | Easy | BFS, DFS | Finding the shortest path to a fire escape. | BFS is optimal as it finds the first leaf level by level. |
-| 104 | [Maximum Depth of Binary Tree](./problems/104-maximum-depth-of-binary-tree.md) | Easy | DFS, Recursion | Finding the highest floor in a building. | Classic bottom-up recursion: `1 + max(left, right)`. |
-| 108 | [Convert Sorted Array to Binary Search Tree](./problems/108-convert-sorted-array-to-binary-search-tree.md) | Easy | Divide and Conquer, Recursion | Creating a fair tournament bracket. | 🚧 WIP. The key is picking the middle element as the root. |
+| 226 | [Invert Binary Tree](./problems/226-invert-binary-tree.md) | Easy | Recursion, Traversal | UI Mirroring for RTL languages | Swap left/right children recursively (pre-order) or iteratively (BFS). |
 | 543 | [Diameter of Binary Tree](./problems/543-diameter-of-binary-tree.md) | Easy | DFS, Recursion | Finding the longest path in a branching structure. | A dual-purpose recursive function is the key. |
 | 993 | [Cousins in Binary Tree](./problems/993-cousins-in-binary-tree.md) | Easy | BFS, Level-Order | Genealogist analogy for same depth, different parents. | BFS is natural for level-based problems. |
 | 1530 | [Number of Good Leaf Nodes Pairs](./problems/1530-number-of-good-leaf-nodes-pairs.md) | Medium | DFS, Recursion | Finding "close" employees in an org chart. | Marked for review. Uses post-order DFS to find LCA. |
@@ -193,7 +193,8 @@
 | 1297 | [Maximum Number of Occurrences of a Substring](./problems/1297-maximum-number-of-occurrences-of-a-substring.md) | Medium | Sliding Window, Hash Table | DNA sequence analysis | The key is realizing `maxSize` is irrelevant. |
 | 1726 | [Tuple with Same Product](./problems/1726-tuple-with-same-product.md) | Medium | Hash Table, Counting | Finding hash collisions. | Use a hash map to count product frequencies. |
 | 1790 | [Check if One String Swap Can Make Strings Equal](./problems/1790-check-if-one-string-swap-can-make-strings-equal.md) | Easy | Index Tracking | Swapping books on a shelf. | Use an array to track differing indices. |
-| 1995 | [Count Special Quadruplets](./problems/1995-count-special-quadruplets.md) | Easy | O(N³) Enumeration | Finding combinations that sum to a target. | Uses a frequency map to optimize a brute-force search from O(N⁴) to O(N³). |
+| 1995 | [Count Special Quadruplets](./problems/1995-count-special-quadruplets.md) | Easy | O(N³) Enumeration | Finding combinations that sum to a target. | A good example of trading space for time (O(N) space for O(N³) time). |
+| 242 | [Valid Anagram](./problems/242-valid-anagram.md) | Easy | Character Frequency, One-Map | Word Puzzle & Cheat Detection | Use a single frequency map; supports Unicode. Sorting is an alternative. |
 | 2325 | [Decode the Message](./problems/2325-decode-the-message.md) | Easy | Substitution Cipher | Secret Decoder Ring | Build a map from key, then decode message. |
 | 2423 | [Remove Letter To Equalize Frequency](./problems/2423-remove-letter-to-equalize-frequency.md) | Easy | Frequency Counting, Simulation | Inventory Balancing | Simulate removing each char and check frequencies using a hash table. |
 | 2516 | [Take K of Each Character From Left and Right](./problems/2516-take-k-of-each-character-from-left-and-right.md) | Medium | Sliding Window, Counting | Resource gathering from ends | Use a hash table to count characters in the sliding window. |
