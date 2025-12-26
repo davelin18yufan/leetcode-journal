@@ -98,4 +98,5 @@ This file tracks the completion status of all problems. They are divided into th
 | 1968 | [Array With Elements Not Equal to Average of Neighbors](./problems/1968-array-with-elements-not-equal-to-average-of-neighbors.md) | Medium     | Greedy, Sorting   | Array          | Building a "peak-and-valley" mountain range.      | 🚧 (TODO)   | 2025-11-01 |
 | 1995 | [Count Special Quadruplets](./problems/1995-count-special-quadruplets.md)                                  | Easy       | Hash Table, Enumeration | Array, Hash Table | Counting combinations for a target sum.                                                 | 🤔     | 2025-09-11 |
 | 2012 | [Sum of Beauty in the Array](./problems/2012-sum-of-beauty-in-the-array.md) | Medium | Prefix Sum, Array | Array | Analyzing a mountain range profile. | 🤔 | 2025-10-16 |
+| 704 | [Binary Search](./problems/704-binary-search.md) | Easy | Binary Search | Array | Database Index Lookup | 🤔 (Incomplete) | 2025-12-26 |
 

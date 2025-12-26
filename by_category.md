@@ -23,6 +23,7 @@
 | 1 | [Two Sum](./problems/1-two-sum.md) | Easy | One-pass Hash Map | Budgeting/Financial Reconciliation | Use a hash map to store numbers and their indices for O(1) lookups. |
 | 121 | [Best Time to Buy and Sell Stock](./problems/121-best-time-to-buy-and-sell-stock.md) | Easy | Greedy, Sliding Window | Dynamic Pricing Monitor | Use a one-pass greedy strategy to track the minimum price seen so far and calculate max profit. |
 | 303 | [Range Sum Query - Immutable](./problems/303-range-sum-query-immutable.md) | Easy | Prefix Sum, O(1) Query | Road trip mileage log | Pre-computation for fast queries. |
+| 704 | [Binary Search](./problems/704-binary-search.md) | Easy | Binary Search | Database Index Lookup | Marked as incomplete for review. The standard template is preferred. |
 | 825 | [Friends Of Appropriate Ages](./problems/825-friends-of-appropriate-ages.md) | Medium | Two Pointers, Sorting | Analyzing demographics at a large convention. | O(N) solution using age counting. |
 | 908 | [Smallest Range I](./problems/908-smallest-range-i.md) | Easy | Math | Adjusting building temperatures | The key is to only consider the min and max values. |
 | 1706 | [Where Will the Ball Fall](./problems/1706-where-will-the-ball-fall.md) | Medium | Direct Simulation | Pachinko machine simulation | Clean simulation is key. |
@@ -145,6 +146,7 @@
 
 | # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
 |---|---------|------------|--------------|-------------------|-------|
+| 704 | [Binary Search](./problems/704-binary-search.md) | Easy | Binary Search | Database Index Lookup | Marked as incomplete for review. The standard template is preferred. |
 | 1337 | [The K Weakest Rows in a Matrix](./problems/1337-the-k-weakest-rows-in-a-matrix.md) | Easy | Sorting, Tie-breaking | Ranking teams in a tournament. | O(M log N + M log M) solution using binary search for counting and then sorting. |
 
 ### Two Pointers Problems

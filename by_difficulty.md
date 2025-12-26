@@ -22,6 +22,7 @@
 - [459. Repeated Substring Pattern](#string-problems)
 - [543. Diameter of Binary Tree](./problems/543-diameter-of-binary-tree.md)
 - [561. Array Partition](#array-problems)
+- [704. Binary Search](#array-problems)
 - [724. Find Pivot Index](#array-problems)
 - [728. Self Dividing Numbers](./problems/728-self-dividing-numbers.md)
 - [867. Transpose Matrix](#array-problems)
