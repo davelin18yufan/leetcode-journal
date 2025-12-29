@@ -25,6 +25,7 @@
 - [704. Binary Search](#array-problems)
 - [724. Find Pivot Index](#array-problems)
 - [728. Self Dividing Numbers](./problems/728-self-dividing-numbers.md)
+- [733. Flood Fill](#graph-problems)
 - [867. Transpose Matrix](#array-problems)
 - [908. Smallest Range I](#array-problems)
 - [941. Valid Mountain Array](#array-problems)

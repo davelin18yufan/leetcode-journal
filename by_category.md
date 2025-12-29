@@ -24,6 +24,7 @@
 | 121 | [Best Time to Buy and Sell Stock](./problems/121-best-time-to-buy-and-sell-stock.md) | Easy | Greedy, Sliding Window | Dynamic Pricing Monitor | Use a one-pass greedy strategy to track the minimum price seen so far and calculate max profit. |
 | 303 | [Range Sum Query - Immutable](./problems/303-range-sum-query-immutable.md) | Easy | Prefix Sum, O(1) Query | Road trip mileage log | Pre-computation for fast queries. |
 | 704 | [Binary Search](./problems/704-binary-search.md) | Easy | Binary Search | Database Index Lookup | Marked as incomplete for review. The standard template is preferred. |
+| 733 | [Flood Fill](./problems/733-flood-fill.md) | Easy | DFS, BFS | Image Processing (Paint Bucket) | Traversal on a 2D array (matrix). Marked as incomplete. |
 | 825 | [Friends Of Appropriate Ages](./problems/825-friends-of-appropriate-ages.md) | Medium | Two Pointers, Sorting | Analyzing demographics at a large convention. | O(N) solution using age counting. |
 | 908 | [Smallest Range I](./problems/908-smallest-range-i.md) | Easy | Math | Adjusting building temperatures | The key is to only consider the min and max values. |
 | 1706 | [Where Will the Ball Fall](./problems/1706-where-will-the-ball-fall.md) | Medium | Direct Simulation | Pachinko machine simulation | Clean simulation is key. |
@@ -99,6 +100,7 @@
 
 | # | Problem | Difficulty | Key Concepts | Real-world Scenario | Notes |
 |---|---------|------------|--------------|-------------------|-------|
+| 733 | [Flood Fill](./problems/733-flood-fill.md) | Easy | DFS, BFS | Image Processing (Paint Bucket) | A classic graph traversal problem on a grid. Marked as incomplete. |
 | 785 | [Is Graph Bipartite?](./problems/785-is-graph-bipartite.md) | Medium | DFS, BFS, Union Find | Scheduling conflicting meetings. | Classic graph coloring problem. |
 
 ### Math Problems
