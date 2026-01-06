@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/davelin18yufan/leetcode-journal/issues"
   },
-  "homepage": "https://github.com/davelin18yufan/leetcode-journal#readme",
-  "devDependencies": {
-    "@google/gemini-cli": "^0.20.2"
-  }
+  "homepage": "https://github.com/davelin18yufan/leetcode-journal#readme"
 }
