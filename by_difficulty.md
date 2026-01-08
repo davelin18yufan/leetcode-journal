@@ -68,6 +68,7 @@
 - [3684. Maximize Sum of At Most K Distinct Elements](#array-problems)
 
 ### Medium Problems
+- [235. Lowest Common Ancestor of a Binary Search Tree](#tree-problems)
 - [785. Is Graph Bipartite?](./problems/785-is-graph-bipartite.md)
 - [825. Friends Of Appropriate Ages](./problems/825-friends-of-appropriate-ages.md)
 - [1297. Maximum Number of Occurrences of a Substring](#hash-table-problems)

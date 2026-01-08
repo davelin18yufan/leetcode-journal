@@ -78,6 +78,7 @@ This file tracks the completion status of all problems. They are divided into th
 | 2710 | [Remove Trailing Zeros From a String](./problems/2710-remove-trailing-zeros-from-a-string.md)                       | Easy       | String Manipulation      | String            | Trimming loose threads from fabric.                                                           | ✅     | 2025-12-08 |
 | 1797 | [Design Authentication Manager](./problems/1797-design-authentication-manager.md) | Medium | Hash Table, Design | Hash Table | Event pass management | ✅ | 2025-12-08 |
 | 2423 | [Remove Letter To Equalize Frequency](./problems/2423-remove-letter-to-equalize-frequency.md) | Easy | Counting, Simulation | Hash Table, String | Inventory Balancing | ✅ | 2025-12-09 |
+| 235  | [Lowest Common Ancestor of a Binary Search Tree](./problems/235-lowest-common-ancestor-of-a-binary-search-tree.md) | Medium     | DFS, BST                 | Tree              | Corporate Hierarchy                                                                   | ✅     | 2026-01-08 |
 
 ---
 

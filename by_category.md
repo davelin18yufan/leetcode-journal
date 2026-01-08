@@ -92,6 +92,7 @@
 | 100 | [Same Tree](./problems/100-same-tree.md) | Easy | Recursion, DFS, BFS | Comparing two company organization charts. | Classic recursive solution checking node values and structure. |
 | 111 | [Minimum Depth of Binary Tree](./problems/111-minimum-depth-of-binary-tree.md) | Easy | BFS, DFS | Finding the shortest path to a fire escape. | BFS is optimal as it finds the first leaf level by level. |
 | 226 | [Invert Binary Tree](./problems/226-invert-binary-tree.md) | Easy | Recursion, Traversal | UI Mirroring for RTL languages | Swap left/right children recursively (pre-order) or iteratively (BFS). |
+| 235 | [Lowest Common Ancestor of a Binary Search Tree](./problems/235-lowest-common-ancestor-of-a-binary-search-tree.md) | Medium | BST Properties, Split Point | Finding common manager | Use iterative approach for O(1) space. |
 | 543 | [Diameter of Binary Tree](./problems/543-diameter-of-binary-tree.md) | Easy | DFS, Recursion | Finding the longest path in a branching structure. | A dual-purpose recursive function is the key. |
 | 993 | [Cousins in Binary Tree](./problems/993-cousins-in-binary-tree.md) | Easy | BFS, Level-Order | Genealogist analogy for same depth, different parents. | BFS is natural for level-based problems. |
 | 1530 | [Number of Good Leaf Nodes Pairs](./problems/1530-number-of-good-leaf-nodes-pairs.md) | Medium | DFS, Recursion | Finding "close" employees in an org chart. | Marked for review. Uses post-order DFS to find LCA. |
