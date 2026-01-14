@@ -90,6 +90,7 @@
 |---|---|---|---|---|---|
 | 94 | [Binary Tree Inorder Traversal](./problems/94-binary-tree-inorder-traversal.md) | Easy | Recursion, DFS | Librarian analogy for `Left -> Root -> Right`. | Standard recursive helper pattern is key. |
 | 100 | [Same Tree](./problems/100-same-tree.md) | Easy | Recursion, DFS, BFS | Comparing two company organization charts. | Classic recursive solution checking node values and structure. |
+| 110 | [Balanced Binary Tree](./problems/110-balanced-binary-tree.md) | Easy | Depth-First Search | Database Index Rebalancing | Bottom-up DFS approach to check balance and height in one pass. |
 | 111 | [Minimum Depth of Binary Tree](./problems/111-minimum-depth-of-binary-tree.md) | Easy | BFS, DFS | Finding the shortest path to a fire escape. | BFS is optimal as it finds the first leaf level by level. |
 | 226 | [Invert Binary Tree](./problems/226-invert-binary-tree.md) | Easy | Recursion, Traversal | UI Mirroring for RTL languages | Swap left/right children recursively (pre-order) or iteratively (BFS). |
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](./problems/235-lowest-common-ancestor-of-a-binary-search-tree.md) | Medium | BST Properties, Split Point | Finding common manager | Use iterative approach for O(1) space. |

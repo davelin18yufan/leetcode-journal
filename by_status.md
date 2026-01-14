@@ -79,6 +79,7 @@ This file tracks the completion status of all problems. They are divided into th
 | 1797 | [Design Authentication Manager](./problems/1797-design-authentication-manager.md) | Medium | Hash Table, Design | Hash Table | Event pass management | ✅ | 2025-12-08 |
 | 2423 | [Remove Letter To Equalize Frequency](./problems/2423-remove-letter-to-equalize-frequency.md) | Easy | Counting, Simulation | Hash Table, String | Inventory Balancing | ✅ | 2025-12-09 |
 | 235  | [Lowest Common Ancestor of a Binary Search Tree](./problems/235-lowest-common-ancestor-of-a-binary-search-tree.md) | Medium     | DFS, BST                 | Tree              | Corporate Hierarchy                                                                   | ✅     | 2026-01-08 |
+| 110 | [Balanced Binary Tree](./problems/110-balanced-binary-tree.md) | Easy | Depth-First Search | Tree, Binary Tree | Database Index Rebalancing | ✅ | 2026-01-14 |
 
 ---
 

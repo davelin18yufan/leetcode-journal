@@ -9,6 +9,7 @@
 - [100. Same Tree](#tree-problems)
 - [104. Maximum Depth of Binary Tree](#tree-problems)
 - [108. Convert Sorted Array to Binary Search Tree](#array-problems)
+- [110. Balanced Binary Tree](#tree-problems)
 - [111. Minimum Depth of Binary Tree](#tree-problems)
 - [121. Best Time to Buy and Sell Stock](#array-problems)
 - [125. Valid Palindrome](#string-problems)
